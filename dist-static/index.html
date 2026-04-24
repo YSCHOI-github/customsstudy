@@ -1,0 +1,119 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>관세사 2차 마인드맵</title>
+  <style>
+    * { box-sizing: border-box; margin: 0; padding: 0; }
+    body {
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+      background: #0f172a;
+      color: #e2e8f0;
+      min-height: 100vh;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      justify-content: center;
+      gap: 2rem;
+      padding: 2rem;
+    }
+    h1 {
+      font-size: 1.8rem;
+      font-weight: 700;
+      color: #f1f5f9;
+      letter-spacing: -0.02em;
+    }
+    p { color: #94a3b8; font-size: 0.95rem; }
+    .cards {
+      display: flex;
+      gap: 1.5rem;
+      flex-wrap: wrap;
+      justify-content: center;
+    }
+    .card {
+      display: flex;
+      flex-direction: column;
+      gap: 0.75rem;
+      background: #1e293b;
+      border: 1px solid #334155;
+      border-radius: 1rem;
+      padding: 2rem;
+      width: 260px;
+      text-decoration: none;
+      transition: transform 0.15s, border-color 0.15s;
+    }
+    .card:hover {
+      transform: translateY(-4px);
+      border-color: #60a5fa;
+    }
+    .card .badge {
+      font-size: 0.75rem;
+      font-weight: 600;
+      letter-spacing: 0.05em;
+      text-transform: uppercase;
+      padding: 0.2rem 0.6rem;
+      border-radius: 999px;
+      width: fit-content;
+    }
+    .card.관세평가 .badge { background: #dc2626; color: #fff; }
+    .card.무역실무 .badge { background: #2563eb; color: #fff; }
+    .card h2 { font-size: 1.2rem; color: #f1f5f9; }
+    .card p { font-size: 0.85rem; color: #94a3b8; line-height: 1.5; }
+    .legend {
+      display: flex;
+      gap: 1.5rem;
+      flex-wrap: wrap;
+      justify-content: center;
+    }
+    .legend-item {
+      display: flex;
+      align-items: center;
+      gap: 0.4rem;
+      font-size: 0.8rem;
+      color: #94a3b8;
+    }
+    .dot {
+      width: 10px; height: 10px;
+      border-radius: 50%;
+    }
+    footer { color: #475569; font-size: 0.78rem; }
+  </style>
+</head>
+<body>
+  <div>
+    <h1>관세사 2차 마인드맵</h1>
+    <p style="text-align:center; margin-top:0.5rem;">과목을 선택하세요</p>
+  </div>
+
+  <div class="cards">
+    <a href="관세평가/" class="card 관세평가">
+      <span class="badge">관세평가</span>
+      <h2>관세평가 핵심 판단절차도</h2>
+      <p>제1방법(거래가격) 중심의 과세가격 결정 절차와 6가지 평가방법 전체</p>
+    </a>
+    <a href="무역실무/" class="card 무역실무">
+      <span class="badge">무역실무</span>
+      <h2>무역실무 마인드맵</h2>
+      <p>CISG · Incoterms 2020 · UCP 600 · 운송 · 보험 · 분쟁해결 전체</p>
+    </a>
+  </div>
+
+  <div class="legend">
+    <div class="legend-item">
+      <div class="dot" style="background:#e74c3c"></div>
+      <span>★★★ 최우선 (매년 필출)</span>
+    </div>
+    <div class="legend-item">
+      <div class="dot" style="background:#e67e22"></div>
+      <span>★★★ 고빈출</span>
+    </div>
+    <div class="legend-item">
+      <div class="dot" style="background:#d4ac0d"></div>
+      <span>★★ 중요</span>
+    </div>
+  </div>
+
+  <footer>관세사 2차 시험 대비 · 마인드맵 스터디</footer>
+</body>
+</html>
