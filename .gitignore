@@ -1,0 +1,6 @@
+.obsidian/
+.tmp.driveupload/
+.venv/
+.claude/
+dist/
+node_modules/

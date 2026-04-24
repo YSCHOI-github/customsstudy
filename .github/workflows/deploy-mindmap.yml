@@ -1,0 +1,30 @@
+name: Deploy Mindmap to GitHub Pages
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - '01_관세평가/50_핵심요약/00_관세평가마인드맵초안.md'
+      - '.github/workflows/deploy-mindmap.yml'
+  workflow_dispatch:
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+      - name: Convert MD to mindmap HTML
+        run: |
+          mkdir -p dist
+          npx markmap-cli "01_관세평가/50_핵심요약/00_관세평가마인드맵초안.md" -o dist/index.html
+      - name: Deploy to gh-pages
+        uses: peaceiris/actions-gh-pages@v3
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: ./dist
+          publish_branch: gh-pages
