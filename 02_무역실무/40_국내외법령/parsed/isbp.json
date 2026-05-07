@@ -1,0 +1,1168 @@
+{
+  "ISBP 745": {
+    "type": "treaty",
+    "source_pdf": "isbp-745.pdf",
+    "data": [
+      {
+        "key": "A1",
+        "content": "A1) Generally accepted abbreviations, such as, but not limited to, \"Int'l\" instead of \"International\", \"Co.\"\ninstead of \"Company\", \"kgs\" or \"kos\" instead of \"kilograms\" or \"kilos\", \"Ind.\" instead of \"Industry\", \"Ltd\"\ninstead of \"Limited\", \"mfr\" instead of \"manufacturer\" or \"mt\" instead of \"metric tons\" may be used in\ndocuments in substitution for a word or vice versa. A credit that includes an abbreviation in its text allows\na document to show the same abbreviation or any other abbreviation that has the same meaning, or to\nshow the complete spelling of the word or vice versa."
+      },
+      {
+        "key": "A10",
+        "content": "A10) When a credit requires the presentation of a document as evidence of sending documents, notices\nand the like to a named or described entity, in the form of a courier receipt, post receipt or certificate of\nposting, such document is to be examined only to the extent expressly stated in the credit, otherwise\naccording to UCP600 sub-article 14 (f) and not under UCP600 article 25.\nDates\n4"
+      },
+      {
+        "key": "A11",
+        "content": "A11) a. Even when a credit does not expressly so require:\ni. drafts are to indicate a date of issuance;\nii. insurance documents are to indicate a date of issuance or effectiveness of the insurance coverage\nas reflected in paragraphs K10) (b) and K11); and\niii. original transport documents, subject to examination under UCP 600 articles 19-25, are to indicate\na date of issuance, a dated on board notation, a date of shipment, a date of receipt for shipment, a\ndate of dispatch or carriage, a date of taking in charge or a date of pick up or receipt, as applicable.\nb. A requirement that a document, other than a draft, insurance document or original transport\ndocument, be dated will be satisfied by the indication of a date of issuance or by reference in the\ndocument to the date of another document forming part of the same presentation (for example, by the\nwording \"date as per bill of lading number xxx\" appearing on a certificate issued by a carrier or its agent)\nor a date appearing on a stipulated document indicating the occurrence of an event (for example, by the\ndate of inspection being indicated on an inspection certificate that otherwise does not contain a date of\nissuance)."
+      },
+      {
+        "key": "A12",
+        "content": "A12) a. A document, such as, but not limited to, a certificate of analysis, inspection certificate or\nfumigation certificate, may indicate a date of issuance later than the date of shipment.\nb. When a credit requires a document to evidence a pre-shipment event (for example, \"pre-shipment\ninspection certificate\"), the document, either by its title, content or date of issuance, is to indicate that\nthe event (for example, inspection) took place on or prior to the date of shipment.\nc. When a credit requires a document, such as, but not limited to, an \"inspection certificate\", this does\nnot constitute a requirement that the document is to evidence a pre-shipment event, and it need not\nbe dated prior to the date of shipment."
+      },
+      {
+        "key": "A13",
+        "content": "A13) A document indicating a date of issuance and a later date of signing is deemed to have been issued\non the date of signing."
+      },
+      {
+        "key": "A14",
+        "content": "A14) a. When a credit uses phrases to signify time on either side of a date or an event, the following shall\napply:\ni. \"not later than 2 days after (date or event)\" means a latest date. If an advice or document is not to\nbe dated prior to a specified date or event, the credit should so state.\nii. \"at least 2 days before (date or event)\" means that an act or event is to take place not later than 2\ndays before that date or event. There is no limit as to how early it may take place.\nb. i. For the purpose of calculation of a period of time, the term \"within\" when used in connection with\na date or event excludes that date or the event date in the calculation of the period. For example,\n\"within 2 days of (date or event)\" means a period of 5 days commencing 2 days prior to that date or\nevent until 2 days after that date or event.\nii. The term \"within\" when followed by a date or a reference to a determinable date or event includes\nthat date or event date. For example, \"presentation to be made within 14 May\" or \"presentation is\nto be made within credit validity (or credit expiry)\" where the expiry date of the credit is 14 May,\nmeans 14 May is the last day upon which presentation is allowed, provided that 14 May is a banking\nday."
+      },
+      {
+        "key": "A15",
+        "content": "A15) The words \"from\" and \"after\" when used to determine a maturity date or period for presentation\nfollowing the date of shipment, the date of an event or the date of a document, exclude that date in the\n5\ncalculation of the period. For example, 10 days after the date of shipment or 10 days from the date of\nshipment, where the date of shipment was 4 May, will be 14 May."
+      },
+      {
+        "key": "A16",
+        "content": "A16) Provided that the date intended can be determined from the document or from other documents\nincluded in the presentation, dates may be expressed in any format. For example, the 14th of May 2013\ncould be expressed as 14 May 13, 14.05.2013, 14.05.13, 2013.05.14, 05.14.13, 130514, etc. To avoid any\nrisk of ambiguity, it is recommended that the month be stated in words.\nDocuments and the need for completion of a box, field or space"
+      },
+      {
+        "key": "A17",
+        "content": "A17) The fact that a document has a box, field or space for data to be inserted does not necessarily mean\nthat such box, field or space is to be completed. For example, data are not required in the box titled\n\"Accounting Information\" or \"Handling Information\" commonly found on an air waybill. Also see\nparagraph A37) in respect of the requirements for a signature to appear in any box, field or space.\nDocuments for which the UCP 600 transport articles do not apply"
+      },
+      {
+        "key": "A18",
+        "content": "A18) a. Documents commonly used in relation to the transportation of goods, such as but not limited to,\nDelivery Note, Delivery Order, Cargo Receipt, Forwarder's Certificate of Receipt, Forwarder's Certificate\nof Shipment, Forwarder's Certificate of Transport, Forwarder's Cargo Receipt and Mate's Receipt are not\ntransport documents as defined in UCP 600 articles 19-25. These documents are to be examined only to\nthe extent expressly stated in the credit, otherwise according to UCP 600 sub-article 14 (f).\nb. i. For documents referred to in paragraph A18)(a), a condition of a credit that presentation is to\noccur within a certain number of days after the date of shipment will be disregarded, and presentation\nmay be made at any time, but in any event no later than the expiry date of the credit.\nii. The default presentation period of 21 calendar days stated in UCP 600 sub-article 14 (c) only\napplies to a presentation including one or more original transport documents covered by UCP 600\narticles 19-25.\nc. For a presentation period to apply to a document referred to in paragraph A18) (a), the credit should\nspecify that presentation is to be made within a certain number of days after the issuance date of the\nrespective document, or a date that is to be mentioned in the document (for example, when a credit\nrequires the presentation of a document titled cargo receipt, \"documents to be presented no later\nthan 10 days after the date of the cargo receipt\").\nExpressions not defined in UCP600"
+      },
+      {
+        "key": "A19",
+        "content": "A19) The expressions \"shipping documents\", \"stale documents acceptable\", \"third party documents\nacceptable\", \"third party documents not acceptable\", \"exporting country\", \"shipping company\" and\n\"documents acceptable as presented\" should not be used in a credit, as they are not defined in UCP 600.\nIf, nevertheless, they are used, and their meaning is not defined in the credit, they shall have the following\nmeaning under international standard banking practice:\na. \"shipping documents\" - all documents required by the credit, except drafts, teletransmission reports\nand courier receipts, postal receipts or certificates of posting evidencing the sending of documents.\nb. \"stale documents acceptable\" - documents may be presented later than 21 calendar days after the\ndate of shipment as long as they are presented no later than the expiry date of the credit. This will also\napply when the credit specifies a period for presentation together with the condition \"stale documents\nacceptable\".\nc. \"third party documents acceptable\" - all documents for which the credit or UCP 600 do not indicate\nan issuer, except drafts, may be issued by a named person or entity other than the beneficiary.\n6\nd. \"third party documents not acceptable\" - has no meaning and is to be disregarded.\ne. \"exporting country\" - one of the following: the country where the beneficiary is domiciled, the\ncountry of origin of the goods, the country of receipt by the carrier or the country from which shipment\nor dispatch is made.\nf. \"shipping company\" - when used in the context of the issuer of a certificate, certification or\ndeclaration relating to a transport document - any one of the following: carrier, master or, when a\ncharter party bill of lading is presented, the master, owner or charterer, or any entity identified as an\nagent of any one of the aforementioned, regardless of whether it issued or signed the presented\ntransport document.\ng. \"documents acceptable as presented\" - a presentation may consist of one or more of the stipulated\ndocuments provided they are presented within the expiry date of the credit and the drawing amount\nis within that which is available under the credit. The documents will not otherwise be examined for\ncompliance under the credit or UCP 600, including whether they are presented in the required number\nof originals or copies.\nIssuer of documents"
+      },
+      {
+        "key": "A2",
+        "content": "A2) a. Virgules (i.e., slash marks \"/\") may result in different meanings and should not be used as a\nsubstitute for a word. If, nevertheless, a virgule is used and no context is apparent, this will allow the use\nof one or more of the options. For example, a condition in a credit stating \"Red/Black/Blue\" with no\nfurther clarification will mean only Red or only Black or only Blue or any combination of them.\nb. The use of a comma when indicating a range of data in a credit such as ports of loading or discharge\nor countries of origin, may result in different meanings and should not be used as a substitute for a\nword. If, nevertheless, a comma is used and no context is apparent, this will allow the use of one or\nmore of the options. For example, when a credit allows partial shipment and indicates the port of\nloading information as \"Hamburg, Rotterdam, Antwerp\" with no further clarification, this will mean\nonly Hamburg or only Rotterdam or only Antwerp or any combination of them.\nCertificates, Certifications, Declarations and Statements"
+      },
+      {
+        "key": "A20",
+        "content": "A20) When a credit requires a document to be issued by a named person or entity, this condition is\nsatisfied when the document appears to be issued by the named person or entity by use of its letterhead,\nor when there is no letterhead, when the document appears to have been completed or signed by, or for\n[or on behalf of], the named person or entity.\nLanguage"
+      },
+      {
+        "key": "A21",
+        "content": "A21) a. When a credit stipulates the language of the documents to be presented, the data required by the\ncredit or UCP 600 are to be in that language.\nb. When a credit is silent with respect to the language of the documents to be presented, the\ndocuments may be issued in any language.\nc. i. When a credit allows two or more acceptable languages, a confirming bank or a nominated bank\nacting on its nomination may restrict the number of acceptable languages as a condition of its\nengagement in the credit, and in such a case the data contained in the documents are only to be in the\nacceptable language or languages.\nii. When a credit allows a document to contain data in two or more acceptable languages and a\nconfirming bank or a nominated bank acting on its nomination does not restrict the language or the\nnumber of acceptable languages as a condition of its engagement in the credit, it is required to\nexamine the data in all of the acceptable languages appearing in the documents.\nd. Banks do not examine data that have been inserted in a language that is additional to that required\nor allowed in the credit.\ne. Notwithstanding paragraphs A21) (a) and (d), the name of a person or entity, any stamps,\nlegalization, endorsements or similar, and the pre-printed text shown on a document, such as, but not\nlimited to, field headings, may be in a language other than that required in the credit.\nMathematical calculations"
+      },
+      {
+        "key": "A22",
+        "content": "A22) When the presented documents indicate mathematical calculations, banks only determine that the\nstated total in respect of criteria such as amount, quantity, weight or number of packages, does not\nconflict with the credit or any other stipulated document.\n7\nMisspellings or typing errors"
+      },
+      {
+        "key": "A23",
+        "content": "A23) A misspelling or typing error that does not affect the meaning of a word or the sentence in which it\noccurs does not make a document discrepant. For example, a description of the goods shown as\n\"mashine\" instead of \"machine\", \"fountan pen\" instead of \"fountain pen\" or \"modle\" instead of \"model\"\nwould not be regarded as a conflict of data under UCP 600 sub-article 14 (d). However, a description\nshown as, for example, \"model 123\" instead of \"model 321\" will be regarded as a conflict of data under\nthat sub-article.\nMultiple pages and attachments or riders"
+      },
+      {
+        "key": "A24",
+        "content": "A24) When a document consists of more than one page, it must be possible to determine that the pages\nare part of the same document. Unless a document provides otherwise, pages which are physically bound\ntogether, sequentially numbered or contain internal cross references, however named or titled, will meet\nthis requirement and are to be examined as one document, even if some of the pages are regarded as an\nattachment or rider."
+      },
+      {
+        "key": "A25",
+        "content": "A25) When a signature or endorsement is required to be on a document consisting of more than one\npage, and the credit or the document itself does not indicate where a signature or endorsement is to\nappear, the signature or endorsement may appear anywhere on that document.\nNon - documentary conditions and conflict of data"
+      },
+      {
+        "key": "A26",
+        "content": "A26) When a credit contains a condition without stipulating a document to indicate compliance therewith\n(\"non-documentary condition\"), compliance with such condition need not be evidenced on any stipulated\ndocument. However, data contained in a stipulated document are not to be in conflict with the non-\ndocumentary condition. For example, when a credit indicates \"packing in wooden cases\" without\nindicating that such data is to appear on any stipulated document, a statement in any stipulated document\nindicating a different type of packing is considered to be a conflict of data.\nOriginals and copies"
+      },
+      {
+        "key": "A27",
+        "content": "A27) A document bearing an apparently original signature, mark, stamp or label of the issuer will be\nconsidered to be an original unless it states that it is a copy. Banks do not determine whether such a\nsignature, mark, stamp or label of the issuer has been applied in a manual or facsimile form and, as such,\nany document bearing such method of authentication will satisfy the requirements of UCP 600 article 17."
+      },
+      {
+        "key": "A28",
+        "content": "A28) Documents issued in more than one original may be marked \"Original\",\"Duplicate\", \"Triplicate\",\n\"First Original\", \"Second Original\", etc. None of these markings will disqualify a document as an original."
+      },
+      {
+        "key": "A29",
+        "content": "A29) a. The number of originals to be presented is to be at least the number required by the credit or UCP\n600.\nb. When a transport document or insurance document indicates how many originals have been issued,\nthe number of originals stated on the document is to be presented, except as stated in paragraphs"
+      },
+      {
+        "key": "A3",
+        "content": "A3) When a certificate, certification, declaration or statement is required by a credit, it is to be signed."
+      },
+      {
+        "key": "A30",
+        "content": "A30) a. When a credit prohibits the presentation of an original document by stating, for example,\n\"photocopy of invoice - original document not acceptable in lieu of photocopy\" or the like, only a\nphotocopy of an invoice or an invoice marked copy is to be presented.\nb. When a credit requires the presentation of a copy of a transport document and indicates a disposal\ninstruction for all originals of that document, a presentation is not to include any original of such"
+      },
+      {
+        "key": "A31",
+        "content": "A31) a. Original documents are to be signed when required by the credit, the document itself (except as\nstated in paragraph A37)) or UCP 600.\nb. Copies of documents need not be signed nor dated.\nShipping marks"
+      },
+      {
+        "key": "A32",
+        "content": "A32) When a credit specifies the details of a shipping mark, documents mentioning the shipping mark are\nto show those details. The data in a shipping mark indicated on a document need not be in the same\nsequence as those shown in the credit or in any other stipulated document."
+      },
+      {
+        "key": "A33",
+        "content": "A33) A shipping mark indicated on a document may show data in excess of what would normally be\nconsidered a \"shipping mark\", or which is specified in the credit as a \"shipping mark\", by the addition of\ninformation such as, but not limited to, the type of goods, warnings concerning the handling of fragile\ngoods or net and gross weight of the goods."
+      },
+      {
+        "key": "A34",
+        "content": "A34) a. Transport documents covering containerized goods often only show a container number, with or\nwithout a seal number, under the heading \"Shipping mark\" or similar. Other documents that show a more\ndetailed marking will not be in conflict for that reason.\nb. The fact that some documents show additional information as mentioned in paragraphs A33) and"
+      },
+      {
+        "key": "A35",
+        "content": "A35) a. A signature, as referred to in paragraph A31)(a), need not be handwritten. Documents may also\nbe signed with a facsimile signature (for example, a pre-printed or scanned signature), perforated\nsignature, stamp, symbol (for example, a chop) or any mechanical or electronic method of authentication.\nb. A requirement for a document to be \"signed and stamped\" or a similar requirement is satisfied by a\nsignature in the form described in paragraph A35) (a) and the name of the signing entity typed,\nstamped, handwritten, pre-printed or scanned on the document, etc.\nc. A statement on a document such as \"This document has been electronically authenticated\" or \"This\ndocument has been produced by electronic means and requires no signature\" or words of similar effect\ndoes not, by itself, represent an electronic method of authentication in accordance with the signature\nrequirements of UCP 600 article 3.\n9\nd. A statement on a document indicating that authentication may be verified or obtained through a\nspecific reference to a website (URL) constitutes a form of electronic method of authentication in\naccordance with the signature requirements of UCP 600 article 3. Banks will not access such websites\nto verify or obtain authentication."
+      },
+      {
+        "key": "A36",
+        "content": "A36) a. A signature on the letterhead paper of a named person or entity is considered to be the signature\nof that named person or entity unless otherwise stated. The named person or entity need not be repeated\nnext to the signature.\nb. When a signatory indicates it is signing for [or on behalf of] a branch of the issuer, the signature will\nbe considered to be that of the issuer."
+      },
+      {
+        "key": "A37",
+        "content": "A37) The fact that a document has a box, field or space for a signature does not in itself mean that such\nbox, field or space is to be completed with a signature. For example, a signature is not required in the\nspace titled \"Signature of shipper or their agent\" commonly found on an air waybill or \"Signature of\nshipper\" on a road transport document. Also see paragraph A17) in respect of the requirements for data\nto appear in a box, field or space."
+      },
+      {
+        "key": "A38",
+        "content": "A38) When a document includes wording such as \"This document is not valid unless countersigned [or\nsigned] by (name of the person or entity)\" or words of similar effect, the applicable box, field or space is\nto contain a signature and the name of the person or entity that is countersigning the document.\nTitle of documents and combined documents"
+      },
+      {
+        "key": "A39",
+        "content": "A39) Documents may be titled as called for in the credit, bear a similar title or be untitled. The content of\na document must appear to fulfil the function of the required document. For example, a requirement for\na \"Packing List\" will be satisfied by a document containing packing details whether it is titled \"Packing\nList\", \"Packing Note\", \"Packing and Weight List\", etc., or bears no title."
+      },
+      {
+        "key": "A4",
+        "content": "A4) Whether a certificate, certification, declaration or statement needs to be dated will depend on the\ntype of certificate, certification, declaration or statement that has been requested, its required wording\nand the wording that appears within the document.\nFor example, when a credit requires the presentation of a certificate issued by the carrier or its agent\nstating that the vessel is no more than 25 years old, the certificate may evidence compliance by indicating:\na. the date or year the vessel was built, and such date or year is no more than 25 years prior to the\ndate of shipment or the year in which shipment was effected, in which case a date of issuance is not\nnecessary, or\nb. the wording as stated in the credit, in which case a date of issuance is required, thereby certifying\nthat as of that date the vessel was not more than 25 years old."
+      },
+      {
+        "key": "A40",
+        "content": "A40) Documents required by a credit are to be presented as separate documents. However, and as an\nexample, a requirement for an original packing list and an original weight list will also be satisfied by the\npresentation of two original combined packing and weight lists, provided that such documents state both\npacking and weight details."
+      },
+      {
+        "key": "A41",
+        "content": "A41) A document required by a credit that is to cover more than one function may be presented as a\nsingle document or separate documents that appear to fulfil each function. For example, a requirement\nfor a Certificate of Quality and Quantity will be satisfied by the presentation of a single document or by a\nseparate Certificate of Quality and Certificate of Quantity provided that each document appears to fulfil\nits function and is presented in the number of originals and copies as required by the credit.\n2. DRAFTS AND CALCULATION OF MATURITY DATE\nISBP- Paragraph B1 to B18\nBasic requirement"
+      },
+      {
+        "key": "A5",
+        "content": "A5) When a certification, declaration or statement is to appear in a document which is to be signed and\ndated, it does not require a separate signature or date when the certification, declaration or statement\nappears to have been given by the same entity that issued and signed the document.\nCopies of transport documents covered by UCP600 articles 19-25"
+      },
+      {
+        "key": "A6",
+        "content": "A6) a. When a credit requires the presentation of a copy of a transport document covered by UCP600\narticles 19-25, the relevant article is not applicable, as these articles only apply to original transport\ndocuments. A copy of a transport document is to be examined only to the extent expressly stated in the\ncredit, otherwise according to UCP 600 sub-article 14(f).\n3\nb. Any data shown on a copy of a transport document, when read in context with the credit, the\ndocument itself and international standard banking practice, need not be identical to, but must not\nconflict with, data in that document, any other stipulated document or the credit.\nc. Copies of transport documents covered by UCP600 articles 19-25 are not subject to the default\npresentation period of 21 calendar days stated in UCP600 sub-article 14 (c) or any presentation period\nstated in the credit, unless the credit explicitly states the basis for determining such presentation\nperiod. Otherwise, a presentation may be made at any time, but in any event no later than the expiry\ndate of the credit.\nCorrection and alteration (\"correction\")"
+      },
+      {
+        "key": "A7",
+        "content": "A7) a. i. Any correction of data in a document issued by the beneficiary, with the exception of drafts (see\nparagraph B16)), need not be authenticated.\nii. When a document issued by the beneficiary has been legalized, visaed, certified, etc., any\ncorrection of data is to be authenticated by at least one of the entities that legalized, visaed or\ncertified, etc., the document. Such authentication is to indicate the name of the entity\nauthenticating the correction either by use of a stamp incorporating its name, or by the addition of\nthe name of the authenticating entity accompanied by its signature or initials.\nb. i. Any correction of data in a document, other than in a document issued by the beneficiary, is to\nappear to have been authenticated by the issuer or an entity acting as agent, proxy or for [or on\nbehalf of] the issuer. Such authentication is to indicate the name of the entity authenticating the\ncorrection either by use of a stamp incorporating its name, or by the addition of the name of the\nauthenticating entity accompanied by its signature or initials. In the case of authentication by an\nagent or proxy, the capacity of acting as agent or proxy for [or on behalf of] the issuer is to be stated.\nii. When a document other than one issued by the beneficiary has been legalized, visaed, certified,\netc., any correction of data is, in addition to the requirements of paragraph A7) (b) (i), to be\nauthenticated by at least one of the entities that legalized, visaed or certified, etc., the document.\nSuch authentication is to indicate the name of the entity authenticating the correction either by\nuse of a stamp incorporating its name, or by the addition of the name of the authenticating entity\naccompanied by its signature or initials.\nc. Any correction of data in a copy document need not be authenticated."
+      },
+      {
+        "key": "A8",
+        "content": "A8) When a document other than one issued by the beneficiary contains more than one correction, either\neach correction is to be authenticated separately, or one authentication is to indicate that it applies to all\nthe corrections. For example, when a document issued by XXX shows three corrections numbered 1, 2\nand 3, one statement such as \"Correction numbers 1, 2 and 3 authenticated by XXX\" or similar, together\nwith the signature or initials of XXX, will satisfy the requirement for authentication."
+      },
+      {
+        "key": "A9",
+        "content": "A9) The use of multiple type styles, font sizes or handwriting within the same document does not, by\nitself, signify a correction.\nCourier receipt, post receipt and certificate of posting in respect of the sending of documents, notices\nand the like"
+      },
+      {
+        "key": "B1",
+        "content": "B1) a. A draft, when required, is to be drawn on the bank stated in the credit.\nb. Banks only examine a draft to the extent described in paragraphs B2)-B17).\nTenor"
+      },
+      {
+        "key": "B10",
+        "content": "B10) When a credit is available by negotiation with a nominated bank or any bank, the draft is to be drawn\non a bank other than the nominated bank."
+      },
+      {
+        "key": "B11",
+        "content": "B11) When a credit is available by acceptance with any bank, the draft is to be drawn on the bank that\nagrees to accept the draft and is thereby willing to act on its nomination."
+      },
+      {
+        "key": "B12",
+        "content": "B12) When a credit is available by acceptance with:\na. a nominated bank or any bank, and the draft is to be drawn on that nominated bank (which is not a\nconfirming bank), and it decides not to act on its nomination, the beneficiary may choose to:\ni. draw the draft on the confirming bank, if any, or request that the presentation be forwarded to the\nconfirming bank in the form as presented;\nii. present the documents to another bank that agrees to accept a draft drawn on it and thereby act\non its nomination (applicable only when the credit is available with any bank); or\n12\niii. request that the presentation be forwarded to the issuing bank in the form as presented with or\nwithout a draft drawn on the issuing bank.\nb. a confirming bank, and the draft is to be drawn on that confirming bank and the presentation is non-\ncomplying, and it decides not to reinstate its confirmation, the beneficiary may request that the\npresentation be forwarded to the issuing bank in the form as presented, with or without a draft drawn\non the issuing bank.\nAmounts"
+      },
+      {
+        "key": "B13",
+        "content": "B13) A draft is to be drawn for the amount demanded under the presentation."
+      },
+      {
+        "key": "B14",
+        "content": "B14) The amount in words is to accurately reflect the amount in figures when both are shown, and indicate\nthe currency as stated in the credit. When the amount in words and figures are in conflict, the amount in\nwords is to be examined as the amount demanded.\nEndorsement"
+      },
+      {
+        "key": "B15",
+        "content": "B15) A draft is to be endorsed, if necessary.\nCorrection and alteration (\"correction\")"
+      },
+      {
+        "key": "B16",
+        "content": "B16) Any correction of data on a draft is to appear to have been authenticated with the addition of the\nsignature or initials of the beneficiary."
+      },
+      {
+        "key": "B17",
+        "content": "B17) When no correction of data is allowed in a draft, an issuing bank should have included a suitable\nstipulation in its credit.\nDrafts drawn on the applicant"
+      },
+      {
+        "key": "B18",
+        "content": "B18) a. A credit must not be issued available by a draft drawn on the applicant.\nb. However, when a credit requires the presentation of a draft drawn on the applicant as one of the\nrequired documents, it is to be examined only to the extent expressly stated in the credit, otherwise\naccording to UCP 600 sub-article 14 (f).\n3. INVOICES\nISBP - Paragraph C1 to C15\nTitle of invoice"
+      },
+      {
+        "key": "B2",
+        "content": "B2) a. The tenor stated on a draft is to be in accordance with the terms of the credit.\nb. When a credit requires a draft to be drawn at a tenor other than sight or a certain period after sight,\nit must be possible to establish the maturity date from the data in the draft itself.\n10\nFor example, when a credit calls for drafts at a tenor 60 days after the bill of lading date, and when the\ndate of the bill of lading is 14 May 2013, the tenor is to be indicated on the draft in one of the following\nways:\ni. \"60 days after bill of lading date 14 May 2013\", or\nii. \"60 days after 14 May 2013\", or\niii. \"60 days after bill of lading date\" and elsewhere on the face of the draft state \"bill of lading date\n14 May 2013\" or\niv. \"60 days date\" on a draft dated the same day as the date of the bill of lading, or\nv. \"13 July 2013\", i.e., 60 days after the bill of lading date.\nc. When the tenor refers to, for example, 60 days after the bill of lading date, the on board date is\ndeemed to be the bill of lading date even when the on board date is prior to or later than the date of\nissuance of the bill of lading.\nd. The words \"from\" and \"after\" when used to determine maturity dates of drafts signify that the\ncalculation of the maturity date commences the day following the date of the document, shipment or\nthe date of an event stipulated in the credit, for example, 10 days after or from 4 May is 14 May.\ne. i. When a credit requires a bill of lading and drafts are to be drawn, for example, at 60 days after or\nfrom the bill of lading date and a bill of lading is presented evidencing unloading and reloading of the\ngoods from one vessel to another, and showing more than one dated on board notation and indicating\nthat each shipment was effected from a port within a permitted geographical area or range of ports,\nthe earliest of these dates is to be used for the calculation of the maturity date. For example, a credit\nrequires shipment from any European port, and the bill of lading evidences on board vessel \"A\" from\nDublin on 14 May, with transshipment effected on board vessel \"B\" from Rotterdam on 16 May. The\ndraft should reflect 60 days after the earliest on board date in a European port, i.e., 14 May.\nii. When a credit requires a bill of lading and drafts are to be drawn, for example, at 60 days after or\nfrom the bill of lading date, and a bill of lading is presented evidencing shipment of goods on the\nsame vessel from more than one port within a permitted geographical area or range of ports, and\nshows more than one dated on board notation, the latest of these dates is to be used for the\ncalculation of the maturity date. For example, a credit requires shipment from any European port,\nand the bill of lading evidences part of the goods loaded on board vessel \"A\" from Dublin on 14 May\nand the remainder on board the same vessel from Rotterdam on 16 May. The draft should reflect 60\ndays after the latest on board date, i.e., 16 May.\niii. When a credit requires a bill of lading and drafts are to be drawn, for example, at 60 days after or\nfrom the bill of lading date, and more than one set of bills of lading is presented under one draft, the\non board date of the latest bill of lading will be used for the calculation of the maturity date."
+      },
+      {
+        "key": "B3",
+        "content": "B3) While the examples in paragraphs B2) (e) (i-iii) refer to bill of lading dates, the same principles apply\nto any basis for determining a maturity date.\nMaturity date"
+      },
+      {
+        "key": "B4",
+        "content": "B4) When a draft states a maturity date by using an actual date, that date is to reflect the terms of the\ncredit."
+      },
+      {
+        "key": "B5",
+        "content": "B5) For drafts drawn, for example, \"at 60 days sight\", the maturity date is established as follows:\n11\na. in the case of a complying presentation, the maturity date will be 60 days after the day of\npresentation to the bank on which the draft is drawn, i.e., the issuing bank, confirming bank or a\nnominated bank that agrees to act on its nomination (\"drawee bank\").\nb. in the case of a non-complying presentation:\ni. when such drawee bank has not provided a notice of refusal, the maturity date will be 60 days after\nthe day of presentation to it;\nii. when the drawee bank is the issuing bank and it has provided a notice of refusal, at the latest 60\ndays after the date the issuing bank accepts the waiver of the applicant;\niii. when the drawee bank is a bank other than the issuing bank and it has provided a notice of refusal,\nat the latest 60 days after the date of the acceptance advice of the issuing bank. When such drawee\nbank does not agree to act on the acceptance advice of the issuing bank, the undertaking to honour\non the due date is that of the issuing bank.\nc. The drawee bank is to advise or confirm the maturity date to the presenter."
+      },
+      {
+        "key": "B6",
+        "content": "B6) The method of calculation of tenor and maturity dates, as shown above, also applies to a credit\navailable by deferred payment or, in some cases, negotiation, i.e., when there is no requirement for a\ndraft to be presented by the beneficiary.\nBanking days, grace days, delays in remittance"
+      },
+      {
+        "key": "B7",
+        "content": "B7) Payment is to be made in immediately available funds on the due date at the place where the draft\nor documents are payable, provided that such due date is a banking day in that place. When the due date\nis a non-banking day, payment is due on the first banking day following the due date. Delays in the\nremittance of funds, for example grace days, the time it takes to remit funds, etc., are not to be in addition\nto the stated or agreed due date as defined by the draft or documents.\nDrawing and signing"
+      },
+      {
+        "key": "B8",
+        "content": "B8) a. A draft is to be drawn and signed by the beneficiary and to indicate a date of issuance.\nb. When the beneficiary or second beneficiary has changed its name, and the credit mentions the\nformer name, a draft may be drawn in the name of the new entity provided that it indicates \"formerly\nknown as (name of the beneficiary or second beneficiary)\" or words of similar effect."
+      },
+      {
+        "key": "B9",
+        "content": "B9) When a credit indicates the drawee of a draft by only stating the SWIFT address of a bank, the draft\nmay show the drawee with the same details or the full name of the bank."
+      },
+      {
+        "key": "C1",
+        "content": "C1) a. When a credit requires presentation of an \"invoice\" without further description, this will be satisfied\nby the presentation of any type of invoice (commercial invoice, customs invoice, tax invoice, final invoice,\nconsular invoice, etc.). However, an invoice is not to be identified as \"provisional\", \"pro-forma\" or the like.\nb. When a credit requires presentation of a \"commercial invoice\", this will also be satisfied by the\npresentation of a document titled \"invoice\", even when such document contains a statement that it\nhas been issued for tax purposes.\nIssuer of an invoice"
+      },
+      {
+        "key": "C11",
+        "content": "C11) Any total quantity of goods and their weight or measurement shown on the invoice is not to conflict\nwith the same data appearing on other documents."
+      },
+      {
+        "key": "C12",
+        "content": "C12) An invoice is not to indicate:\na. over-shipment (except as provided in UCP 600 sub-article 30 (b)), or\n14\nb. goods, services or performance not called for in the credit. This applies even when the invoice\nincludes additional quantities of goods, services or performance as required by the credit or samples\nand advertising material and are stated to be free of charge."
+      },
+      {
+        "key": "C13",
+        "content": "C13) The quantity of goods required in the credit may be indicated on an invoice within a tolerance of +/-\n5%. A variance of up to +5% in the quantity of the goods does not allow the amount demanded under the\npresentation to exceed the amount of the credit. The tolerance of +/-5% in the quantity of the goods will\nnot apply when:\na. a credit states that the quantity is not to be exceeded or reduced; or\nb. a credit states the quantity in terms of a stipulated number of packing units or individual items."
+      },
+      {
+        "key": "C14",
+        "content": "C14) When no quantity of goods is stated in the credit, and partial shipments are prohibited, an invoice\nissued for an amount up to 5% less than the credit amount will be considered to cover the full quantity\nand not a partial shipment.\nInstalment drawings or shipments"
+      },
+      {
+        "key": "C15",
+        "content": "C15) a. i. When a drawing or shipment by instalments within given periods is stipulated in the credit, and\nany instalment is not drawn or shipped within the period allowed for that instalment, the credit ceases to\nbe available for that and any subsequent instalment. Given periods are a sequence of dates or timelines\nthat determine a start and end date for each instalment. For example, a credit requiring shipment of 100\ncars in March and 100 cars in April is an example of two periods of time that start on 1 March and 1 April\nand end on 31 March and 30 April respectively.\nii. When partial drawings or shipments are allowed, any number of drawings or shipments is\npermitted within each instalment.\nb. When a credit indicates a drawing or shipment schedule by only indicating a number of latest dates,\nand not given periods (as referred to in paragraph C15) (a) (i)):\ni. this is not an instalment schedule as envisaged by UCP 600, and article 32 will not apply. The\npresentation is to otherwise comply with any instructions in respect of the drawing or shipment\nschedule and UCP 600 article 31;\nii. when partial drawings or shipments are allowed, any number of drawings or shipments is\npermitted on or before each latest date for a drawing or shipment to occur.\n4. TRANSPORT DOCUMENT COVERING AT LEAST TWO DIFFERENT MODES OF TRANSPORT (\"multimodal\nor combined transport document\")\nISBP - Paragraph D1 to D32\nApplication of UCP 600 article 19"
+      },
+      {
+        "key": "C2",
+        "content": "C2) a. An invoice is to appear to have been issued by the beneficiary or, in the case of a transferred credit,\nthe second beneficiary.\nb. When the beneficiary or second beneficiary has changed its name and the credit mentions the\nformer name, an invoice may be issued in the name of the new entity provided that it indicates\n\"formerly known as (name of the beneficiary or second beneficiary)\" or words of similar effect.\n13\nDescription of the goods, services or performance and other general issues related to invoices"
+      },
+      {
+        "key": "C3",
+        "content": "C3) The description of the goods, services or performance shown on the invoice is to correspond with the\ndescription shown in the credit. There is no requirement for a mirror image. For example, details of the\ngoods may be stated in a number of areas within the invoice which, when read together, represent a\ndescription of the goods corresponding to that in the credit."
+      },
+      {
+        "key": "C4",
+        "content": "C4) The description of goods, services or performance on an invoice is to reflect what has actually been\nshipped, delivered or provided. For example, when the goods description in the credit indicates a\nrequirement for shipment of \"10 trucks and 5 tractors\", and only 4 trucks have been shipped, an invoice\nmay indicate shipment of only 4 trucks provided that the credit did not prohibit partial shipment. An\ninvoice indicating what has actually been shipped (4 trucks) may also contain the description of the goods\nstated in the credit, i.e., 10 trucks and 5 tractors."
+      },
+      {
+        "key": "C5",
+        "content": "C5) An invoice showing a description of the goods, services or performance that corresponds with that in\nthe credit may also indicate additional data in respect of the goods, services or performance provided that\nthey do not appear to refer to a different nature, classification or category of the goods, services or\nperformance.\nFor example, when a credit requires shipment of \"Suede Shoes\", but the invoice describes the goods as\n\"Imitation Suede Shoes\", or when the credit requires \"Hydraulic Drilling Rig\", but the invoice describes\nthe goods as \"Second Hand Hydraulic Drilling Rig\", these descriptions would represent a change in nature,\nclassification or category of the goods."
+      },
+      {
+        "key": "C6",
+        "content": "C6) An invoice is to indicate:\na. the value of the goods shipped or delivered, or services or performance provided.\nb. unit price(s), when stated in the credit.\nc. the same currency as that shown in the credit.\nd. any discount or deduction required by the credit."
+      },
+      {
+        "key": "C7",
+        "content": "C7) An invoice may indicate a deduction covering advance payment, discount, etc., that is not stated in\nthe credit."
+      },
+      {
+        "key": "C8",
+        "content": "C8) When a trade term is stated as part of the goods description in the credit, an invoice is to indicate that\ntrade term, and when the source of the trade term is stated, the same source is to be indicated. For\nexample, a trade term indicated in a credit as \"CIF Singapore Incoterms2010\" is not to be indicated on an\ninvoice as \"CIF Singapore\" or \"CIF Singapore Incoterms\". However, when a trade term is stated in the\ncredit as \"CIF Singapore\" or \"CIF Singapore Incoterms\", it may also be indicated on an invoice as \"CIF\nSingapore Incoterms 2010\" or any other revision."
+      },
+      {
+        "key": "C9",
+        "content": "C9) Additional charges and costs, such as those related to documentation, freight or insurance costs, are\nto be included within the value shown against the stated trade term on the invoice."
+      },
+      {
+        "key": "D1",
+        "content": "D1) a. A requirement in a credit for the presentation of a transport document, however named, covering\nmovement of goods utilizing at least two different modes of transport means that UCP 600 article 19 is to\nbe applied in the examination of that document.\nb. i. A multimodal or combined transport document is not to indicate that shipment or dispatch has\nbeen effected by only one mode of transport, but it may be silent regarding some or all of the modes\nof transport utilized.\nii. A multimodal or combined transport document is not to contain any indication of a charter party\nas described in paragraphs G2) (a) and (b).\n15\nc. When a credit requires the presentation of a transport document other than a multimodal or\ncombined transport document, and it is clear from the routing of the goods stated in the credit that\nmore than one mode of transport is to be utilized, for example, when an inland place of receipt or final\ndestination are indicated, or the port of loading or discharge field is completed but with a place which\nis in fact an inland place and not a port, UCP 600 article 19 is to be applied in the examination of that"
+      },
+      {
+        "key": "D10",
+        "content": "D10) When a credit indicates a geographical area or range of places of receipt, dispatch, taking in charge,\nports of loading or airports of departure (for example, \"Any European Country\" or \"Hamburg, Rotterdam,\nAntwerp Port\"), a multimodal transport document is to indicate the actual place of receipt, dispatch,\ntaking in charge, port of loading or airport of departure, which is to be within that geographical area or\nrange of places. A multimodal transport document need not indicate the geographical area."
+      },
+      {
+        "key": "D11",
+        "content": "D11) Terms such as \"Shipped in apparent good order\", \"Laden on board\", \"Clean on board\" or other\nphrases that incorporate \"shipped\" or \"on board\" have the same effect as the words \"Shipped on board\".\nPlace of final destination, port of discharge or airport of destination"
+      },
+      {
+        "key": "D12",
+        "content": "D12) a. In a multimodal transport document, when a credit requires shipment to be effected to a port,\nthe named port of discharge should appear in the port of discharge field.\nb. However, the named port of discharge may be stated in the field headed \"Place of final destination\"\nor words of similar effect provided there is a notation evidencing that the port of discharge is that\nstated under \"Place of final destination\" or words of similar effect. For example, when a credit requires\nshipment to be effected to Felixstowe, but Felixstowe is shown as the place of final destination instead\nof the port of discharge, this may be evidenced by a notation stating \"Port of discharge Felixstowe\"."
+      },
+      {
+        "key": "D13",
+        "content": "D13) A multimodal transport document is to indicate the place of final destination, port of discharge or\nairport of destination stated in the credit. When a credit indicates the place of final destination, port of\ndischarge or airport of destination by also stating the country in which the place or port is located, the\nname of the country need not be stated."
+      },
+      {
+        "key": "D14",
+        "content": "D14) When a credit indicates a geographical area or range of places of final destination, ports of discharge\nor airports of destination (for example, \"Any European Country\" or \"Hamburg, Rotterdam, Antwerp\nPort\"), a multimodal transport document is to indicate the actual place of final destination, port of\ndischarge or airport of destination, which is to be within that geographical area or range of places. A\nmultimodal transport document need not indicate the geographical area.\nOriginal multimodal transport document"
+      },
+      {
+        "key": "D15",
+        "content": "D15) a. A multimodal transport document is to indicate the number of originals that have been issued.\n17\nb. Multimodal transport documents marked \"First Original\", \"Second Original\", \"Third Original\", or\n\"Original\", \"Duplicate\", \"Triplicate\" or similar expressions are all originals.\nConsignee, order party, shipper and endorsement, and notify party"
+      },
+      {
+        "key": "D16",
+        "content": "D16) When a credit requires a multimodal transport document to evidence that goods are consigned to a\nnamed entity, for example, \"consigned to (named entity)\" (i.e., a \"straight\" multimodal transport\ndocument or consignment) rather than \"to order\" or \"to order of (named entity)\", it is not to contain the\nexpressions \"to order\" or \"to order of\" preceding the named entity, or the expression \"or order\" following\nthe named entity, whether typed or pre-printed."
+      },
+      {
+        "key": "D17",
+        "content": "D17) a. When a multimodal transport document is issued \"to order\" or \"to order of the shipper\", it is to\nbe endorsed by the shipper. An endorsement may be made by a named entity other than the shipper,\nprovided the endorsement is made for [or on behalf of] the shipper.\nb. When a credit requires a multimodal transport document to evidence that goods are consigned \"to\norder of (named entity)\", it is not to indicate that the goods are straight consigned to that named\nentity."
+      },
+      {
+        "key": "D18",
+        "content": "D18) a. When a credit stipulates the details of one or more notify parties, a multimodal transport\ndocument may also indicate the details of one or more additional notify parties.\nb. i. When a credit does not stipulate the details of a notify party, a multimodal transport document\nmay indicate the details of any notify party and in any manner (except as stated in paragraph D18) (b)\n(ii)).\nii. When a credit does not stipulate the details of a notify party, but the details of the applicant appear\nas notify party on a multimodal transport document, and these details include the applicant's address\nand contact details, they are not to conflict with those stated in the credit."
+      },
+      {
+        "key": "D19",
+        "content": "D19) When a credit requires a multimodal transport document to evidence goods consigned to or to the\norder of \"issuing bank\" or \"applicant\" or notify \"applicant\" or \"issuing bank\", a multimodal transport\ndocument is to indicate the name of the issuing bank or applicant, as applicable, but need not indicate\ntheir respective addresses or any contact details that may be stated in the credit."
+      },
+      {
+        "key": "D2",
+        "content": "D2) In all places where the term \"multimodal transport document\" is used within this publication, it also\nincludes the term \"combined transport document\". The transport document presented need not be titled\n\"Multimodal transport document\" or \"Combined transport document\" or words of similar effect even\nwhen the credit so names the required document.\nIssuance, carrier, identification of the carrier and signing of a multimodal transport document"
+      },
+      {
+        "key": "D20",
+        "content": "D20) When the address and contact details of the applicant appear as part of the consignee or notify party\nTransshipment, partial shipment and determining the presentation period when multiple sets of\nmultimodal transport documents are presented"
+      },
+      {
+        "key": "D21",
+        "content": "D21) In multimodal transport transshipment will occur. Transshipment is the unloading and reloading of\ngoods from one means of conveyance to another means of conveyance (whether or not in different modes\nof transport) during the carriage of those goods from the place of receipt, dispatch or taking in charge,\nport of loading or airport of departure to the place of final destination, port of discharge or airport of\ndestination stated in the credit."
+      },
+      {
+        "key": "D22",
+        "content": "D22) Shipment on more than one means of conveyance (more than one truck [lorry], vessel, aircraft, etc.)\nis a partial shipment, even when such means of conveyance leaves on the same day for the same\ndestination."
+      },
+      {
+        "key": "D23",
+        "content": "D23) a. When a credit prohibits partial shipment, and more than one set of original multimodal transport\ndocuments are presented covering receipt, dispatch, taking in charge or shipment from one or more\npoints of origin (as specifically allowed, or within a geographical area or range of places stated in the\n18\ncredit), each set is to indicate that it covers the carriage of goods on the same means of conveyance and\nsame journey and that the goods are destined for the same destination.\nb. When a credit prohibits partial shipment, and more than one set of original multimodal transport\ndocuments are presented in accordance with paragraph D23) (a) and incorporate different dates of\nreceipt, dispatch, taking in charge, or shipment, the latest of these dates is to be used for the\ncalculation of any presentation period and must fall on or before the latest date of receipt, dispatch,\ntaking in charge or shipment stated in the credit.\nc. When partial shipment is allowed, and more than one set of original multimodal transport\ndocuments are presented as part of a single presentation made under one covering schedule or letter\nand incorporate different dates of receipt, dispatch, taking in charge or shipment, on different means\nof conveyance, the earliest of these dates is to be used for the calculation of any presentation period,\nand each of these dates must fall on or before the latest date of receipt, dispatch, taking in charge or\nshipment stated in the credit.\nClean multimodal transport document"
+      },
+      {
+        "key": "D24",
+        "content": "D24) A multimodal transport document is not to include a clause or clauses that expressly declare a\ndefective condition of the goods or their packaging.\na. A clause on a multimodal transport document such as \"packaging is not sufficient for the sea\njourney\" or words of similar effect is an example of a clause expressly declaring a defective condition\nof the packaging.\nb. A clause on a multimodal transport document such as \"packaging may not be sufficient for the sea\njourney\" or words of similar effect does not expressly declare a defective condition of the packaging."
+      },
+      {
+        "key": "D25",
+        "content": "D25) a. It is not necessary for the word \"clean\" to appear on a multimodal transport document even when\nthe credit requires a multimodal transport document to be marked \"clean on board\" or \"clean\".\nb. Deletion of the word \"clean\" on a multimodal transport document does not expressly declare a\ndefective condition of the goods or their packaging."
+      },
+      {
+        "key": "D26",
+        "content": "D26) A goods description indicated on a multimodal transport document may be in general terms not in\nconflict with the goods description in the credit.\nIndication of name and address of delivery agent at destination"
+      },
+      {
+        "key": "D27",
+        "content": "D27) When a credit requires a multimodal transport document to indicate the name, address and contact\ndetails of a delivery agent or words of similar effect, at or for the place of final destination or port of\ndischarge, the address need not be one that is located at the place of destination or port of discharge or\nwithin the same country as that of the place of destination or port of discharge."
+      },
+      {
+        "key": "D28",
+        "content": "D28) Any correction of data on a multimodal transport document is to be authenticated. Such\nauthentication is to appear to have been made by the carrier, master (captain) or any one of their named\nagents, who may be different from the agent that may have issued or signed a multimodal transport\ndocument, provided they are identified as an agent of the carrier or master (captain)."
+      },
+      {
+        "key": "D29",
+        "content": "D29) Non-negotiable copies of a multimodal transport document need not include authentication of any\ncorrections that may have been made on the original.\n19"
+      },
+      {
+        "key": "D3",
+        "content": "D3) a. A multimodal transport document may be issued by any entity other than a carrier or master\n(captain) provided it meets the requirements of UCP 600 article 19.\nb. When a credit indicates \"Freight Forwarder's Multimodal Transport Document is acceptable\" or\n\"House Multimodal Transport Document is acceptable\" or words of similar effect, a multimodal\ntransport document may be signed by the issuing entity without it being necessary to indicate the\ncapacity in which it has been signed or the name of the carrier."
+      },
+      {
+        "key": "D30",
+        "content": "D30) A statement appearing on a multimodal transport document indicating the payment of freight need\nnot be identical to that stated in the credit, but is not to conflict with data in that document, any other\nstipulated document or the credit. For example, when a credit requires a multimodal transport document\nto be marked \"freight payable at destination\", it may be marked \"freight collect\"."
+      },
+      {
+        "key": "D31",
+        "content": "D31) a. When a credit states that costs additional to freight are not acceptable, a multimodal transport\ndocument is not to indicate that costs additional to the freight have been or will be incurred.\nb. An indication of costs additional to freight may be made by express reference to additional costs or\nby the use of trade terms which refer to costs associated with the loading or unloading of goods, such\nas, but not limited to, Free In (FI), Free Out (FO), Free In and Out (FIO) and Free In and Out Stowed\n(FIOS).\nc. Reference in a multimodal transport document to costs which may be levied, for example, as a result\nof a delay in unloading the goods, or after the goods have been unloaded (demurrage costs) or costs\ncovering the late return of containers (detention costs) is not an indication of costs additional to\nfreight.\nRelease of goods with more than one multimodal transport document to be surrendered"
+      },
+      {
+        "key": "D32",
+        "content": "D32) A multimodal transport document is not to expressly state that goods covered by that multimodal\ntransport document will only be released upon its surrender together with one or more other multimodal\ntransport documents, unless all of the referenced multimodal transport documents form part of the same\npresentation under the same credit.\nFor example, \"Container XXXX is covered by B/L No. YYY and ZZZ, and can only be released to a single\nmerchant upon presentation of all multimodal transport documents of that merchant\" is considered to\nbe an express statement that one or more other multimodal transport documents, related to the\nreferenced container or packing unit, must be surrendered prior to the goods being released.\n5. BILL OF LADING\nISBP- Paragraph E1 to E28\nApplication of UCP 600 Article 20"
+      },
+      {
+        "key": "D4",
+        "content": "D4) A stipulation in a credit that \"Freight Forwarder's Multimodal Transport Documents are not\nacceptable\" or \"House Multimodal Transport Documents are not acceptable\" or words of similar effect\nhas no meaning in the context of the title, format, content or signing of a multimodal transport document\nunless the credit provides specific requirements detailing how the multimodal transport document is to\nbe issued and signed. In the absence of these requirements, such a stipulation is to be disregarded, and\nthe multimodal transport document presented is to be examined according to the requirements of\nUCP600 article 19."
+      },
+      {
+        "key": "D5",
+        "content": "D5) a. A multimodal transport document is to be signed in the form described in UCP 600 sub-article 19\n(a) (i) and to indicate the name of the carrier, identified as the carrier.\nb. When a multimodal transport document is signed by a named branch of the carrier, the signature is\nconsidered to have been made by the carrier.\nc. When an agent signs a multimodal transport document for [or on behalf of] the carrier, the agent is\nto be named and, in addition, to indicate that it is signing as \"agent for (name), the carrier\" or as \"agent\non behalf of (name), the carrier\" or words of similar effect. When the carrier is identified elsewhere in\nthe document as the \"carrier\", the named agent may sign, for example, as \"agent for [or on behalf of]\nthe carrier\" without naming the carrier again.\nd. When the master (captain) signs a multimodal transport document, the signature of the master is\nto be identified as the \"master\". The name of the master need not be stated.\ne. When an agent signs a multimodal transport document for [or on behalf of] the master (captain),\nthe agent is to be named and, in addition, to indicate that it is signing as \"agent for the master\" or as\n\"agent on behalf of the master\" or words of similar effect. The name of the master need not be stated.\nOn board notation, date of shipment, place of receipt, dispatch, taking in charge, port of loading or\nairport of departure"
+      },
+      {
+        "key": "D6",
+        "content": "D6) The issuance date of a multimodal transport document will be deemed to be the date of receipt,\ndispatch, taking in charge or shipment on board and the date of shipment, unless it bears a separate dated\nnotation evidencing receipt, dispatch, taking in charge or shipment on board from the place, port or\n16\nairport stated in the credit. In the latter event, such date will be deemed to be the date of shipment\nwhether that date is before or after the issuance date of the multimodal transport document. A separate\ndated notation may also be indicated in a designated field or box."
+      },
+      {
+        "key": "D7",
+        "content": "D7) When a credit requires shipment to commence from a port, i.e., when the first leg of the journey, as\nrequired by the credit, is by sea, a multimodal transport document is to indicate a dated on board\nnotation, and in this event paragraph E6) (b-d) will also apply."
+      },
+      {
+        "key": "D8",
+        "content": "D8) In a multimodal transport document, when a credit requires shipment to commence from a port, the\nnamed port of loading should appear in the port of loading field. However, it may also be stated in the\nfield headed \"Place of receipt\" or words of similar effect, provided there is a dated on board notation\nevidencing that the goods were shipped on board a named vessel at the port stated under \"Place of\nreceipt\" or words of similar effect."
+      },
+      {
+        "key": "D9",
+        "content": "D9) A multimodal transport document is to indicate the place of receipt, dispatch, taking in charge, port\nof loading or airport of departure stated in the credit. When a credit indicates the place of receipt,\ndispatch, taking in charge, port of loading or airport of departure by also stating the country in which the\nplace, port or airport is located, the name of the country need not be stated."
+      },
+      {
+        "key": "E1",
+        "content": "E1) a. A requirement in a credit for the presentation of a transport document, however named, only\ncovering a port-to-port shipment, i.e., a credit that contains no reference to a place of receipt or taking in\ncharge or place of final destination means that UCP 600 article 20 is to be applied in the examination of\nthat document.\nb. A bill of lading is not to contain any indication of a charter party as described in paragraphs G2) (a)\nand (b)."
+      },
+      {
+        "key": "E10",
+        "content": "E10) When a credit indicates a geographical area or range of ports of discharge (for example, \"Any\nEuropean Port\" or \"Hamburg, Rotterdam, Antwerp Port\"), a bill of lading is to indicate the actual port of\ndischarge, which is to be within that geographical area or range of ports. A bill of lading need not indicate\nthe geographical area.\nOriginal bill of lading"
+      },
+      {
+        "key": "E11",
+        "content": "E11) a. A bill of lading is to indicate the number of originals that have been issued.\nb. Bills of lading marked \"First Original\", \"Second Original\", \"Third Original\", or \"Original\", \"Duplicate\",\n\"Triplicate\" or similar expressions are all originals.\nConsignee, order party, shipper and endorsement, and notify party"
+      },
+      {
+        "key": "E12",
+        "content": "E12) When a credit requires a bill of lading to evidence that goods are consigned to a named entity, for\nexample, \"consigned to (named entity)\" (i.e., a \"straight\" bill of lading or consignment) rather than \"to\norder\" or \"to order of (named entity)\", it is not to contain the expressions \"to order\" or \"to order of\"\npreceding the named entity, or the expression \"or order\" following the named entity, whether typed or\npre-printed."
+      },
+      {
+        "key": "E13",
+        "content": "E13) a. When a bill of lading is issued \"to order\" or \"to order of the shipper\", it is to be endorsed by the\nshipper. An endorsement may be made by a named entity other than the shipper, provided the\nendorsement is made for [or on behalf of] the shipper.\nb. When a credit requires a bill of lading to evidence that goods are consigned \"to order of (named\nentity)\", it is not to indicate that the goods are straight consigned to that named entity."
+      },
+      {
+        "key": "E14",
+        "content": "E14) a. When a credit stipulates the details of one or more notify parties, a bill of lading may also indicate\nthe details of one or more additional notify parties.\nb. i. When a credit does not stipulate the details of a notify party, a bill of lading may indicate the\ndetails of any notify party and in any manner (except as stated in paragraph E14) (b) (ii)).\nii. When a credit does not stipulate the details of a notify party, but the details of the applicant appear\nas notify party on a bill of lading, and these details include the applicant's address and contact details,\nthey are not to conflict with those stated in the credit."
+      },
+      {
+        "key": "E15",
+        "content": "E15) When a credit requires a bill of lading to evidence goods consigned to or to the order of \"issuing\nbank\" or \"applicant\" or notify \"applicant\" or \"issuing bank\", a bill of lading is to indicate the name of the\nissuing bank or applicant, as applicable, but need not indicate their respective addresses or any contact\ndetails that may be stated in the credit."
+      },
+      {
+        "key": "E16",
+        "content": "E16) When the address and contact details of the applicant appear as part of the consignee or notify party\nTransshipment, partial shipment and determining the presentation period when multiple sets of bills of\nlading are presented"
+      },
+      {
+        "key": "E17",
+        "content": "E17) Transshipment is the unloading and reloading of goods from one vessel to another during the\ncarriage of those goods from the port of loading to the port of discharge stated in the credit. When a bill\n23\nof lading does not indicate unloading and reloading between these two ports, it is not transshipment in\nthe context of the credit and UCP 600 sub-articles 20 (b) and (c)."
+      },
+      {
+        "key": "E18",
+        "content": "E18) Shipment on more than one vessel is a partial shipment, even if each vessel leaves on the same day\nfor the same destination."
+      },
+      {
+        "key": "E19",
+        "content": "E19) a. When a credit prohibits partial shipment, and more than one set of original bills of lading are\npresented covering shipment from one or more ports of loading (as specifically allowed, or within a\ngeographical area or range of ports stated in the credit), each set is to indicate that it covers the shipment\nof goods on the same vessel and same journey and that the goods are destined for the same port of\ndischarge.\nb. When a credit prohibits partial shipment, and more than one set of original bills of lading are\npresented in accordance with paragraph E19)(a) and incorporate different dates of shipment, the\nlatest of these dates is to be used for the calculation of any presentation period and must fall on or\nbefore the latest shipment date stated in the credit.\nc. When partial shipment is allowed, and more than one set of original bills of lading are presented as\npart of a single presentation made under one covering schedule or letter and incorporate different\ndates of shipment, on different vessels or the same vessel for a different journey, the earliest of these\ndates is to be used for the calculation of any presentation period, and each of these dates must fall on\nor before the latest shipment date stated in the credit.\nClean bill of lading"
+      },
+      {
+        "key": "E2",
+        "content": "E2) A bill of lading need not be titled \"marine bill of lading\", \"ocean bill of lading\", \"port-to-port bill of\nlading\" or words of similar effect even when the credit so names the required document.\nIssuance, carrier, identification of the carrier and signing of a bill of lading"
+      },
+      {
+        "key": "E20",
+        "content": "E20) A bill of lading is not to include a clause or clauses that expressly declare a defective condition of the\ngoods or their packaging.\na. A clause on a bill of lading such as \"packaging is not sufficient for the sea journey\" or words of similar\neffect is an example of a clause expressly declaring a defective condition of the packaging.\nb. A clause on a bill of lading such as \"packaging may not be sufficient for the sea journey\" or words of\nsimilar effect does not expressly declare a defective condition of the packaging."
+      },
+      {
+        "key": "E21",
+        "content": "E21) a. It is not necessary for the word \"clean\" to appear on a bill of lading even when the credit requires\na bill of lading to be marked \"clean on board\" or \"clean\".\nb. Deletion of the word \"clean\" on a bill of lading does not expressly declare a defective condition of\nthe goods or their packaging."
+      },
+      {
+        "key": "E22",
+        "content": "E22) A goods description indicated on a bill of lading may be in general terms not in conflict with the goods\ndescription in the credit.\nIndication of name and address of delivery agent at port of discharge"
+      },
+      {
+        "key": "E23",
+        "content": "E23) When a credit requires a bill of lading to indicate the name, address and contact details of a delivery\nagent or words of similar effect, at or for the port of discharge, the address need not be one that is located\nat the port of discharge or within the same country as that of the port of discharge."
+      },
+      {
+        "key": "E24",
+        "content": "E24) Any correction of data on a bill of lading is to be authenticated. Such authentication is to appear to\nhave been made by the carrier, master (captain) or any one of their named agents, who may be different\n24\nfrom the agent that may have issued or signed a bill of lading, provided they are identified as an agent of\nthe carrier or the master (captain)."
+      },
+      {
+        "key": "E25",
+        "content": "E25) Non-negotiable copies of a bill of lading need not include authentication of any corrections that may\nhave been made on the original."
+      },
+      {
+        "key": "E26",
+        "content": "E26) A statement appearing on a bill of lading indicating the payment of freight need not be identical to\nthat stated in the credit, but is not to conflict with data in that document, any other stipulated document\nor the credit. For example, when a credit requires a bill of lading to be marked \"freight payable at\ndestination\", it may be marked \"freight collect\"."
+      },
+      {
+        "key": "E27",
+        "content": "E27) a. When a credit states that costs additional to freight are not acceptable, a bill of lading is not to\nindicate that costs additional to the freight have been or will be incurred.\nb. An indication of costs additional to freight may be made by express reference to additional costs or\nby the use of trade terms which refer to costs associated with the loading or unloading of goods, such\nas, but not limited to, Free In (FI), Free Out (FO), Free In and Out (FIO) and Free In and Out Stowed\n(FIOS).\nc. Reference in a bill of lading to costs which may be levied, for example, as a result of a delay in\nunloading the goods, or after the goods have been unloaded (demurrage costs) or costs covering the\nlate return of containers (detention costs) is not an indication of costs additional to freight.\nRelease of goods with more than one bill of lading to be surrendered"
+      },
+      {
+        "key": "E28",
+        "content": "E28) A bill of lading is not to expressly state that goods covered by that bill of lading will only be released\nupon its surrender together with one or more other bills of lading, unless all of the referenced bills of\nlading form part of the same presentation under the same credit.\nFor example, \"Container XXXX is covered by B/L No. YYY and ZZZ and can only be released to a single\nmerchant upon presentation of all bills of lading of that merchant\" is considered to be an express\nstatement that one or more other bills of lading, related to the referenced container or packing unit, must\nbe surrendered prior to the goods being released.\n6. NON-NEGOTIABLE SEA WAYBILL\nISBP- Paragraph F1 to F25\nApplication of UCP 600 Article 21"
+      },
+      {
+        "key": "E3",
+        "content": "E3) a. A bill of lading may be issued by any entity other than a carrier or master (captain), provided it\nmeets the requirements of UCP 600 article 20.\nb. When a credit indicates \"Freight Forwarder's Bill of Lading is acceptable\" or \"House Bill of Lading is\nacceptable\" or words of similar effect, a bill of lading may be signed by the issuing entity without it\nbeing necessary to indicate the capacity in which it has been signed or the name of the carrier.\n20"
+      },
+      {
+        "key": "E4",
+        "content": "E4) A stipulation in a credit that \"Freight Forwarder's Bills of Lading are not acceptable\" or \"House Bills of\nLading are not acceptable\" or words of similar effect has no meaning in the context of the title, format,\ncontent or signing of a bill of lading unless the credit provides specific requirements detailing how the bill\nof lading is to be issued and signed. In the absence of these requirements, such a stipulation is to be\ndisregarded, and the bill of lading presented is to be examined according to the requirements of UCP 600\narticle 20."
+      },
+      {
+        "key": "E5",
+        "content": "E5) a. A bill of lading is to be signed in the form described in UCP 600 sub-article 20 (a) (i) and to indicate\nthe name of the carrier, identified as the carrier.\nb. When a bill of lading is signed by a named branch of the carrier, the signature is considered to have\nbeen made by the carrier.\nc. When an agent signs a bill of lading for [or on behalf of] the carrier, the agent is to be named and, in\naddition, to indicate that it is signing as \"agent for (name), the carrier\" or as \"agent on behalf of (name),\nthe carrier\" or words of similar effect. When the carrier is identified elsewhere in the document as the\n\"carrier\", the named agent may sign, for example, as \"agent for [or on behalf of] the carrier\" without\nnaming the carrier again.\nd. When the master (captain) signs a bill of lading, the signature of the master (captain) is to be\nidentified as the \"master\" (\"captain\"). The name of the master (captain) need not be stated.\ne. When an agent signs a bill of lading for [or on behalf of] the master (captain), the agent is to be\nnamed and, in addition, to indicate that it is signing as \"agent for the master (or captain)\", or as \"agent\non behalf of the master (or captain)\" or words of similar effect. The name of the master (captain) need\nnot be stated.\nOn board notation, date of shipment, pre-carriage, place of receipt and port of loading"
+      },
+      {
+        "key": "E6",
+        "content": "E6) a. When a pre-printed \"Shipped on board\" bill of lading is presented, its issuance date will be deemed\nto be the date of shipment unless it bears a separate dated on board notation. In the latter event, such\ndate will be deemed to be the date of shipment whether that date is before or after the issuance date of\nthe bill of lading. The on board date may also be indicated in a designated field or box.\nb. Notwithstanding that a credit may require a bill of lading to evidence a port-to-port shipment:\ni. when a bill of lading indicates a place of receipt that is the same as the port of loading, for example,\nplace of receipt Rotterdam CY and the port of loading Rotterdam, and there is no indication of a\nmeans of pre-carriage (either in the pre-carriage field or the place of receipt field); or\nii. when a bill of lading indicates a place of receipt different from the port of loading, for example,\nplace of receipt Amsterdam and port of loading Rotterdam, and there is no indication of a means of\npre-carriage (either in the pre-carriage field or the place of receipt field), then:\n(a) when a bill of lading is pre-printed \"shipped on board\", the date of issue will be deemed to be\nthe date of shipment, and no further on board notation is required.\n(b) when a bill of lading is pre-printed \"received for shipment\", a dated on board notation is\nrequired, and the date appearing in the notation will be deemed to be the date of shipment. The\non board date may also be indicated in a designated field or box.\nc. Notwithstanding that a credit may require a bill of lading to evidence a port-to-port shipment, when\na bill of lading:\ni. indicates a place of receipt different from the port of loading, for example, place of receipt\nAmsterdam and port of loading Rotterdam, and there is an indication of a means of pre-carriage\n21\n(either in the pre-carriage field or the place of receipt field), regardless of whether it is pre-printed\n\"shipped on board\" or \"received for shipment\", it is to bear a dated on board notation which also\nindicates the name of the vessel and the port of loading stated in the credit. Such notation may also\nappear in a designated field or box. The date appearing in the on board notation or designated field\nor box will be deemed to be the date of shipment.\nii. indicates a means of pre-carriage (either in the pre-carriage field or the place of receipt field), no\nmatter if no place of receipt is stated or whether it is pre-printed \"shipped on board\" or \"received for\nshipment\", it is to bear a dated on board notation which also indicates the name of the vessel and\nthe port of loading stated in the credit. Such notation may also appear in a designated field or box.\nThe date appearing in the on board notation or designated field or box will be deemed to be the date\nof shipment.\nd. When a bill of lading indicates wording such as \"When the place of receipt box has been completed,\nany notation on this bill of lading of \"on board\", \"loaded on board\" or words of similar effect shall be\ndeemed to be on board the means of transportation performing the carriage from the place of receipt\nto the port of loading\" or words of similar effect, and if, in addition, the place of receipt box is\ncompleted, a bill of lading is to bear a dated on board notation. The dated on board notation is also to\nindicate the name of the vessel and the port of loading stated in the credit. Such notation may also\nappear in a designated field or box. The date appearing in the on board notation or designated field or\nbox will be deemed to be the date of shipment.\ne. The named port of loading, as required by the credit, should appear in the port of loading field on a\nbill of lading. However, it may also be stated in the field headed \"Place of receipt\" or words of similar\neffect, provided there is a dated on board notation evidencing that the goods were shipped on board\na named vessel at the port stated under \"Place of receipt\" or words of similar effect.\nf. A bill of lading is to indicate the port of loading stated in the credit. When a credit indicates the port\nof loading by also stating the country in which the port is located, the name of the country need not\nbe stated.\ng. When a credit indicates a geographical area or range of ports of loading (for example, \"Any European\nPort\" or \"Hamburg, Rotterdam, Antwerp Port\"), a bill of lading is to indicate the actual port of loading,\nwhich is to be within that geographical area or range of ports. A bill of lading need not indicate the\ngeographical area.\nh. When a bill of lading indicates more than one port of loading, it is to evidence an on board notation\nwith the relevant on board date for each port of loading, regardless of whether it is pre-printed\n\"received for shipment\" or \"shipped on board\". For example, when a bill of lading indicates that\nshipment has been effected from Brisbane and Adelaide, a dated on board notation is required for\nboth Brisbane and Adelaide."
+      },
+      {
+        "key": "E7",
+        "content": "E7) Terms such as \"Shipped in apparent good order\", \"Laden on board\", \"Clean on board\" or other phrases\nthat incorporate \"shipped\" or \"on board\" have the same effect as the words \"Shipped on board\".\nPort of discharge"
+      },
+      {
+        "key": "E8",
+        "content": "E8) a. The named port of discharge, as required by the credit, should appear in the port of discharge field\nwithin a bill of lading.\nb. However, the named port of discharge may be stated in the field headed \"Place of final destination\"\nor words of similar effect provided there is a notation evidencing that the port of discharge is that\nstated under \"Place of final destination\" or words of similar effect. For example, when a credit requires\n22\nshipment to be effected to Felixstowe, but Felixstowe is shown as the place of final destination instead\nof the port of discharge, this may be evidenced by a notation stating \"Port of discharge Felixstowe\"."
+      },
+      {
+        "key": "E9",
+        "content": "E9) A bill of lading is to indicate the port of discharge stated in the credit. When a credit indicates the port\nof discharge by also stating the country in which the port is located, the name of the country need not be\nstated."
+      },
+      {
+        "key": "F1",
+        "content": "F1) a. A requirement in a credit for the presentation of a non-negotiable sea waybill, covering a port-to-\nport shipment only, i.e., a credit that contains no reference to a place of receipt or taking in charge or\nplace of final destination means that UCP 600 article 21 is to be applied in the examination of that\nb. A non-negotiable sea waybill is not to contain any indication of a charter party as described in\nparagraphs G2) (a) and (b).\nIssuance, carrier, identification of the carrier and signing of a non-negotiable sea waybill"
+      },
+      {
+        "key": "F10",
+        "content": "F10) a. A non-negotiable sea waybill is to indicate the number of originals that have been issued.\nb. Non-negotiable sea waybills marked \"First Original\", \"Second Original\", \"Third Original\", or\n\"Original\", \"Duplicate\", \"Triplicate\" or similar expressions are all originals.\nConsignee, order party, shipper, and notify party"
+      },
+      {
+        "key": "F11",
+        "content": "F11) a. When a credit requires a non-negotiable sea waybill to evidence that goods are consigned to a\nnamed entity, for example, \"consigned to (named entity)\", it is not to contain the expressions \"to order\"\nor \"to order of\" preceding the named entity, or the expression \"or order\" following the named entity,\nwhether typed or pre-printed.\nb. When a credit requires a non-negotiable sea waybill to evidence that goods are consigned \"to order\nof (named entity)\", it may indicate that the goods are consigned to that entity, without mentioning \"to\norder of\".\nc. When a credit requires a non-negotiable sea waybill to evidence that goods are consigned \"to order\"\nwithout naming the entity to whose order the goods are to be consigned, it is to indicate that the\ngoods are consigned to either the issuing bank or the applicant, without the need to mention the words\n\"to order\"."
+      },
+      {
+        "key": "F12",
+        "content": "F12) a. When a credit stipulates the details of one or more notify parties, a non-negotiable sea waybill\nmay also indicate the details of one or more additional notify parties.\nb. i. When a credit does not stipulate the details of a notify party, a non-negotiable sea waybill may\nindicate the details of any notify party and in any manner (except as stated in paragraph F12) (b) (ii)).\nii. When a credit does not stipulate the details of a notify party, but the details of the applicant appear\nas notify party on a non-negotiable sea waybill, and these details include the applicant's address and\ncontact details, they are not to conflict with those stated in the credit."
+      },
+      {
+        "key": "F13",
+        "content": "F13) When a credit requires a non-negotiable sea waybill to evidence goods consigned to \"issuing bank\"\nor \"applicant\" or notify \"applicant\" or \"issuing bank\", a non-negotiable sea waybill is to indicate the name\n28\nof the issuing bank or applicant, as applicable, but need not indicate their respective addresses or any\ncontact details that may be stated in the credit."
+      },
+      {
+        "key": "F14",
+        "content": "F14) When the address and contact details of the applicant appear as part of the consignee or notify party\nTransshipment, partial shipment and determining the presentation period when multiple sets of non-\nnegotiable sea waybills are presented"
+      },
+      {
+        "key": "F15",
+        "content": "F15) Transshipment is the unloading and reloading of goods from one vessel to another during the\ncarriage of those goods from the port of loading to the port of discharge stated in the credit. When a non-\nnegotiable sea waybill does not indicate unloading and reloading between these two ports, it is not\ntransshipment in the context of the credit and UCP 600 sub-articles 21 (b) and (c)."
+      },
+      {
+        "key": "F16",
+        "content": "F16) Shipment on more than one vessel is a partial shipment, even if each vessel leaves on the same day\nfor the same destination."
+      },
+      {
+        "key": "F17",
+        "content": "F17) a. When a credit prohibits partial shipment, and more than one set of original non-negotiable sea\nwaybills are presented covering shipment from one or more ports of loading (as specifically allowed, or\nwithin a geographical area or range of ports stated in the credit), each set is to indicate that it covers the\nshipment of goods on the same vessel and same journey and that the goods are destined for the same\nport of discharge.\nb. When a credit prohibits partial shipment, and more than one set of original non-negotiable sea waybills\nare presented in accordance with paragraph F17) (a) and incorporate different dates of shipment, the\nlatest of these dates is to be used for the calculation of any presentation period and must fall on or before\nthe latest shipment date stated in the credit.\nc. When partial shipment is allowed, and more than one set of original non-negotiable sea waybills are\npresented as part of a single presentation made under one covering schedule or letter and incorporate\ndifferent dates of shipment, on different vessels or the same vessel for a different journey, the earliest of\nthese dates is to be used for the calculation of any presentation period, and each of these dates must fall\non or before the latest shipment date stated in the credit.\nClean non-negotiable sea waybill"
+      },
+      {
+        "key": "F18",
+        "content": "F18) A non-negotiable sea waybill is not to include a clause or clauses that expressly declare a defective\na. A clause on a non-negotiable sea waybill such as \"packaging is not sufficient for the sea journey\" or\nwords of similar effect is an example of a clause expressly declaring a defective condition of the\npackaging.\nb. A clause on a non-negotiable sea waybill such as \"packaging may not be sufficient for the sea\njourney\" or words of similar effect does not expressly declare a defective condition of the packaging."
+      },
+      {
+        "key": "F19",
+        "content": "F19) a. It is not necessary for the word \"clean\" to appear on a non-negotiable sea waybill even when the\ncredit requires a non-negotiable sea waybill to be marked \"clean on board\" or \"clean\".\nb. Deletion of the word \"clean\" on a non-negotiable sea waybill does not expressly declare a defective\n29"
+      },
+      {
+        "key": "F2",
+        "content": "F2) a. A non-negotiable sea waybill may be issued by any entity other than a carrier or master (captain)\nprovided it meets the requirements of UCP 600 article 21.\nb. When a credit indicates \"Freight Forwarder's non-negotiable sea waybill is acceptable\" or \"House\nnon-negotiable sea waybill is acceptable\" or words of similar effect, a non-negotiable sea waybill may\n25\nbe signed by the issuing entity without it being necessary to indicate the capacity in which it has been\nsigned or the name of the carrier."
+      },
+      {
+        "key": "F20",
+        "content": "F20) A goods description indicated on a non-negotiable sea waybill may be in general terms not in conflict\nwith the goods description in the credit.\nIndication of name and address of delivery agent at port of discharge"
+      },
+      {
+        "key": "F21",
+        "content": "F21) When a credit requires a non-negotiable sea waybill to indicate the name, address and contact details\nof a delivery agent or words of similar effect, at or for the port of discharge, the address need not be one\nthat is located at the port of discharge or within the same country as that of the port of discharge."
+      },
+      {
+        "key": "F22",
+        "content": "F22) Any correction of data on a non-negotiable sea waybill is to be authenticated. Such authentication is\nto appear to have been made by the carrier, master or any one of their named agents, who may be\ndifferent from the agent that may have issued or signed a non-negotiable sea waybill, provided they are\nidentified as an agent of the carrier or the master."
+      },
+      {
+        "key": "F23",
+        "content": "F23) Copies of a non-negotiable sea waybill need not include authentication of any corrections that may\nhave been made on the original."
+      },
+      {
+        "key": "F24",
+        "content": "F24) A statement appearing on a non-negotiable sea waybill indicating the payment of freight need not\nbe identical to that stated in the credit, but is not to conflict with data in that document, any other\nstipulated document or the credit. For example, when a credit requires a non-negotiable sea waybill to\nbe marked \"freight payable at destination\", it may be marked \"freight collect\"."
+      },
+      {
+        "key": "F25",
+        "content": "F25) a. When a credit states that costs additional to freight are not acceptable, a non-negotiable sea\nwaybill is not to indicate that costs additional to the freight have been or will be incurred.\nb. An indication of costs additional to freight may be made by express reference to additional costs or\nby the use of trade terms which refer to costs associated with the loading or unloading of goods, such\nas, but not limited to, Free In (FI), Free Out (FO), Free In and Out (FIO) and Free In and Out Stowed\n(FIOS).\nc. Reference in a non-negotiable sea waybill to costs which may be levied, for example, as a result of a\ndelay in unloading the goods, or after the goods have been unloaded (demurrage costs) or costs\ncovering the late return of containers (detention costs) is not an indication of costs additional to\nfreight.\n7. CHARTER PARTY BILL OF LADING\nISBP - Paragraph G1 to G27\nApplication of UCP 600 article 22"
+      },
+      {
+        "key": "F3",
+        "content": "F3) A stipulation in a credit that \"Freight Forwarder's non-negotiable sea waybill is not acceptable\" or\n\"House non-negotiable sea waybill is not acceptable\" or words of similar effect has no meaning in the\ncontext of the title, format, content or signing of a non-negotiable sea waybill unless the credit provides\nspecific requirements detailing how the non-negotiable sea waybill is to be issued and signed. In the\nabsence of these requirements, such a stipulation is to be disregarded, and the non-negotiable sea waybill\npresented is to be examined according to the requirements of UCP 600 article 21."
+      },
+      {
+        "key": "F4",
+        "content": "F4) a. A non-negotiable sea waybill is to be signed in the form described in UCP 600 sub-article 21 (a) (i)\nand to indicate the name of the carrier, identified as the carrier.\nb. When a non-negotiable sea waybill is signed by a named branch of the carrier, the signature is\nconsidered to have been made by the carrier.\nc. When an agent signs a non-negotiable sea waybill for [or on behalf of] the carrier, the agent is to be\nnamed and, in addition, to indicate that it is signing as \"agent for (name), the carrier\" or as \"agent on\nbehalf of (name), the carrier\" or words of similar effect. When the carrier is identified elsewhere in the\ndocument as the \"carrier\", the named agent may sign, for example, as \"agent for [or on behalf of] the\ncarrier\" without naming the carrier again.\nd. When the master (captain) signs a non-negotiable sea waybill, the signature of the master is to be\nidentified as the \"master\". The name of the master need not be stated.\ne. When an agent signs a non-negotiable sea waybill for [or on behalf of] the master (captain), the\nagent is to be named and, in addition, to indicate that it is signing as \"agent for the master (or captain)\",\nor as \"agent on behalf of the master (or captain)\" or words of similar effect. The name of the master\n(captain) need not be stated.\nOn board notation, date of shipment, pre-carriage, place of receipt and port of loading"
+      },
+      {
+        "key": "F5",
+        "content": "F5) a. When a pre-printed \"Shipped on board\" non-negotiable sea waybill is presented, its issuance date\nwill be deemed to be the date of shipment unless it bears a separate dated on board notation. In the latter\nevent, such date will be deemed to be the date of shipment whether that date is before or after the\nissuance date of the non-negotiable sea waybill. The on board date may also be indicated in a designated\nfield or box.\nb. Notwithstanding that a credit may require a non-negotiable sea waybill to evidence a port-to-port\nshipment:\ni. when a non-negotiable sea waybill indicates a place of receipt that is the same as the port of\nloading, for example, place of receipt Rotterdam CY and the port of loading Rotterdam, and there is\nno indication of a means of pre-carriage (either in the pre-carriage field or the place of receipt field);\nor\nii. when a non-negotiable sea waybill indicates a place of receipt different from the port of loading,\nfor example, place of receipt Amsterdam and port of loading Rotterdam, and there is no indication\nof a means of pre-carriage (either in the pre-carriage field or the place of receipt field), then:\n(a) when a non-negotiable sea waybill is pre-printed \"shipped on board\", the date of issue will be\ndeemed to be the date of shipment, and no further on board notation is required.\n26\n(b) when a non-negotiable sea waybill is pre-printed \"received for shipment\", a dated on board\nnotation is required, and the date appearing in the notation will be deemed to be the date of\nshipment. The on board date may also be indicated in a designated field or box.\nc. Notwithstanding that a credit may require a non-negotiable sea waybill to evidence a port-to-port\nshipment, when a non-negotiable sea waybill:\ni. indicates a place of receipt different from the port of loading, for example, place of receipt\nAmsterdam and port of loading Rotterdam, and there is an indication of a means of pre-carriage\n(either in the pre-carriage field or the place of receipt field), regardless of whether it is pre-printed\n\"shipped on board\" or \"received for shipment\", it is to bear a dated on board notation which also\nindicates the name of the vessel and the port of loading stated in the credit. Such notation may also\nappear in a designated field or box. The date appearing in the on board notation or designated field\nor box will be deemed to be the date of shipment.\nii. indicates a means of pre-carriage (either in the pre-carriage field or the place of receipt field), no\nmatter if no place of receipt is stated or whether it is pre-printed \"shipped on board\" or \"received for\nshipment\", it is to bear a dated on board notation which also indicates the name of the vessel and\nthe port of loading stated in the credit. Such notation may also appear in a designated field or box.\nThe date appearing in the on board notation or designated field or box will be deemed to be the date\nof shipment.\nd. When a non-negotiable sea waybill indicates wording such as \"When the place of receipt box has\nbeen completed, any notation on this non-negotiable sea waybill of \"on board\", \"loaded on board\" or\nwords of similar effect shall be deemed to be on board the means of transportation performing the\ncarriage from the place of receipt to the port of loading\" or words of similar effect, and if, in addition,\nthe place of receipt box is completed, a non-negotiable sea waybill is to bear a dated on board\nnotation. The dated on board notation is also to indicate the name of the vessel and the port of loading\nstated in the credit. Such notation may also appear in a designated field or box. The date appearing in\nthe on board notation or designated field or box will be deemed to be the date of shipment.\ne. The named port of loading, as required by the credit, should appear in the port of loading field on a\nnon-negotiable sea waybill. However, it may also be stated in the field headed \"Place of receipt\" or\nwords of similar effect, provided there is a dated on board notation evidencing that the goods were\nshipped on board a named vessel at the port stated under \"Place of receipt\" or words of similar effect.\nf. A non-negotiable sea waybill is to indicate the port of loading stated in the credit. When a credit\nindicates the port of loading by also stating the country in which the port is located, the name of the\ncountry need not be stated.\ng. When a credit indicates a geographical area or range of ports of loading (for example, \"Any European\nPort\" or \"Hamburg, Rotterdam, Antwerp Port\"), a non-negotiable sea waybill is to indicate the actual\nport of loading, which is to be within that geographical area or range of ports. A non-negotiable sea\nwaybill need not indicate the geographical area.\nh. When a non-negotiable sea waybill indicates more than one port of loading, it is to evidence an on\nboard notation with the relevant on board date for each port of loading, regardless of whether it is\npre-printed \"received for shipment\" or \"shipped on board\". For example, when a non-negotiable sea\nwaybill indicates that shipment has been effected from Brisbane and Adelaide, a dated on board\nnotation is required for both Brisbane and Adelaide."
+      },
+      {
+        "key": "F6",
+        "content": "F6) Terms such as \"Shipped in apparent good order\", \"Laden on board\", \"Clean on board\" or other phrases\nthat incorporate \"shipped\" or \"on board\" have the same effect as the words \"Shipped on board\".\n27\nPort of discharge"
+      },
+      {
+        "key": "F7",
+        "content": "F7) a. The named port of discharge, as required by the credit, should appear in the port of discharge field\nwithin a non-negotiable sea waybill.\nb. However, the named port of discharge may be stated in the field headed \"Place of final destination\"\nor words of similar effect provided there is a notation evidencing that the port of discharge is that\nstated under \"Place of final destination\" or words of similar effect. For example, when a credit requires\nshipment to be effected to Felixstowe, but Felixstowe is shown as the place of final destination instead\nof the port of discharge, this may be evidenced by a notation stating \"Port of discharge Felixstowe\"."
+      },
+      {
+        "key": "F8",
+        "content": "F8) A non-negotiable sea waybill is to indicate the port of discharge stated in the credit. When a credit\nindicates the port of discharge by also stating the country in which the port is located, the name of the\ncountry need not be stated."
+      },
+      {
+        "key": "F9",
+        "content": "F9) When a credit indicates a geographical area or range of ports of discharge (for example \"Any European\nPort\" or \"Hamburg, Rotterdam, Antwerp Port\"), a non-negotiable sea waybill is to indicate the actual port\nof discharge, which is to be within that geographical area or range of ports. A non-negotiable sea waybill\nneed not indicate the geographical area.\nOriginal non-negotiable sea waybill"
+      },
+      {
+        "key": "G1",
+        "content": "G1) When there is a requirement in a credit for the presentation of a charter party bill of lading, or when\na credit allows presentation of a charter party bill of lading and a charter party bill of lading is presented,\nUCP 600 article 22 is to be applied in the examination of that document."
+      },
+      {
+        "key": "G10",
+        "content": "G10) a. A charter party bill of lading is to indicate the number of originals that have been issued.\nb. Charter party bills of lading marked \"First Original\", \"Second Original\", \"Third Original\", or \"Original\",\n\"Duplicate\", \"Triplicate\" or similar expressions are all originals.\nConsignee, order party, shipper and endorsement, and notify party"
+      },
+      {
+        "key": "G11",
+        "content": "G11) When a credit requires a charter party bill of lading to evidence that goods are consigned to a named\nentity, for example, \"consigned to (named entity)\" (i.e., a \"straight\" charter party bill of lading or\nconsignment) rather than \"to order\" or \"to order of (named entity)\", it is not to contain the expressions\n\"to order\" or \"to order of\" preceding the named entity or the expression \"or order\" following the named\nentity, whether typed or pre-printed."
+      },
+      {
+        "key": "G12",
+        "content": "G12) a. When a charter party bill of lading is issued \"to order\" or \"to order of the shipper\", it is to be\nendorsed by the shipper. An endorsement may be made by a named entity other than the shipper,\nprovided the endorsement is made for [or on behalf of] the shipper.\nb. When a credit requires a charter party bill of lading to evidence that goods are consigned \"to order\nof (named entity)\", it is not to indicate that the goods are straight consigned to that named entity."
+      },
+      {
+        "key": "G13",
+        "content": "G13) a. When a credit stipulates the details of one or more notify parties, a charter party bill of lading may\nalso indicate the details of one or more additional notify parties.\nb. i. When a credit does not stipulate the details of a notify party, a charter party bill of lading may\nindicate the details of any notify party and in any manner (except as stated in paragraph G13) (b) (ii)).\nii. When a credit does not stipulate the details of a notify party, but the details of the applicant appear\nas notify party on a charter party bill of lading, and these details include the applicant's address and\ncontact details, they are not to conflict with those stated in the credit."
+      },
+      {
+        "key": "G14",
+        "content": "G14) When a credit requires a charter party bill of lading to evidence goods consigned to or to the order\nof \"issuing bank\" or \"applicant\" or notify \"applicant\" or \"issuing bank\", a charter party bill of lading is to\nindicate the name of the issuing bank or applicant, as applicable, but need not indicate their respective\naddresses or contact details that may be stated in the credit."
+      },
+      {
+        "key": "G15",
+        "content": "G15) When the address and contact details of the applicant appear as part of the consignee or notify party\nPartial shipment and determining the presentation period when multiple sets of charter party bills of\nlading are presented"
+      },
+      {
+        "key": "G16",
+        "content": "G16) Shipment on more than one vessel is a partial shipment, even if each vessel leaves on the same day\nfor the same destination."
+      },
+      {
+        "key": "G17",
+        "content": "G17) a. When a credit prohibits partial shipment, and more than one set of original charter party bills of\nlading are presented covering shipment from one or more ports of loading (as specifically allowed, or\n33\nwithin a geographical area or range of ports stated in the credit), each set is to indicate that it covers the\nshipment of goods on the same vessel and same journey and that the goods are destined for the same\nport of discharge, geographical area or range of ports.\nb. When a credit prohibits partial shipment, and more than one set of original charter party bills of\nlading are presented in accordance with paragraph G17) (a) and incorporate different dates of\nshipment, or one set of original charter party bills of lading is presented indicating different dates of\nshipment, the latest of these dates is to be used for the calculation of any presentation period and\nmust fall on or before the latest shipment date stated in the credit.\nc. When partial shipment is allowed, and more than one set of original charter party bills of lading are\npresented as part of a single presentation made under one covering schedule or letter and incorporate\ndifferent dates of shipment, on different vessels or the same vessel for a different journey, the earliest\nof these dates is to be used for the calculation of any presentation period, and each of these dates\nmust fall on or before the latest shipment date stated in the credit.\nClean charter party bill of lading"
+      },
+      {
+        "key": "G18",
+        "content": "G18) A charter party bill of lading is not to include a clause or clauses that expressly declare a defective\na. A clause on a charter party bill of lading such as \"packaging is not sufficient for the sea journey\" or\nwords of similar effect is an example of a clause expressly declaring a defective condition of the\npackaging.\nb. A clause on a charter party bill of lading such as \"packaging may not be sufficient for the sea journey\"\nor words of similar effect does not expressly declare a defective condition of the packaging."
+      },
+      {
+        "key": "G19",
+        "content": "G19) a. It is not necessary for the word \"clean\" to appear on a charter party bill of lading even when the\ncredit requires a charter party bill of lading to be marked \"clean on board\" or \"clean\".\nb. Deletion of the word \"clean\" on a charter party bill of lading does not expressly declare a defective"
+      },
+      {
+        "key": "G2",
+        "content": "G2) a. A transport document, however named, containing any indication that it is subject to, or any\nreference to, a charter party is deemed to be a charter party bill of lading.\nb. A transport document, however named, indicating expressions such as \"freight payable as per\ncharter party dated (with or without mentioning a date)\", or \"freight payable as per charter party\", will\nbe an indication that it is subject to a charter party.\n30"
+      },
+      {
+        "key": "G20",
+        "content": "G20) A goods description indicated on a charter party bill of lading may be in general terms not in conflict\nwith the goods description in the credit."
+      },
+      {
+        "key": "G21",
+        "content": "G21) A charter party bill of lading may indicate that the goods are part of a larger consignment loaded\nonto the named vessel by reference to \"without segregation\", \"commingled\" or words of similar effect."
+      },
+      {
+        "key": "G22",
+        "content": "G22) Any correction of data on a charter party bill of lading is to be authenticated. Such authentication is\nto appear to have been made by the master (captain), owner, charterer or any one of their named agents,\nwho may be different from the agent that may have issued or signed a charter party bill of lading, provided\nthey are identified as an agent of the master (captain), owner or charterer."
+      },
+      {
+        "key": "G23",
+        "content": "G23) Non-negotiable copies of a charter party bill of lading need not include authentication of any\ncorrections that may have been made on the original.\n34"
+      },
+      {
+        "key": "G24",
+        "content": "G24) A statement appearing on a charter party bill of lading indicating the payment of freight need not\nbe identical to that stated in the credit but is not to conflict with data in that document, any other\nstipulated document or the credit. For example, when a credit requires a charter party bill of lading to be\nmarked \"freight payable at destination\", it may be marked \"freight collect\"."
+      },
+      {
+        "key": "G25",
+        "content": "G25) a. When a credit states that costs additional to freight are not acceptable, a charter party bill of\nlading is not to indicate that costs additional to the freight have been or will be incurred.\nb. An indication of costs additional to freight may be made by express reference to additional costs or\nby the use of trade terms which refer to costs associated with the loading or unloading of goods, such\nas, but not limited to, Free In (FI), Free Out (FO), Free In and Out (FIO) and Free In and Out Stowed\n(FIOS).\nc. Reference in a charter party bill of lading to costs which may be levied, for example, as a result of a\ndelay in unloading the goods or after the goods have been unloaded (demurrage costs) is not an\nindication of costs additional to freight.\nRelease of goods with more than one charter party bill of lading to be surrendered"
+      },
+      {
+        "key": "G26",
+        "content": "G26) A charter party bill of lading is not to expressly state that goods covered by that charter party bill of\nlading will only be released upon its surrender together with one or more other charter party bills of\nlading, unless all of the referenced charter party bills of lading form part of the same presentation under\nthe same credit.\nFor example, \"[Cargo XXXX] is covered by B/L No. YYY and ZZZ, and can only be released to a single\nmerchant upon presentation of all charter party bills of lading of that merchant\" is considered to be an\nexpress statement that one or more other charter party bills of lading, related to the referenced cargo,\nmust be surrendered prior to the goods being released.\nCharter party contracts"
+      },
+      {
+        "key": "G27",
+        "content": "G27) Unless UCP 600 sub-article 22 (b) is specifically excluded and the credit specifically indicates the data\nthat are to be examined and to what extent, banks do not examine any content of a charter party contract,\neven when such contract is required as a stipulated document under the credit.\n8. AIR TRANSPORT DOCUMENT\nISBP - Paragraph H1 to H27\nApplication of UCP 600 article 23"
+      },
+      {
+        "key": "G3",
+        "content": "G3) A transport document, however named, containing a code name or form name usually associated\nwith a charter party bill of lading, for example, \"Congenbill\" or \"Tanker Bill of Lading\" without any further\nindication or reference to a charter party, is not by itself an indication of, or reference to, a charter party.\nSigning of a charter party bill of lading"
+      },
+      {
+        "key": "G4",
+        "content": "G4) a. A charter party bill of lading is to be signed in the form described in UCP 600 sub-article 22 (a) (i).\nb. When the master (captain), owner or charterer signs a charter party bill of lading, the signature of\nthe master (captain), owner or charterer is to be identified as \"master\" (\"captain\"), \"owner\" or\n\"charterer\".\nc. When an agent signs a charter party bill of lading for [or on behalf of] the master (captain), owner\nor charterer, the agent is to be named and, in addition, to indicate that it is signing as agent for [or on\nbehalf of] the master (captain), owner or charterer as the case may be.\ni. When a charter party bill of lading is signed by an agent for [or on behalf of] the master (captain),\nthe name of the master (captain) need not be stated.\nii. When a charter party bill of lading is signed by an agent for [or on behalf of] the owner or charterer,\nthe name of the owner or charterer is to be stated.\nOn board notation, date of shipment, pre-carriage, place of receipt and port of loading"
+      },
+      {
+        "key": "G5",
+        "content": "G5) a. When a pre-printed \"Shipped on board\" charter party bill of lading is presented, its issuance date\nwill be deemed to be the date of shipment unless it bears a separate dated on board notation. In the latter\nevent, such date will be deemed to be the date of shipment whether that date is before or after the\nissuance date of the charter party bill of lading. The on board date may also be indicated in a designated\nfield or box.\nb. Notwithstanding that a credit may require a charter party bill of lading to evidence a port-to-port\nshipment:\ni. when a charter party bill of lading indicates a place of receipt that is the same as the port of loading,\nfor example, place of receipt Rotterdam CY and the port of loading Rotterdam, and there is no\nindication of a means of pre-carriage (either in the pre-carriage field or the place of receipt field); or\nii. when a charter party bill of lading indicates a place of receipt different from the port of loading,\nfor example, place of receipt Amsterdam and port of loading Rotterdam, and there is no indication\nof a means of pre-carriage (either in the pre-carriage field or the place of receipt field), then:\n(a) when a charter party bill of lading is pre-printed \"shipped on board\", the date of issue will be\ndeemed to be the date of shipment, and no further on board notation is required.\n(b) when a charter party bill of lading is pre-printed \"received for shipment\", a dated on board\nnotation is required, and the date appearing in the notation will be deemed to be the date of\nshipment. The on board date may also be indicated in a designated field or box.\nc. Notwithstanding that a credit may require a charter party bill of lading to evidence a port-to-port\nshipment, when a charter party bill of lading:\ni. indicates a place of receipt different from the port of loading, for example, place of receipt\nAmsterdam and port of loading Rotterdam, and there is an indication of a means of pre-carriage\n(either in the pre-carriage field or the place of receipt field), regardless of whether it is pre-printed\n\"shipped on board\" or \"received for shipment\", it is to bear a dated on board notation which also\nindicates the name of the vessel and the port of loading stated in the credit. Such notation may also\n31\nappear in a designated field or box. The date appearing in the on board notation or designated field\nor box will be deemed to be the date of shipment.\nii. indicates a means of pre-carriage (either in the pre-carriage field or the place of receipt field), no\nmatter if no place of receipt is stated, or whether it is pre-printed \"shipped on board\" or \"received\nfor shipment\", it is to bear a dated on board notation which also indicates the name of the vessel and\nthe port of loading stated in the credit. Such notation may also appear in a designated field or box.\nThe date appearing in the on board notation or designated field or box will be deemed to be the date\nof shipment.\nd. When a charter party bill of lading shows wording such as \"When the place of receipt box has been\ncompleted, any notation on this charter party bill of lading of \"on board\", \"loaded on board\" or words\nof similar effect shall be deemed to be on board the means of transportation performing the carriage\nfrom the place of receipt to the port of loading\" or words of similar effect, and if, in addition, the place\nof receipt box is completed, a charter party bill of lading is to bear a dated on board notation. The\ndated on board notation is also to indicate the name of the vessel and the port of loading stated in the\ncredit. Such notation may also appear in a designated field or box. The date appearing in the on board\nnotation or designated field or box will be deemed to be the date of shipment.\ne. The named port of loading, as required by the credit, should appear in the port of loading field on a\ncharter party bill of lading. However, it may also be stated in the field headed \"Place of receipt\" or\nwords of similar effect, provided there is a dated on board notation evidencing that the goods were\nshipped on board a named vessel at the port stated under \"Place of receipt\" or words of similar effect.\nf. A charter party bill of lading is to indicate the port of loading stated in the credit. When a credit\nindicates the port of loading by also stating the country in which the port is located, the name of the\ncountry need not be stated.\ng. When a credit indicates a geographical area or range of ports of loading (for example, \"Any European\nPort\" or \"Hamburg, Rotterdam, Antwerp Port\"), a charter party bill of lading is to indicate the actual\nport or ports of loading, which are to be within that geographical area or range of ports. A charter\nparty bill of lading need not indicate the geographical area.\nh. When a charter party bill of lading indicates more than one port of loading, it is to evidence an on\nboard notation with the relevant on board date for each port of loading, regardless of whether it is\npre-printed \"received for shipment\" or \"shipped on board\". For example, when a charter party bill of\nlading indicates that shipment has been effected from Brisbane and Adelaide, a dated on board\nnotation is required for both Brisbane and Adelaide."
+      },
+      {
+        "key": "G6",
+        "content": "G6) Terms such as \"Shipped in apparent good order\", \"Laden on board\", \"Clean on board\" or other phrases\nthat incorporate \"shipped\" or \"on board\" have the same effect as the words \"Shipped on board\".\nPort of discharge"
+      },
+      {
+        "key": "G7",
+        "content": "G7) a. The named port of discharge, as required by the credit, should appear in the port of discharge field\nwithin a charter party bill of lading.\nb. However, the named port of discharge may be stated in the field headed \"Place of final destination\"\nor words of similar effect provided there is a notation evidencing that the port of discharge is that\nstated under \"Place of final destination\" or words of similar effect. For example, when a credit requires\nshipment to be effected to Felixstowe, but Felixstowe is shown as the place of final destination instead\nof the port of discharge, this may be evidenced by a notation stating \"Port of discharge Felixstowe\".\n32"
+      },
+      {
+        "key": "G8",
+        "content": "G8) A charter party bill of lading is to indicate the port of discharge stated in the credit. When a credit\nindicates the port of discharge by also stating the country in which the port is located, the name of the\ncountry need not be stated."
+      },
+      {
+        "key": "G9",
+        "content": "G9) When a credit indicates a geographical area or range of ports of discharge (for example, \"Any\nEuropean Port\" or \"Hamburg, Rotterdam, Antwerp Port\"), a charter party bill of lading may indicate the\nactual port of discharge, which is to be within that geographical area or range of ports, or it may show the\ngeographical area or range of ports as the port of discharge.\nOriginal charter party bill of lading"
+      },
+      {
+        "key": "H1",
+        "content": "H1) A requirement in a credit for the presentation of an air transport document, however named, covering\nan airport-to-airport shipment means that UCP 600 article 23 is to be applied in the examination of that"
+      },
+      {
+        "key": "H10",
+        "content": "H10) The airport of departure and airport of destination may also be indicated by the use of IATA codes\ninstead of evidencing the airport name in full (for example, LAX instead of Los Angeles)."
+      },
+      {
+        "key": "H11",
+        "content": "H11) When a credit indicates a geographical area or range of airports of departure or destination (for\nexample, \"Any Chinese Airport\" or \"Shanghai, Beijing, Guangzhou airport\"), an air transport document is\nto indicate the actual airport of departure or destination, which is to be within that geographical area or\nrange of airports. An air transport document need not indicate the geographical area.\nOriginal of an air transport document"
+      },
+      {
+        "key": "H12",
+        "content": "H12) and J7) (c).\nc. When a credit requires presentation of less than a full set of original transport documents, (for\nexample, \"2/3 original bills of lading\"), but does not provide any disposal instructions for the remaining\noriginal bill of lading, a presentation may include 3/3 original bills of lading.\nd. When a credit requires, for example, presentation of:\ni. \"Invoice\", \"One Invoice\", \"Invoice in 1 copy\" or \"Invoice - 1 copy\", it will be understood to be a\nrequirement for an original invoice.\n8\nii. \"Invoice in 4 copies\" or \"Invoice in 4 fold\" will be satisfied by the presentation of at least one\noriginal invoice and any remaining number as copies.\niii. \"photocopy of invoice\" or \"copy of invoice\" will be satisfied by the presentation of either a\nphotocopy, copy or, when not prohibited, an original invoice.\niv. \"photocopy of a signed invoice\" will be satisfied by the presentation of either a photocopy or copy\nof the original invoice that was apparently signed or, when not prohibited, a signed original invoice."
+      },
+      {
+        "key": "H13",
+        "content": "H13) a. When a credit requires an air transport document to evidence that goods are consigned \"to order\nof (named entity)\", it may indicate that the goods are consigned to that entity, without mentioning \"to\norder of\".\nb. When a credit requires an air transport document to evidence that goods are consigned \"to order\"\nwithout naming the entity to whose order the goods are to be consigned, it is to indicate that the\ngoods are consigned to either the issuing bank or the applicant, without the need to mention the words\n\"to order\"."
+      },
+      {
+        "key": "H14",
+        "content": "H14) a. When a credit stipulates the details of one or more notify parties, an air transport document may\nalso indicate the details of one or more additional notify parties.\nb. i. When a credit does not stipulate the details of a notify party, an air transport document may\nindicate the details of any notify party and in any manner (except as stated in paragraph H14) (b) (ii)).\nii. When a credit does not stipulate the details of a notify party, but the details of the applicant appear\nas notify party on an air transport document, and these details include the applicant's address and\ncontact details, they are not to conflict with those stated in the credit."
+      },
+      {
+        "key": "H15",
+        "content": "H15) When a credit requires an air transport document to evidence goods consigned to \"issuing bank\" or\n\"applicant\" or notify \"applicant\" or \"issuing bank\", an air transport document is to indicate the name of\nthe issuing bank or applicant, as applicable, but need not indicate their respective addresses or any\ncontact details that may be stated in the credit."
+      },
+      {
+        "key": "H16",
+        "content": "H16) When the address and contact details of the applicant appear as part of the consignee or notify party\nTransshipment, partial shipment and determining the presentation period when multiple air transport\ndocuments are presented"
+      },
+      {
+        "key": "H17",
+        "content": "H17) Transshipment is the unloading and reloading of goods from one aircraft to another during the\ncarriage of those goods from the airport of departure to the airport of destination stated in the credit.\nWhen an air transport document does not indicate unloading and reloading between these two airports,\nit is not transshipment in the context of the credit and UCP 600 sub-articles 23 (b) and (c)."
+      },
+      {
+        "key": "H18",
+        "content": "H18) Dispatch on more than one aircraft is a partial shipment, even if each aircraft leaves on the same\nday for the same destination."
+      },
+      {
+        "key": "H19",
+        "content": "H19) a. When a credit prohibits partial shipment, and more than one air transport documents are\npresented covering dispatch from one or more airports of departure (as specifically allowed, or within a\ngeographical area or range of airports stated in the credit), each air transport document is to indicate that\nit covers the dispatch of goods on the same aircraft and same flight and that the goods are destined for\nthe same airport of destination.\nb. When a credit prohibits partial shipment, and more than one air transport documents are presented\nin accordance with paragraph H19) (a) and incorporate different dates of dispatch, the latest of these\ndates is to be used for the calculation of any presentation period and must fall on or before the latest\nshipment date stated in the credit.\nc. When partial shipment is allowed, and more than one air transport documents are presented as part\nof a single presentation made under one covering schedule or letter and incorporate different dates\nof dispatch or different flights, the earliest of these dates is to be used for the calculation of any\n37\npresentation period, and each of these dates must fall on or before the latest shipment date stated in\nthe credit.\nClean air transport document"
+      },
+      {
+        "key": "H2",
+        "content": "H2) An air transport document need not be titled \"air waybill\", \"air consignment note\" or words of similar\neffect even when the credit so names the required document.\nIssuance, carrier, identification of the carrier and signing of an air transport document"
+      },
+      {
+        "key": "H20",
+        "content": "H20) An air transport document is not to include a clause or clauses that expressly declare a defective\na. A clause on an air transport document such as \"packaging is not sufficient for the air journey\" or\nwords of similar effect is an example of a clause expressly declaring a defective condition of the\npackaging.\nb. A clause on an air transport document such as \"packaging may not be sufficient for the air journey\"\nor words of similar effect does not expressly declare a defective condition of the packaging."
+      },
+      {
+        "key": "H21",
+        "content": "H21) a. It is not necessary for the word \"clean\" to appear on an air transport document even when the\ncredit requires an air transport document to be marked \"clean\".\nb. Deletion of the word \"clean\" on an air transport document does not expressly declare a defective"
+      },
+      {
+        "key": "H22",
+        "content": "H22) A goods description indicated on an air transport document may be in general terms not in conflict\nwith the goods description in the credit."
+      },
+      {
+        "key": "H23",
+        "content": "H23) Any correction of data on an air transport document is to be authenticated. Such authentication is\nto appear to have been made by the carrier or any one of its named agents, who may be different from\nthe agent that may have issued or signed the air transport document, provided they are identified as an\nagent of the carrier."
+      },
+      {
+        "key": "H24",
+        "content": "H24) Copies of an air transport document need not include authentication of any corrections that may\nhave been made on the original."
+      },
+      {
+        "key": "H25",
+        "content": "H25) A statement appearing on an air transport document indicating the payment of freight need not be\nidentical to that stated in the credit, but is not to conflict with data in that document, any other stipulated\ndocument or the credit. For example, when a credit requires an air transport document to be marked\n\"freight collect\", it may be marked \"freight payable at destination\"."
+      },
+      {
+        "key": "H26",
+        "content": "H26) An air transport document may contain separate boxes, which by their pre-printed headings indicate\nthat they are for freight charges \"prepaid\" and for freight charges \"collect\".\na. When a credit requires an air transport document to show that freight has been prepaid, this will\nalso be fulfilled by an indication of the freight charges under the heading \"Freight Charges Prepaid\" or\nwords of similar effect.\nb. When a credit requires an air transport document to show that freight is to be collected or paid at\ndestination, this will also be fulfilled by an indication of the freight charges under the heading \"Freight\nCharges Collect\" or words of similar effect."
+      },
+      {
+        "key": "H27",
+        "content": "H27) a. When a credit states that costs additional to freight are not acceptable, an air transport document\nis not to indicate that costs additional to the freight have been or will be incurred.\n38\nb. Reference in an air transport document to costs which may be levied, for example, as a result of a\ndelay in unloading the goods or after the goods have been unloaded, is not an indication of costs\nadditional to freight.\n9. ROAD, RAIL OR INLAND WATERWAY TRANSPORT DOCUMENTS\nISBP - Paragraph J1 to J20\nApplication of UCP 600 article 24"
+      },
+      {
+        "key": "H3",
+        "content": "H3) a. An air transport document may be issued by any entity other than a carrier provided it meets the\nrequirements of UCP 600 article 23.\nb. When a credit indicates \"Freight Forwarder's air waybill is acceptable\" or \"House air waybill is\nacceptable\" or words of similar effect, an air transport document may be signed by the issuing entity\nwithout it being necessary to indicate the capacity in which it has been signed or the name of the\ncarrier.\n35"
+      },
+      {
+        "key": "H4",
+        "content": "H4) A stipulation in a credit that \"Freight Forwarder's air waybill is not acceptable\" or \"House air waybill\nis not acceptable\" or words of similar effect has no meaning in the context of the title, format, content or\nsigning of an air transport document unless the credit provides specific requirements detailing how the\nair transport document is to be issued and signed. In the absence of these requirements, such a stipulation\nis to be disregarded, and the air transport document presented is to be examined according to the\nrequirements of UCP 600 article 23."
+      },
+      {
+        "key": "H5",
+        "content": "H5) a. An air transport document is to be signed in the form described in UCP 600 sub-article 23 (a) (i) and\nto indicate the name of the carrier, identified as the carrier.\nb. When an air transport document is signed by a named branch of the carrier, the signature is\nconsidered to have been made by the carrier.\nc. The carrier is to be identified by its name instead of an IATA airline code, for example, British Airways\ninstead of BA, Lufthansa instead of LH."
+      },
+      {
+        "key": "H6",
+        "content": "H6) When an agent signs an air transport document \"for [or on behalf of] the carrier\", the agent is to be\nnamed and, in addition, to indicate that it is signing as \"agent for (name), the carrier\" or as \"agent on\nbehalf of (name), the carrier\" or words of similar effect. When the carrier is identified elsewhere in the\ndocument as the \"carrier\", the named agent may sign, for example, as \"agent for [or on behalf of] the\ncarrier\" without naming the carrier again.\nGoods accepted for carriage, date of shipment and requirement for an actual date of shipment"
+      },
+      {
+        "key": "H7",
+        "content": "H7) An air transport document is to indicate that the goods have been accepted for carriage or words of\nsimilar effect."
+      },
+      {
+        "key": "H8",
+        "content": "H8) a. An air transport document is to indicate a date of issuance. This date will be deemed to be the date\nof shipment unless an air transport document contains a specific notation of the actual date of shipment.\nIn the latter event, the date stated in the notation will be deemed to be the date of shipment whether\nthat date is before or after the issuance date of the air transport document.\nb. In the absence of a specific notation containing the actual date of shipment, any other information\nappearing on an air transport document relative to this information (including, for example, in a box\nlabeled \"For Carrier Use Only\", \"Required Flight Date\" or \"Routing and Destination\") is to be\ndisregarded in the determination of the date of shipment.\nAirports of departure and destination"
+      },
+      {
+        "key": "H9",
+        "content": "H9) An air transport document is to indicate the airport of departure and airport of destination stated in\nthe credit. When a credit indicates either of these airports by also stating the country in which the airport\nis located, the name of the country need not be stated."
+      },
+      {
+        "key": "J1",
+        "content": "J1) A requirement in a credit for the presentation of a transport document covering movement of goods\nby either road or rail or inland waterway means that UCP 600 article 24 is to be applied in the examination\nof that document.\nCarrier, identification of the carrier and signing of a road, rail or inland waterway transport document"
+      },
+      {
+        "key": "J10",
+        "content": "J10) When a credit requires a road, rail or inland waterway transport document to evidence goods\nconsigned to or to the order of \"issuing bank\" or \"applicant\" or notify \"applicant\" or \"issuing bank\", a road,\nrail or inland waterway transport document is to indicate the name of the issuing bank or applicant, as\napplicable, but need not indicate their respective addresses or any contact details that may be stated in\nthe credit. A road or rail transport document need not also indicate \"to order of\", as stated in paragraph"
+      },
+      {
+        "key": "J11",
+        "content": "J11) When the address and contact details of the applicant appear as part of the consignee or notify party\nTransshipment, partial shipment and determining the presentation period when multiple road, rail or\ninland waterway transport documents are presented"
+      },
+      {
+        "key": "J12",
+        "content": "J12) Transshipment is the unloading and reloading of goods from one means of conveyance to another\nwithin the same mode of transport (truck [lorry], train, barge, etc.,) during the carriage of those goods\nfrom the place of shipment, dispatch or carriage to the place of destination stated in the credit. When a\nroad, rail or inland waterway transport document does not indicate unloading and reloading between\n40\nthese two places, it is not transshipment in the context of the credit and UCP 600 sub-articles 24 (d) and\n(e)."
+      },
+      {
+        "key": "J13",
+        "content": "J13) Shipment on more than one means of conveyance (more than one truck [lorry], train, barge, etc.,) is\na partial shipment, even when such means of conveyance leaves on the same day for the same\ndestination."
+      },
+      {
+        "key": "J14",
+        "content": "J14) a. When a credit prohibits partial shipment, and more than one road, rail or inland waterway\ntransport documents are presented covering shipment from one or more places of shipment, dispatch or\ncarriage (as specifically allowed, or within a geographical area or range of places stated in the credit), each\nroad, rail or inland waterway transport document is to indicate that it covers the shipment, dispatch or\ncarriage of goods on the same means of conveyance and same journey and that the goods are destined\nfor the same place of destination.\nb. When a credit prohibits partial shipment, and more than one road, rail or inland waterway transport\ndocuments are presented in accordance with paragraph J14) (a) and incorporate different dates of\nshipment, the latest of these dates is to be used for the calculation of any presentation period, and\nmust fall on or before the latest shipment date stated in the credit.\nc. When partial shipment is allowed, and more than one road, rail or inland waterway transport\ndocuments are presented as part of a single presentation made under one covering schedule or letter\nand incorporate different dates of shipment, on different means of conveyance or the same means of\nconveyance for a different journey, the earliest of these dates is to be used for the calculation of any\npresentation period and each of these dates must fall on or before the latest shipment date stated in\nthe credit.\nClean road, rail or inland waterway transport document"
+      },
+      {
+        "key": "J15",
+        "content": "J15) A road, rail or inland waterway transport document is not to include a clause or clauses that expressly\ndeclare a defective condition of the goods or their packaging.\na. A clause on a road, rail or inland waterway transport document such as \"packaging is not sufficient\nfor the journey\" or words of similar effect is an example of a clause expressly declaring a defective\ncondition of the packaging.\nb. A clause on a road, rail or inland waterway transport document such as \"packaging may not be\nsufficient for the journey\" or words of similar effect does not expressly declare a defective condition\nof the packaging."
+      },
+      {
+        "key": "J16",
+        "content": "J16) a. It is not necessary for the word \"clean\" to appear on a road, rail or inland waterway transport\ndocument even when the credit requires a road, rail or inland waterway transport document to be marked\n\"clean\" or \"clean on board\".\nb. Deletion of the word \"clean\" on a road, rail or inland waterway transport document does not\nexpressly declare a defective condition of the goods or their packaging."
+      },
+      {
+        "key": "J17",
+        "content": "J17) A goods description indicated on a road, rail or inland waterway transport document may be in\ngeneral terms not in conflict with the goods description in the credit.\n41"
+      },
+      {
+        "key": "J18",
+        "content": "J18) Any correction of data on a road, rail or inland waterway transport document is to be authenticated.\nSuch authentication is to appear to have been made by the carrier or any one of its named agents, who\nmay be different from the agent that may have issued or signed the transport document, provided they\nare identified as an agent of the carrier."
+      },
+      {
+        "key": "J19",
+        "content": "J19) Copies of a road, rail or inland waterway transport document need not include any authentication of\nany corrections that may have been made on the original.\nFreight"
+      },
+      {
+        "key": "J2",
+        "content": "J2) a. A road, rail or inland waterway transport document is to be signed in the form described in UCP 600\nsub-article 24 (a) (i) and to indicate the name of the carrier, identified as the carrier (except as stated in\nparagraph J4) (b)).\nb. When a road, rail or inland waterway transport document is signed by a named branch of the carrier,\nthe signature is considered to have been made by the carrier.\nc. The term \"carrier\" includes terms such as \"issuing carrier\", \"actual carrier\", \"succeeding carrier\" and\n\"contracting carrier\"."
+      },
+      {
+        "key": "J20",
+        "content": "J20) a. A statement appearing on a road, rail or inland waterway transport document indicating the\npayment of freight need not be identical to that stated in the credit, but is not to conflict with data in that\ndocument, any other stipulated document or the credit. For example, when a credit requires a road, rail\nor inland waterway transport document to be marked \"freight collect\", it may be marked \"freight payable\nat destination\".\nb. When a credit requires a road, rail or inland waterway transport document to indicate that freight\nhas been prepaid or freight is to be collected at destination, this will also be fulfilled by the completion\nof boxes marked \"Franco\" (freight prepaid) or \"Non-Franco\" (freight to be collected).\n10. INSURANCE DOCUMENT AND COVERAGE\nISBP - Paragraph K1 to K23\nApplication of UCP 600 article 28"
+      },
+      {
+        "key": "J3",
+        "content": "J3) Any signature, stamp or notation of receipt of the goods is to appear to indicate that it has been made\nby:\na. the carrier, identified as the carrier; or\nb. a named agent acting or signing for [or on behalf of] the carrier and indicating the name of the\ncarrier, identified as the carrier, on whose behalf that agent is acting or signing; or\nc. a railway company or railway station of departure."
+      },
+      {
+        "key": "J4",
+        "content": "J4) a. The term \"carrier\" need not appear on the signature line provided the transport document appears\nto be signed by the carrier or a named agent for [or on behalf of] the carrier, and the carrier is otherwise\nidentified elsewhere in the transport document as the \"carrier\".\nb. A rail transport document may bear a date stamp by the railway company or railway station of\ndeparture without indicating the name of the carrier or a named agent signing for [or on behalf of] the\ncarrier.\nPlace of shipment and place of destination"
+      },
+      {
+        "key": "J5",
+        "content": "J5) A road, rail or inland waterway transport document is to indicate the place of shipment and place of\ndestination stated in the credit. When a credit indicates either of these places by also stating the country\nin which the place is located, the name of the country need not be stated."
+      },
+      {
+        "key": "J6",
+        "content": "J6) When a credit indicates a geographical area or range of places of shipment or destination (for example,\n\"China\" or \"Shanghai, Beijing or Guangzhou\"), a road, rail or inland waterway transport document is to\nindicate the actual place of shipment or destination, which is to be within that geographical area or range\nof places. A road, rail or inland waterway transport document need not indicate the geographical area.\nOriginal and duplicate of a road, rail or inland waterway transport document\n39"
+      },
+      {
+        "key": "J7",
+        "content": "J7) a. A rail or inland waterway transport document is to be considered as an original whether or not it is\nso marked.\nb. A road transport document is to indicate that it is the original for consignor or shipper (copy for\nsender) or bear no marking indicating for whom the document has been prepared.\nc. Presentation of the original for consignor or shipper (copy for sender) of a road transport document\nor duplicate rail transport document shall suffice even when the credit requires presentation of a full\nset of the relevant transport documents.\nd. A duplicate (often a carbon copy) of a rail transport document, authenticated by the signature or\nstamp of the railway company or the railway station of departure, is considered to be an original.\nConsignee, order party and notify party"
+      },
+      {
+        "key": "J8",
+        "content": "J8) a. When a credit requires a road or rail transport document to evidence that goods are consigned \"to\norder of (named entity)\", it may indicate that the goods are consigned to that entity, without mentioning\n\"to order of\".\nb. When a credit requires a road or rail transport document to evidence that goods are consigned \"to\norder\" without naming the entity to whose order the goods are to be consigned, it is to indicate that\nthe goods are consigned either to the issuing bank or the applicant, without the need to mention the\nwords \"to order\".\nc. When a credit requires an inland waterway transport document, paragraphs J8) (a) and (b) will apply\nexcept when the document is issued in the form of a bill of lading. In such event, the consignee field is\nto be completed according to the requirements of the credit."
+      },
+      {
+        "key": "J9",
+        "content": "J9) a. When a credit stipulates the details of one or more notify parties, a road, rail or inland waterway\ntransport document may also indicate the details of one or more additional notify parties.\nb. i. When a credit does not stipulate the details of a notify party, a road, rail or inland waterway\ntransport document may indicate the details of any notify party and in any manner (except as stated\nin paragraph J9) (b) (ii)).\nii. When a credit does not stipulate the details of a notify party, but the details of the applicant appear\nas notify party on a road, rail or inland waterway transport document, and these details include the\napplicant's address and contact details, they are not to conflict with those stated in the credit."
+      },
+      {
+        "key": "K1",
+        "content": "K1) A requirement in a credit for the presentation of an insurance document, such as an insurance policy,\ninsurance certificate or declaration under an open cover, means that UCP600 article 28 is to be applied in\nthe examination of that document.\nIssuer, signing and original of an insurance document"
+      },
+      {
+        "key": "K10",
+        "content": "K10) a. An insurance document is not to indicate that cover is effective from a date later than the date of\nshipment.\nb. When an insurance document indicates a date of issuance later than the date of shipment (as\ndefined in UCP 600 articles 19-25), it is to clearly indicate by addition or note that coverage is effective\nfrom a date not later than the date of shipment.\nc. An insurance document that indicates coverage has been effected from \"warehouse - to -\nwarehouse\" or words of similar effect, and is dated after the date of shipment, does not indicate that\ncoverage was effective from a date not later than the date of shipment."
+      },
+      {
+        "key": "K11",
+        "content": "K11) In the absence of any other date stated to be the issuance date or effective date of insurance\ncoverage, a countersignature date will be deemed to be evidence of the effective date of the insurance\ncoverage.\nAmount of cover and percentage"
+      },
+      {
+        "key": "K12",
+        "content": "K12) When a credit does not indicate an amount to be insured, an insurance document is to be issued in\nthe currency of the credit and, as a minimum, for the amount indicated under UCP 600 sub-article 28 (f)\n(ii). There is no maximum percentage of insurance coverage."
+      },
+      {
+        "key": "K13",
+        "content": "K13) There is no requirement for insurance coverage to be calculated to more than two decimal places."
+      },
+      {
+        "key": "K14",
+        "content": "K14) An insurance document may indicate that cover is subject to a franchise or excess (deductible).\nHowever, when a credit requires the insurance cover to be irrespective of percentage, the insurance\ndocument is not to contain a clause stating that the insurance cover is subject to a franchise or an excess\n(deductible). An insurance document need not state \"irrespective of percentage\"."
+      },
+      {
+        "key": "K15",
+        "content": "K15) When it is apparent from the credit or from the presentation that the amount demanded only\nrepresents a certain part of the gross value of the goods (for example, due to discounts, pre-payments or\nthe like, or because part of the value of the goods is to be paid at a later date), the calculation of insurance\ncover is to be based on the full gross value of the goods as shown on the invoice or the credit and subject\nto the requirements of UCP600 sub-article 28(f) (ii).\n43"
+      },
+      {
+        "key": "K16",
+        "content": "K16) Insurance covering the same risk for the same shipment is to be covered under one document unless\nmore than one insurance document is presented indicating partial cover, and each document clearly\nreflects, by percentage or otherwise:\na. the value of each insurer's cover;\nb. that each insurer will bear its share of the liability severally and without pre-conditions relating to\nany other insurance cover that may have been effected for that shipment; and\nc. the respective coverage of the documents, when totalled, equals at least the insured amount\nrequired by the credit or UCP600 sub-article 28 (f)(ii).\nRisks to be covered"
+      },
+      {
+        "key": "K17",
+        "content": "K17) a. An insurance document is to cover the risks required by the credit.\nb. Even though a credit may be explicit with regard to risks to be covered, there may be a reference to\nexclusion clauses in the insurance document."
+      },
+      {
+        "key": "K18",
+        "content": "K18) When a credit requires \"all risks\" coverage, this is satisfied by the presentation of an insurance\ndocument evidencing any \"all risks\" clause or notation, whether or not it bears the heading \"all risks\",\neven when it is indicated that certain risks are excluded. An insurance document indicating that it covers\nInstitute Cargo Clauses (A) or Institute Cargo Clauses (Air), when dispatch is effected by air satisfies a\ncondition in a credit calling for an \"all risks\" clause or notation.\nInsured party and endorsement"
+      },
+      {
+        "key": "K19",
+        "content": "K19) An insurance document is to be in the form required by the credit and, where necessary, be endorsed\nby the entity to whose order or in whose favour claims are payable."
+      },
+      {
+        "key": "K2",
+        "content": "K2) a. An insurance document is to appear to have been issued and signed by an insurance company or\nunderwriter or their agent or proxy. For example, an insurance document issued and signed by \"AA\nInsurance Ltd\" appears to have been issued by an insurance company.\nb. When an issuer is identified as \"insurer\", the insurance document need not indicate that it is an\ninsurance company or underwriter."
+      },
+      {
+        "key": "K20",
+        "content": "K20) a. A credit should not require an insurance document to be issued \"to bearer\", or \"to order\". A credit\nshould indicate the name of an insured party.\nb. When a credit requires an insurance document to be issued \"to order of (named entity)\" the\ndocument need not indicate \"to order\" provided that the named entity is shown as the insured party\nor claims are payable to it, and assignment by endorsement is not expressly prohibited."
+      },
+      {
+        "key": "K21",
+        "content": "K21) a. When a credit is silent as to the insured party, an insurance document is not to evidence that\nclaims are payable to the order of, or in favour of, the beneficiary or any entity other than the issuing bank\nor applicant, unless it is endorsed by the beneficiary or that entity in blank or in favour of the issuing bank\nor applicant.\nb. An insurance document is to be issued or endorsed so that the right to receive payment under it\npasses upon, or prior to, the release of the documents.\nGeneral Terms and Conditions of an Insurance Document"
+      },
+      {
+        "key": "K22",
+        "content": "K22) Banks do not examine general terms and conditions in an insurance document.\nInsurance Premium"
+      },
+      {
+        "key": "K23",
+        "content": "K23) Any indication on an insurance document regarding payment of an insurance premium is to be\ndisregarded unless the insurance document indicates that it is not valid unless the premium has been paid\nand there is an indication that the premium has not been paid.\n11. CERTIFICATE OF ORIGIN\nISBP - Paragraph L1 to L8\n44"
+      },
+      {
+        "key": "K3",
+        "content": "K3) An insurance document may also be issued on an insurance broker's stationery, provided the\ninsurance document has been signed by an insurance company or underwriter or their agent or proxy. An\ninsurance broker may sign an insurance document as agent or proxy for [or on behalf of] a named\ninsurance company or named underwriter."
+      },
+      {
+        "key": "K4",
+        "content": "K4) An insurance document signed by an agent or proxy is to indicate the name of the insurance company\nor underwriter for [or on behalf of] which the agent or proxy is signing, unless the insurance company or\nunderwriter name has been identified elsewhere in the document. For example, when \"AA Insurance Ltd\"\nhas been identified as the insurer, the document may be signed \"John Doe (by proxy) on behalf of the\ninsurer\" or \"John Doe (by proxy) on behalf of AA Insurance Ltd\"."
+      },
+      {
+        "key": "K5",
+        "content": "K5) When an insurance document requires a countersignature by the issuer, the assured or a named\nentity, it must be countersigned."
+      },
+      {
+        "key": "K6",
+        "content": "K6) An insurance document may show only the trading name of the insurance company in the signing\nfield, provided it is identified as the insurance company elsewhere on the document, for example, when\n42\nan insurance document is issued and signed \"AA\" in the signing field but shows \"AA Insurance Ltd\" and its\naddress and contact information elsewhere in the document."
+      },
+      {
+        "key": "K7",
+        "content": "K7) a. An insurance document that indicates that cover is provided by more than one insurer may be\nsigned by a single agent or proxy on behalf of all insurers or be signed by an insurer for [or on behalf of]\nall co-insurers. An example of the latter will be when an insurance document is issued and signed \"AA\nInsurance Ltd, leading insurer for [or on behalf of] the co-insurers\".\nb. Notwithstanding the provisions in paragraphs K2), K3) and K4), an insurance document which\nindicates that cover is provided by more than one insurer need not show the names of each insurer or\nthe percentage of cover of each insurer."
+      },
+      {
+        "key": "K8",
+        "content": "K8) When a credit requires the insurance document to be issued in more than one original, or when the\ninsurance document indicates that it has been issued in more than one original, all originals are to be\npresented and are to appear to have been signed.\nDates"
+      },
+      {
+        "key": "K9",
+        "content": "K9) An insurance document is not to indicate an expiry date for the presentation of any claims thereunder."
+      },
+      {
+        "key": "L1",
+        "content": "L1) When a credit requires the presentation of a certificate of origin, this will be satisfied by the\npresentation of a signed document that appears to relate to the invoiced goods and certifies their origin."
+      },
+      {
+        "key": "L2",
+        "content": "L2) When a credit requires the presentation of a specific form of certificate of origin such as a GSP Form\nA, only a document in that specific form is to be presented.\nIssuer of a certificate of origin"
+      },
+      {
+        "key": "L3",
+        "content": "L3) a. A certificate of origin is to be issued by the entity stated in the credit.\nb. When a credit does not indicate the name of an issuer, any entity may issue a certificate of origin.\nc. i. When a credit requires the presentation of a certificate of origin issued by the beneficiary, the\nexporter or the manufacturer, this condition will also be satisfied by the presentation of a certificate\nof origin issued by a Chamber of Commerce or the like, such as, but not limited to, Chamber of Industry,\nAssociation of Industry, Economic Chamber, Customs Authorities and Department of Trade or the like,\nprovided it indicates the beneficiary, the exporter or the manufacturer as the case may be.\nii. When a credit requires the presentation of a certificate of origin issued by a Chamber of\nCommerce, this condition will also be satisfied by the presentation of a certificate of origin issued by\na Chamber of Industry, Association of Industry, Economic Chamber, Customs Authorities and\nDepartment of Trade or the like.\nContent of a certificate of origin"
+      },
+      {
+        "key": "L4",
+        "content": "L4) A certificate of origin is to appear to relate to the invoiced goods, for example, by:\na. a goods description that corresponds to that in the credit or a description shown in general terms\nnot in conflict with the goods description in the credit; or\nb. referring to a goods description appearing in another stipulated document or in a document that is\nattached to, and forming an integral part of, the certificate of origin."
+      },
+      {
+        "key": "L5",
+        "content": "L5) Consignee information, when shown, is not to conflict with the consignee information in the transport\ndocument. However, when a credit requires a transport document to be issued \"to order\", \"to the order\nof shipper\", \"to order of issuing bank\", \"to order of nominated bank (or negotiating bank)\" or \"consigned\nto issuing bank\", a certificate of origin may show the consignee as any entity named in the credit except\nthe beneficiary. When a credit has been transferred, the first beneficiary may be stated to be the\nconsignee."
+      },
+      {
+        "key": "L6",
+        "content": "L6) A certificate of origin may indicate as the consignor or exporter an entity other than the beneficiary\nof the credit or the shipper as shown on any other stipulated document."
+      },
+      {
+        "key": "L7",
+        "content": "L7) When a credit indicates the origin of the goods without stipulating a requirement for the presentation\nof a certificate of origin, any reference to the origin on a stipulated document is not to conflict with the\nstated origin. For example, when a credit indicates \"origin of the goods: Germany\" without requiring the\npresentation of a certificate of origin, a statement on any stipulated document indicating a different origin\nof the goods is to be considered a conflict of data."
+      },
+      {
+        "key": "L8",
+        "content": "L8) A certificate of origin may indicate a different invoice number, invoice date and shipment routing to\nthat indicated on one or more other stipulated documents, provided the exporter or consignor shown on\nthe certificate of origin is not the beneficiary.\n12. PACKING LIST, NOTE OR SLIP (\"Packing List\")\n45\nISBP - Paragraph M1 to M6"
+      },
+      {
+        "key": "M1",
+        "content": "M1) When a credit requires the presentation of a packing list, this will be satisfied by the presentation of\na document titled as called for in the credit, or bearing a similar title or untitled, that fulfils its function by\ncontaining any information as to the packing of the goods.\nIssuer of a packing list"
+      },
+      {
+        "key": "M2",
+        "content": "M2) A packing list is to be issued by the entity stated in the credit."
+      },
+      {
+        "key": "M3",
+        "content": "M3) When a credit does not indicate the name of an issuer, any entity may issue a packing list.\nContent of a packing list"
+      },
+      {
+        "key": "M4",
+        "content": "M4) When a credit indicates specific packing requirements, without stipulating the document to indicate\ncompliance with these requirements, any data regarding the packing of the goods mentioned on a packing\nlist, if presented, are not to conflict with those requirements."
+      },
+      {
+        "key": "M5",
+        "content": "M5) A packing list may indicate a different invoice number, invoice date and shipment routing to that\nindicated on one or more other stipulated documents, provided the issuer of the packing list is not the\nbeneficiary."
+      },
+      {
+        "key": "M6",
+        "content": "M6) Banks only examine total values, including, but not limited to, total quantities, total weights, total\nmeasurements or total packages, to ensure that the applicable total does not conflict with a total shown\nin the credit and on any other stipulated document.\n13. WEIGHT LIST, NOTE OR SLIP\n(\"Weight List\")\nISBP - Paragraph N1 to N6"
+      },
+      {
+        "key": "N1",
+        "content": "N1) When a credit requires the presentation of a weight list, this will be satisfied by the presentation of a\ndocument titled as called for in the credit, or bearing a similar title or untitled, that fulfils its function by\ncontaining any information as to the weight of the goods.\nIssuer of a weight list"
+      },
+      {
+        "key": "N2",
+        "content": "N2) A weight list is to be issued by the entity stated in the credit."
+      },
+      {
+        "key": "N3",
+        "content": "N3) When a credit does not indicate the name of an issuer, any entity may issue a weight list.\nContent of a weight list"
+      },
+      {
+        "key": "N4",
+        "content": "N4) When a credit indicates specific weight requirements, without stipulating the document to indicate\ncompliance with these requirements, any data regarding the weight of the goods mentioned on a weight\nlist, if presented, are not to conflict with those requirements."
+      },
+      {
+        "key": "N5",
+        "content": "N5) A weight list may indicate a different invoice number, invoice date and shipment routing to that\nindicated on one or more other stipulated documents, provided the issuer of the weight list is not the\nbeneficiary."
+      },
+      {
+        "key": "N6",
+        "content": "N6) Banks only examine total values, including, but not limited to, total quantities, total weights, total\nmeasurements or total packages, to ensure that the applicable total does not conflict with a total shown\nin the credit and on any other stipulated document.\n46\n14. BENEFICIARY'S CERTIFICATE\nISBP - Paragraph P1 to P4"
+      },
+      {
+        "key": "P1",
+        "content": "P1) When a credit requires the presentation of a beneficiary's certificate, this will be satisfied by the\npresentation of a signed document titled as called for in the credit, or bearing a title reflecting the type of\ncertification that has been requested or untitled, that fulfils its function by containing the data and\ncertification required by the credit.\nSigning of a beneficiary's certificate"
+      },
+      {
+        "key": "P2",
+        "content": "P2) A beneficiary's certificate is to be signed by, or for [or on behalf of], the beneficiary.\nContent of a beneficiary's certificate"
+      },
+      {
+        "key": "P3",
+        "content": "P3) Data mentioned on a beneficiary's certificate are not to conflict with the requirements of the credit."
+      },
+      {
+        "key": "P4",
+        "content": "P4) The data or certification mentioned on a beneficiary's certificate:\na. need not be identical to that required by the credit, but are to clearly indicate that the requirement\nprescribed by the credit has been fulfilled;\nb. need not include a goods description or any other reference to the credit or another stipulated\n15. ANALYSIS, INSPECTION, HEALTH, PHYTOSANITARY, QUANTITY QUALITY AND OTHER CERTIFICATES\n(\"certificate\")\nISBP - Paragraph Q1 to Q11"
+      },
+      {
+        "key": "Q1",
+        "content": "Q1) When a credit requires the presentation of such a certificate, this will be satisfied by the presentation\nof a signed document titled as called for in the credit, or bearing a similar title or untitled, that fulfils its\nfunction by certifying the outcome of the required action, for example, the results of the analysis,\ninspection, health, phytosanitary, quantity or quality assessment."
+      },
+      {
+        "key": "Q10",
+        "content": "Q10) A certificate may indicate as the consignor or exporter an entity other than the beneficiary of the\ncredit or the shipper as shown on any other stipulated document."
+      },
+      {
+        "key": "Q11",
+        "content": "Q11) A certificate may indicate a different invoice number, invoice date and shipment routing to that\nindicated on one or more other stipulated documents, provided the exporter or consignor shown on the\ncertificate is not the beneficiary.\n48"
+      },
+      {
+        "key": "Q2",
+        "content": "Q2) When a credit requires the presentation of a certificate that relates to an action required to take place\non or prior to the date of shipment, the certificate is to indicate:\na. an issuance date that is no later than the date of shipment; or\nb. wording to the effect that the action took place prior to, or on the date of, shipment, in which event,\nwhen an issuance date is also indicated, it may be subsequent to the shipment date but no later than\nthe date of presentation of the certificate; or\nc. a title indicating the event, for example, \"Pre-shipment Inspection Certificate\".\nIssuer of a certificate"
+      },
+      {
+        "key": "Q3",
+        "content": "Q3) A certificate is to be issued by the entity stated in the credit."
+      },
+      {
+        "key": "Q4",
+        "content": "Q4) When a credit does not indicate the name of an issuer, any entity including the beneficiary may issue\na certificate.\n47"
+      },
+      {
+        "key": "Q5",
+        "content": "Q5) When a credit makes reference to an issuer of a certificate in the context of its being \"independent\",\n\"official\", \"qualified\" or words of similar effect, a certificate may be issued by any entity except the\nbeneficiary.\nContents of a certificate"
+      },
+      {
+        "key": "Q6",
+        "content": "Q6) A certificate may indicate:\na. that only a sample of the required goods has been tested, analyzed or inspected;\nb. a quantity that is greater than that stated in the credit or on any other stipulated document; or\nc. more hold, compartment or tank numbers than that stated on the bill of lading or charter party bill\nof lading."
+      },
+      {
+        "key": "Q7",
+        "content": "Q7) When a credit indicates specific requirements with respect to analysis, inspection, health,\nphytosanitary, quantity or quality assessment or the like, with or without stipulating the document to\nindicate compliance with these requirements, the data regarding the analysis, inspection, health,\nphytosanitary, quantity or quality assessment or the like mentioned on the certificate or any other\nstipulated document are not to conflict with those requirements."
+      },
+      {
+        "key": "Q8",
+        "content": "Q8) When a credit is silent as to the specific content to appear on a certificate, including, but not limited\nto, any required standard for determining the results of the analysis, inspection or quality assessment,\nthe certificate may include statements such as \"not fit for human consumption\", \"chemical composition\nmay not meet required needs\" or words of similar effect, provided such statements do not conflict with\nthe credit, any other stipulated document or UCP 600."
+      },
+      {
+        "key": "Q9",
+        "content": "Q9) Consignee information, when shown, is not to conflict with the consignee information in the transport\ndocument. However, when a credit requires a transport document to be issued \"to order\", \"to the order\nof shipper\", \"to order of issuing bank\", \"to order of nominated bank (or negotiating bank)\" or \"consigned\nto issuing bank\", a certificate may show the consignee as any entity named in the credit except the\nbeneficiary. When a credit has been transferred, the first beneficiary may be stated to be the consignee."
+      }
+    ]
+  }
+}

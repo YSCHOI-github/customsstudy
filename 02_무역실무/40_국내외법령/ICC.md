@@ -1,0 +1,341 @@
+# Institute Cargo Clauses (A)
+
+## RISKS COVERED
+
+**Risks**
+1. This insurance covers all risks of loss of or damage to the subject-matter insured except as excluded by the provisions of Clauses 4, 5, 6 and 7 below.
+
+**General Average**
+2. This insurance covers general average and salvage charges, adjusted or determined according to the contract of carriage and/or the governing law and practice, incurred to avoid or in connection with the avoidance of loss from any cause except those excluded in Clauses 4, 5, 6 and 7 below.
+
+**"Both to Blame Collision Clause"**
+3. This insurance indemnifies the Assured, in respect of any risk insured herein, against liability incurred under any Both to Blame Collision Clause in the contract of carriage. In the event of any claim by carriers under the said Clause, the Assured agree to notify the Insurers who shall have the right, at their own cost and expense, to defend the Assured against such claim.
+
+## EXCLUSIONS
+
+4. In no case shall this insurance cover
+   4.1 loss damage or expense attributable to wilful misconduct of the Assured
+   4.2 ordinary leakage, ordinary loss in weight or volume, or ordinary wear and tear of the subject-matter insured
+   4.3 loss damage or expense caused by insufficiency or unsuitability of packing or preparation of the subject-matter insured to withstand the ordinary incidents of the insured transit where such packing or preparation is carried out by the Assured or their employees or prior to the attachment of this insurance (for the purpose of these Clauses "packing" shall be deemed to include stowage in a container and "employees" shall not include independent contractors)
+   4.4 loss damage or expense caused by inherent vice or nature of the subject-matter insured
+   4.5 loss damage or expense caused by delay, even though the delay be caused by a risk insured against (except expenses payable under Clause 2 above)
+   4.6 loss damage or expense caused by insolvency or financial default of the owners managers charterers or operators of the vessel where, at the time of loading of the subject-matter insured on board the vessel, the Assured are aware, or in the ordinary course of business should be aware, that such insolvency or financial default could prevent the normal prosecution of the voyage. This exclusion shall not apply where the contract of insurance has been assigned to the party claiming hereunder who has bought or agreed to buy the subject-matter insured in good faith under a binding contract
+   4.7 loss damage or expense directly or indirectly caused by or arising from the use of any weapon or device employing atomic or nuclear fission and/or fusion or other like reaction or radioactive force or matter.
+
+5. 5.1 In no case shall this insurance cover loss damage or expense arising from
+       5.1.1 unseaworthiness of vessel or craft or unfitness of vessel or craft for the safe carriage of the subject-matter insured, where the Assured are privy to such unseaworthiness or unfitness, at the time the subject-matter insured is loaded therein
+       5.1.2 unfitness of container or conveyance for the safe carriage of the subject-matter insured, where loading therein or thereon is carried out prior to attachment of this insurance or by the Assured or their employees and they are privy to such unfitness at the time of loading.
+   5.2 Exclusion 5.1.1 above shall not apply where the contract of insurance has been assigned to the party claiming hereunder who has bought or agreed to buy the subject-matter insured in good faith under a binding contract.
+   5.3 The Insurers waive any breach of the implied warranties of seaworthiness of the ship and fitness of the ship to carry the subject-matter insured to destination.
+
+6. In no case shall this insurance cover loss damage or expense caused by
+   6.1 war civil war revolution rebellion insurrection, or civil strife arising therefrom, or any hostile act by or against a belligerent power
+   6.2 capture seizure arrest restraint or detainment (piracy excepted), and the consequences thereof or any attempt thereat
+   6.3 derelict mines torpedoes bombs or other derelict weapons of war.
+
+7. In no case shall this insurance cover loss damage or expense
+   7.1 caused by strikers, locked-out workmen, or persons taking part in labour disturbances, riots or civil commotions
+   7.2 resulting from strikes, lock-outs, labour disturbances, riots or civil commotions
+   7.3 caused by any act of terrorism being an act of any person acting on behalf of, or in connection with, any organisation which carries out activities directed towards the overthrowing or influencing, by force or violence, of any government whether or not legally constituted
+   7.4 caused by any person acting from a political, ideological or religious motive.
+
+## DURATION
+
+**Transit Clause**
+8. 8.1 Subject to Clause 11 below, this insurance attaches from the time the subject-matter insured is first moved in the warehouse or at the place of storage (at the place named in the contract of insurance) for the purpose of the immediate loading into or onto the carrying vehicle or other conveyance for the commencement of transit, continues during the ordinary course of transit and terminates either
+       8.1.1 on completion of unloading from the carrying vehicle or other conveyance in or at the final warehouse or place of storage at the destination named in the contract of insurance,
+       8.1.2 on completion of unloading from the carrying vehicle or other conveyance in or at any other warehouse or place of storage, whether prior to or at the destination named in the contract of insurance, which the Assured or their employees elect to use either for storage other than in the ordinary course of transit or for allocation or distribution, or
+       8.1.3 when the Assured or their employees elect to use any carrying vehicle or other conveyance or any container for storage other than in the ordinary course of transit or
+       8.1.4 on the expiry of 60 days after completion of discharge overside of the subject-matter insured from the oversea vessel at the final port of discharge,
+       whichever shall first occur.
+   8.2 If, after discharge overside from the oversea vessel at the final port of discharge, but prior to termination of this insurance, the subject-matter insured is to be forwarded to a destination other than that to which it is insured, this insurance, whilst remaining subject to termination as provided in Clauses 8.1.1 to 8.1.4, shall not extend beyond the time the subject-matter insured is first moved for the purpose of the commencement of transit to such other destination.
+   8.3 This insurance shall remain in force (subject to termination as provided for in Clauses 8.1.1 to 8.1.4 above and to the provisions of Clause 9 below) during delay beyond the control of the Assured, any deviation, forced discharge, reshipment or transhipment and during any variation of the adventure arising from the exercise of a liberty granted to carriers under the contract of carriage.
+
+**Termination of Contract of Carriage**
+9. If owing to circumstances beyond the control of the Assured either the contract of carriage is terminated at a port or place other than the destination named therein or the transit is otherwise terminated before unloading of the subject-matter insured as provided for in Clause 8 above, then this insurance shall also terminate unless prompt notice is given to the Insurers and continuation of cover is requested when this insurance shall remain in force, subject to an additional premium if required by the Insurers, either
+   9.1 until the subject-matter insured is sold and delivered at such port or place, or, unless otherwise specially agreed, until the expiry of 60 days after arrival of the subject-matter insured at such port or place, whichever shall first occur, or
+   9.2 if the subject-matter insured is forwarded within the said period of 60 days (or any agreed extension thereof) to the destination named in the contract of insurance or to any other destination, until terminated in accordance with the provisions of Clause 8 above.
+
+**Change of Voyage**
+10. 10.1 Where, after attachment of this insurance, the destination is changed by the Assured, this must be notified promptly to Insurers for rates and terms to be agreed. Should a loss occur prior to such agreement being obtained cover may be provided but only if cover would have been available at a reasonable commercial market rate on reasonable market terms.
+    10.2 Where the subject-matter insured commences the transit contemplated by this insurance (in accordance with Clause 8.1), but, without the knowledge of the Assured or their employees the ship sails for another destination, this insurance will nevertheless be deemed to have attached at commencement of such transit.
+
+## CLAIMS
+
+**Insurable Interest**
+11. 11.1 In order to recover under this insurance the Assured must have an insurable interest in the subject-matter insured at the time of the loss.
+    11.2 Subject to Clause 11.1 above, the Assured shall be entitled to recover for insured loss occurring during the period covered by this insurance, notwithstanding that the loss occurred before the contract of insurance was concluded, unless the Assured were aware of the loss and the Insurers were not.
+
+**Forwarding Charges**
+12. Where, as a result of the operation of a risk covered by this insurance, the insured transit is terminated at a port or place other than that to which the subject-matter insured is covered under this insurance, the Insurers will reimburse the Assured for any extra charges properly and reasonably incurred in unloading storing and forwarding the subject-matter insured to the destination to which it is insured.
+This Clause 12, which does not apply to general average or salvage charges, shall be subject to the exclusions contained in Clauses 4, 5, 6 and 7 above, and shall not include charges arising from the fault negligence insolvency or financial default of the Assured or their employees.
+
+**Constructive Total Loss**
+13. No claim for Constructive Total Loss shall be recoverable hereunder unless the subject-matter insured is reasonably abandoned either on account of its actual total loss appearing to be unavoidable or because the cost of recovering, reconditioning and forwarding the subject-matter insured to the destination to which it is insured would exceed its value on arrival.
+
+**Increased Value**
+14. 14.1 If any Increased Value insurance is effected by the Assured on the subject-matter insured under this insurance the agreed value of the subject-matter insured shall be deemed to be increased to the total amount insured under this insurance and all Increased Value insurances covering the loss, and liability under this insurance shall be in such proportion as the sum insured under this insurance bears to such total amount insured. In the event of claim the Assured shall provide the Insurers with evidence of the amounts insured under all other insurances.
+    14.2 Where this insurance is on Increased Value the following clause shall apply: The agreed value of the subject-matter insured shall be deemed to be equal to the total amount insured under the primary insurance and all Increased Value insurances covering the loss and effected on the subject-matter insured by the Assured, and liability under this insurance shall be in such proportion as the sum insured under this insurance bears to such total amount insured. In the event of claim the Assured shall provide the Insurers with evidence of the amounts insured under all other insurances.
+
+## BENEFIT OF INSURANCE
+15. This insurance
+    15.1 covers the Assured which includes the person claiming indemnity either as the person by or on whose behalf the contract of insurance was effected or as an assignee,
+    15.2 shall not extend to or otherwise benefit the carrier or other bailee.
+
+## MINIMISING LOSSES
+
+**Duty of Assured**
+16. It is the duty of the Assured and their employees and agents in respect of loss recoverable hereunder
+    16.1 to take such measures as may be reasonable for the purpose of averting or minimising such loss, and
+    16.2 to ensure that all rights against carriers, bailees or other third parties are properly preserved and exercised and the Insurers will, in addition to any loss recoverable hereunder, reimburse the Assured for any charges properly and reasonably incurred in pursuance of these duties.
+
+**Waiver**
+17. Measures taken by the Assured or the Insurers with the object of saving, protecting or recovering the subject-matter insured shall not be considered as a waiver or acceptance of abandonment or otherwise prejudice the rights of either party.
+
+## AVOIDANCE OF DELAY
+18. It is a condition of this insurance that the Assured shall act with reasonable despatch in all circumstances within their control.
+
+## LAW AND PRACTICE
+19. This insurance is subject to English law and practice.
+
+NOTE:- Where a continuation of cover is requested under Clause 9, or a change of destination is notified under Clause 10, there is an obligation to give prompt notice to the Insurers and the right to such cover is dependent upon compliance with this obligation.
+Copyright: 11/08 - Lloyd's Market Association (LMA) and International Underwriting Association of London (IUA).
+01/01/2009
+CL382
+
+---
+
+# Institute Cargo Clauses (B)
+
+## RISKS COVERED
+
+**Risks**
+1. This insurance covers, except as excluded by the provisions of Clauses 4, 5, 6 and 7 below,
+   1.1 loss of or damage to the subject-matter insured reasonably attributable to
+       1.1.1 fire or explosion
+       1.1.2 vessel or craft being stranded grounded sunk or capsized
+       1.1.3 overturning or derailment of land conveyance
+       1.1.4 collision or contact of vessel craft or conveyance with any external object other than water
+       1.1.5 discharge of cargo at a port of distress
+       1.1.6 earthquake volcanic eruption or lightning,
+   1.2 loss of or damage to the subject-matter insured caused by
+       1.2.1 general average sacrifice
+       1.2.2 jettison or washing overboard
+       1.2.3 entry of sea lake or river water into vessel craft hold conveyance container or place of storage,
+   1.3 total loss of any package lost overboard or dropped whilst loading on to, or unloading from, vessel or craft.
+
+**General Average**
+2. This insurance covers general average and salvage charges, adjusted or determined according to the contract of carriage and/or the governing law and practice, incurred to avoid or in connection with the avoidance of loss from any cause except those excluded in Clauses 4, 5, 6 and 7 below.
+
+**"Both to Blame Collision Clause"**
+3. This insurance indemnifies the Assured, in respect of any risk insured herein, against liability incurred under any Both to Blame Collision Clause in the contract of carriage. In the event of any claim by carriers under the said Clause, the Assured agree to notify the Insurers who shall have the right, at their own cost and expense, to defend the Assured against such claim.
+
+## EXCLUSIONS
+
+4. In no case shall this insurance cover
+   4.1 loss damage or expense attributable to wilful misconduct of the Assured
+   4.2 ordinary leakage, ordinary loss in weight or volume, or ordinary wear and tear of the subject-matter insured
+   4.3 loss damage or expense caused by insufficiency or unsuitability of packing or preparation of the subject-matter insured to withstand the ordinary incidents of the insured transit where such packing or preparation is carried out by the Assured or their employees or prior to the attachment of this insurance (for the purpose of these Clauses "packing" shall be deemed to include stowage in a container and "employees" shall not include independent contractors)
+   4.4 loss damage or expense caused by inherent vice or nature of the subject-matter insured
+   4.5 loss damage or expense caused by delay, even though the delay be caused by a risk insured against (except expenses payable under Clause 2 above)
+   4.6 loss damage or expense caused by insolvency or financial default of the owners managers charterers or operators of the vessel where, at the time of loading of the subject-matter insured on board the vessel, the Assured are aware, or in the ordinary course of business should be aware, that such insolvency or financial default could prevent the normal prosecution of the voyage. This exclusion shall not apply where the contract of insurance has been assigned to the party claiming hereunder who has bought or agreed to buy the subject-matter insured in good faith under a binding contract
+   4.7 deliberate damage to or deliberate destruction of the subject-matter insured or any part thereof by the wrongful act of any person or persons
+   4.8 loss damage or expense directly or indirectly caused by or arising from the use of any weapon or device employing atomic or nuclear fission and/or fusion or other like reaction or radioactive force or matter.
+
+5. 5.1 In no case shall this insurance cover loss damage or expense arising from
+       5.1.1 unseaworthiness of vessel or craft or unfitness of vessel or craft for the safe carriage of the subject-matter insured, where the Assured are privy to such unseaworthiness or unfitness, at the time the subject-matter insured is loaded therein
+       5.1.2 unfitness of container or conveyance for the safe carriage of the subject-matter insured, where loading therein or thereon is carried out prior to attachment of this insurance or by the Assured or their employees and they are privy to such unfitness at the time of loading.
+   5.2 Exclusion 5.1.1 above shall not apply where the contract of insurance has been assigned to the party claiming hereunder who has bought or agreed to buy the subject-matter insured in good faith under a binding contract.
+   5.3 The Insurers waive any breach of the implied warranties of seaworthiness of the ship and fitness of the ship to carry the subject-matter insured to destination.
+
+6. In no case shall this insurance cover loss damage or expense caused by
+   6.1 war civil war revolution rebellion insurrection, or civil strife arising therefrom, or any hostile act by or against a belligerent power
+   6.2 capture seizure arrest restraint or detainment, and the consequences thereof or any attempt thereat
+   6.3 derelict mines torpedoes bombs or other derelict weapons of war.
+
+7. In no case shall this insurance cover loss damage or expense
+   7.1 caused by strikers, locked-out workmen, or persons taking part in labour disturbances, riots or civil commotions
+   7.2 resulting from strikes, lock-outs, labour disturbances, riots or civil commotions
+   7.3 caused by any act of terrorism being an act of any person acting on behalf of, or in connection with, any organisation which carries out activities directed towards the overthrowing or influencing, by force or violence, of any government whether or not legally constituted
+   7.4 caused by any person acting from a political, ideological or religious motive.
+
+## DURATION
+
+**Transit Clause**
+8. 8.1 Subject to Clause 11 below, this insurance attaches from the time the subject-matter insured is first moved in the warehouse or at the place of storage (at the place named in the contract of insurance) for the purpose of the immediate loading into or onto the carrying vehicle or other conveyance for the commencement of transit, continues during the ordinary course of transit and terminates either
+       8.1.1 on completion of unloading from the carrying vehicle or other conveyance in or at the final warehouse or place of storage at the destination named in the contract of insurance,
+       8.1.2 on completion of unloading from the carrying vehicle or other conveyance in or at any other warehouse or place of storage, whether prior to or at the destination named in the contract of insurance, which the Assured or their employees elect to use either for storage other than in the ordinary course of transit or for allocation or distribution, or
+       8.1.3 when the Assured or their employees elect to use any carrying vehicle or other conveyance or any container for storage other than in the ordinary course of transit or
+       8.1.4 on the expiry of 60 days after completion of discharge overside of the subject-matter insured from the oversea vessel at the final port of discharge,
+       whichever shall first occur.
+   8.2 If, after discharge overside from the oversea vessel at the final port of discharge, but prior to termination of this insurance, the subject-matter insured is to be forwarded to a destination other than that to which it is insured, this insurance, whilst remaining subject to termination as provided in Clauses 8.1.1 to 8.1.4, shall not extend beyond the time the subject-matter insured is first moved for the purpose of the commencement of transit to such other destination.
+   8.3 This insurance shall remain in force (subject to termination as provided for in Clauses 8.1.1 to 8.1.4 above and to the provisions of Clause 9 below) during delay beyond the control of the Assured, any deviation, forced discharge, reshipment or transhipment and during any variation of the adventure arising from the exercise of a liberty granted to carriers under the contract of carriage.
+
+**Termination of Contract of Carriage**
+9. If owing to circumstances beyond the control of the Assured either the contract of carriage is terminated at a port or place other than the destination named therein or the transit is otherwise terminated before unloading of the subject-matter insured as provided for in Clause 8 above, then this insurance shall also terminate unless prompt notice is given to the Insurers and continuation of cover is requested when this insurance shall remain in force, subject to an additional premium if required by the Insurers, either
+   9.1 until the subject-matter insured is sold and delivered at such port or place, or, unless otherwise specially agreed, until the expiry of 60 days after arrival of the subject-matter insured at such port or place, whichever shall first occur, or
+   9.2 if the subject-matter insured is forwarded within the said period of 60 days (or any agreed extension thereof) to the destination named in the contract of insurance or to any other destination, until terminated in accordance with the provisions of Clause 8 above.
+
+**Change of Voyage**
+10. 10.1 Where, after attachment of this insurance, the destination is changed by the Assured, this must be notified promptly to Insurers for rates and terms to be agreed. Should a loss occur prior to such agreement being obtained cover may be provided but only if cover would have been available at a reasonable commercial market rate on reasonable market terms.
+    10.2 Where the subject-matter insured commences the transit contemplated by this insurance (in accordance with Clause 8.1), but, without the knowledge of the Assured or their employees the ship sails for another destination, this insurance will nevertheless be deemed to have attached at commencement of such transit.
+
+## CLAIMS
+
+**Insurable Interest**
+11. 11.1 In order to recover under this insurance the Assured must have an insurable interest in the subject-matter insured at the time of the loss.
+    11.2 Subject to Clause 11.1 above, the Assured shall be entitled to recover for insured loss occurring during the period covered by this insurance, notwithstanding that the loss occurred before the contract of insurance was concluded, unless the Assured were aware of the loss and the Insurers were not.
+
+**Forwarding Charges**
+12. Where, as a result of the operation of a risk covered by this insurance, the insured transit is terminated at a port or place other than that to which the subject-matter insured is covered under this insurance, the Insurers will reimburse the Assured for any extra charges properly and reasonably incurred in unloading storing and forwarding the subject-matter insured to the destination to which it is insured.
+This Clause 12, which does not apply to general average or salvage charges, shall be subject to the exclusions contained in Clauses 4, 5, 6 and 7 above, and shall not include charges arising from the fault negligence insolvency or financial default of the Assured or their employees.
+
+**Constructive Total Loss**
+13. No claim for Constructive Total Loss shall be recoverable hereunder unless the subject-matter insured is reasonably abandoned either on account of its actual total loss appearing to be unavoidable or because the cost of recovering, reconditioning and forwarding the subject-matter insured to the destination to which it is insured would exceed its value on arrival.
+
+**Increased Value**
+14. 14.1 If any Increased Value insurance is effected by the Assured on the subject-matter insured under this insurance the agreed value of the subject-matter insured shall be deemed to be increased to the total amount insured under this insurance and all Increased Value insurances covering the loss, and liability under this insurance shall be in such proportion as the sum insured under this insurance bears to such total amount insured. In the event of claim the Assured shall provide the Insurers with evidence of the amounts insured under all other insurances.
+    14.2 Where this insurance is on Increased Value the following clause shall apply: The agreed value of the subject-matter insured shall be deemed to be equal to the total amount insured under the primary insurance and all Increased Value insurances covering the loss and effected on the subject-matter insured by the Assured, and liability under this insurance shall be in such proportion as the sum insured under this insurance bears to such total amount insured. In the event of claim the Assured shall provide the Insurers with evidence of the amounts insured under all other insurances.
+
+## BENEFIT OF INSURANCE
+15. This insurance
+    15.1 covers the Assured which includes the person claiming indemnity either as the person by or on whose behalf the contract of insurance was effected or as an assignee,
+    15.2 shall not extend to or otherwise benefit the carrier or other bailee.
+
+## MINIMISING LOSSES
+
+**Duty of Assured**
+16. It is the duty of the Assured and their employees and agents in respect of loss recoverable hereunder
+    16.1 to take such measures as may be reasonable for the purpose of averting or minimising such loss, and
+    16.2 to ensure that all rights against carriers, bailees or other third parties are properly preserved and exercised and the Insurers will, in addition to any loss recoverable hereunder, reimburse the Assured for any charges properly and reasonably incurred in pursuance of these duties.
+
+**Waiver**
+17. Measures taken by the Assured or the Insurers with the object of saving, protecting or recovering the subject-matter insured shall not be considered as a waiver or acceptance of abandonment or otherwise prejudice the rights of either party.
+
+## AVOIDANCE OF DELAY
+18. It is a condition of this insurance that the Assured shall act with reasonable despatch in all circumstances within their control.
+
+## LAW AND PRACTICE
+19. This insurance is subject to English law and practice.
+
+NOTE:- Where a continuation of cover is requested under Clause 9, or a change of destination is notified under Clause 10, there is an obligation to give prompt notice to the Insurers and the right to such cover is dependent upon compliance with this obligation.
+Copyright: 11/08 - Lloyd's Market Association (LMA) and International Underwriting Association of London (IUA).
+01/01/2009
+CL383
+
+---
+
+# Institute Cargo Clauses (C)
+
+## RISKS COVERED
+
+**Risks**
+1. This insurance covers, except as excluded by the provisions of Clauses 4, 5, 6 and 7 below,
+   1.1 loss of or damage to the subject-matter insured reasonably attributable to
+       1.1.1 fire or explosion
+       1.1.2 vessel or craft being stranded grounded sunk or capsized
+       1.1.3 overturning or derailment of land conveyance
+       1.1.4 collision or contact of vessel craft or conveyance with any external object other than water
+       1.1.5 discharge of cargo at a port of distress,
+   1.2 loss of or damage to the subject-matter insured caused by
+       1.2.1 general average sacrifice
+       1.2.2 jettison.
+
+**General Average**
+2. This insurance covers general average and salvage charges, adjusted or determined according to the contract of carriage and/or the governing law and practice, incurred to avoid or in connection with the avoidance of loss from any cause except those excluded in Clauses 4, 5, 6 and 7 below.
+
+**"Both to Blame Collision Clause"**
+3. This insurance indemnifies the Assured, in respect of any risk insured herein, against liability incurred under any Both to Blame Collision Clause in the contract of carriage. In the event of any claim by carriers under the said Clause, the Assured agree to notify the Insurers who shall have the right, at their own cost and expense, to defend the Assured against such claim.
+
+## EXCLUSIONS
+
+4. In no case shall this insurance cover
+   4.1 loss damage or expense attributable to wilful misconduct of the Assured
+   4.2 ordinary leakage, ordinary loss in weight or volume, or ordinary wear and tear of the subject-matter insured
+   4.3 loss damage or expense caused by insufficiency or unsuitability of packing or preparation of the subject-matter insured to withstand the ordinary incidents of the insured transit where such packing or preparation is carried out by the Assured or their employees or prior to the attachment of this insurance (for the purpose of these Clauses "packing" shall be deemed to include stowage in a container and "employees" shall not include independent contractors)
+   4.4 loss damage or expense caused by inherent vice or nature of the subject-matter insured
+   4.5 loss damage or expense caused by delay, even though the delay be caused by a risk insured against (except expenses payable under Clause 2 above)
+   4.6 loss damage or expense caused by insolvency or financial default of the owners managers charterers or operators of the vessel where, at the time of loading of the subject-matter insured on board the vessel, the Assured are aware, or in the ordinary course of business should be aware, that such insolvency or financial default could prevent the normal prosecution of the voyage. This exclusion shall not apply where the contract of insurance has been assigned to the party claiming hereunder who has bought or agreed to buy the subject-matter insured in good faith under a binding contract
+   4.7 deliberate damage to or deliberate destruction of the subject-matter insured or any part thereof by the wrongful act of any person or persons
+   4.8 loss damage or expense directly or indirectly caused by or arising from the use of any weapon or device employing atomic or nuclear fission and/or fusion or other like reaction or radioactive force or matter.
+
+5. 5.1 In no case shall this insurance cover loss damage or expense arising from
+       5.1.1 unseaworthiness of vessel or craft or unfitness of vessel or craft for the safe carriage of the subject-matter insured, where the Assured are privy to such unseaworthiness or unfitness, at the time the subject-matter insured is loaded therein
+       5.1.2 unfitness of container or conveyance for the safe carriage of the subject-matter insured, where loading therein or thereon is carried out prior to attachment of this insurance or by the Assured or their employees and they are privy to such unfitness at the time of loading.
+   5.2 Exclusion 5.1.1 above shall not apply where the contract of insurance has been assigned to the party claiming hereunder who has bought or agreed to buy the subject-matter insured in good faith under a binding contract.
+   5.3 The Insurers waive any breach of the implied warranties of seaworthiness of the ship and fitness of the ship to carry the subject-matter insured to destination.
+
+6. In no case shall this insurance cover loss damage or expense caused by
+   6.1 war civil war revolution rebellion insurrection, or civil strife arising therefrom, or any hostile act by or against a belligerent power
+   6.2 capture seizure arrest restraint or detainment, and the consequences thereof or any attempt thereat
+   6.3 derelict mines torpedoes bombs or other derelict weapons of war.
+
+7. In no case shall this insurance cover loss damage or expense
+   7.1 caused by strikers, locked-out workmen, or persons taking part in labour disturbances, riots or civil commotions
+   7.2 resulting from strikes, lock-outs, labour disturbances, riots or civil commotions
+   7.3 caused by any act of terrorism being an act of any person acting on behalf of, or in connection with, any organisation which carries out activities directed towards the overthrowing or influencing, by force or violence, of any government whether or not legally constituted
+   7.4 caused by any person acting from a political, ideological or religious motive.
+
+## DURATION
+
+**Transit Clause**
+8. 8.1 Subject to Clause 11 below, this insurance attaches from the time the subject-matter insured is first moved in the warehouse or at the place of storage (at the place named in the contract of insurance) for the purpose of the immediate loading into or onto the carrying vehicle or other conveyance for the commencement of transit, continues during the ordinary course of transit and terminates either
+       8.1.1 on completion of unloading from the carrying vehicle or other conveyance in or at the final warehouse or place of storage at the destination named in the contract of insurance,
+       8.1.2 on completion of unloading from the carrying vehicle or other conveyance in or at any other warehouse or place of storage, whether prior to or at the destination named in the contract of insurance, which the Assured or their employees elect to use either for storage other than in the ordinary course of transit or for allocation or distribution, or
+       8.1.3 when the Assured or their employees elect to use any carrying vehicle or other conveyance or any container for storage other than in the ordinary course of transit or
+       8.1.4 on the expiry of 60 days after completion of discharge overside of the subject-matter insured from the oversea vessel at the final port of discharge,
+       whichever shall first occur.
+   8.2 If, after discharge overside from the oversea vessel at the final port of discharge, but prior to termination of this insurance, the subject-matter insured is to be forwarded to a destination other than that to which it is insured, this insurance, whilst remaining subject to termination as provided in Clauses 8.1.1 to 8.1.4, shall not extend beyond the time the subject-matter insured is first moved for the purpose of the commencement of transit to such other destination.
+   8.3 This insurance shall remain in force (subject to termination as provided for in Clauses 8.1.1 to 8.1.4 above and to the provisions of Clause 9 below) during delay beyond the control of the Assured, any deviation, forced discharge, reshipment or transhipment and during any variation of the adventure arising from the exercise of a liberty granted to carriers under the contract of carriage.
+
+**Termination of Contract of Carriage**
+9. If owing to circumstances beyond the control of the Assured either the contract of carriage is terminated at a port or place other than the destination named therein or the transit is otherwise terminated before unloading of the subject-matter insured as provided for in Clause 8 above, then this insurance shall also terminate unless prompt notice is given to the Insurers and continuation of cover is requested when this insurance shall remain in force, subject to an additional premium if required by the Insurers, either
+   9.1 until the subject-matter insured is sold and delivered at such port or place, or, unless otherwise specially agreed, until the expiry of 60 days after arrival of the subject-matter insured at such port or place, whichever shall first occur, or
+   9.2 if the subject-matter insured is forwarded within the said period of 60 days (or any agreed extension thereof) to the destination named in the contract of insurance or to any other destination, until terminated in accordance with the provisions of Clause 8 above.
+
+**Change of Voyage**
+10. 10.1 Where, after attachment of this insurance, the destination is changed by the Assured, this must be notified promptly to Insurers for rates and terms to be agreed. Should a loss occur prior to such agreement being obtained cover may be provided but only if cover would have been available at a reasonable commercial market rate on reasonable market terms.
+    10.2 Where the subject-matter insured commences the transit contemplated by this insurance (in accordance with Clause 8.1), but, without the knowledge of the Assured or their employees the ship sails for another destination, this insurance will nevertheless be deemed to have attached at commencement of such transit.
+
+## CLAIMS
+
+**Insurable Interest**
+11. 11.1 In order to recover under this insurance the Assured must have an insurable interest in the subject-matter insured at the time of the loss.
+    11.2 Subject to Clause 11.1 above, the Assured shall be entitled to recover for insured loss occurring during the period covered by this insurance, notwithstanding that the loss occurred before the contract of insurance was concluded, unless the Assured were aware of the loss and the Insurers were not.
+
+**Forwarding Charges**
+12. Where, as a result of the operation of a risk covered by this insurance, the insured transit is terminated at a port or place other than that to which the subject-matter insured is covered under this insurance, the Insurers will reimburse the Assured for any extra charges properly and reasonably incurred in unloading storing and forwarding the subject-matter insured to the destination to which it is insured.
+This Clause 12, which does not apply to general average or salvage charges, shall be subject to the exclusions contained in Clauses 4, 5, 6 and 7 above, and shall not include charges arising from the fault negligence insolvency or financial default of the Assured or their employees.
+
+**Constructive Total Loss**
+13. No claim for Constructive Total Loss shall be recoverable hereunder unless the subject-matter insured is reasonably abandoned either on account of its actual total loss appearing to be unavoidable or because the cost of recovering, reconditioning and forwarding the subject-matter insured to the destination to which it is insured would exceed its value on arrival.
+
+**Increased Value**
+14. 14.1 If any Increased Value insurance is effected by the Assured on the subject-matter insured under this insurance the agreed value of the subject-matter insured shall be deemed to be increased to the total amount insured under this insurance and all Increased Value insurances covering the loss, and liability under this insurance shall be in such proportion as the sum insured under this insurance bears to such total amount insured. In the event of claim the Assured shall provide the Insurers with evidence of the amounts insured under all other insurances.
+    14.2 Where this insurance is on Increased Value the following clause shall apply: The agreed value of the subject-matter insured shall be deemed to be equal to the total amount insured under the primary insurance and all Increased Value insurances covering the loss and effected on the subject-matter insured by the Assured, and liability under this insurance shall be in such proportion as the sum insured under this insurance bears to such total amount insured. In the event of claim the Assured shall provide the Insurers with evidence of the amounts insured under all other insurances.
+
+## BENEFIT OF INSURANCE
+15. This insurance
+    15.1 covers the Assured which includes the person claiming indemnity either as the person by or on whose behalf the contract of insurance was effected or as an assignee,
+    15.2 shall not extend to or otherwise benefit the carrier or other bailee.
+
+## MINIMISING LOSSES
+
+**Duty of Assured**
+16. It is the duty of the Assured and their employees and agents in respect of loss recoverable hereunder
+    16.1 to take such measures as may be reasonable for the purpose of averting or minimising such loss, and
+    16.2 to ensure that all rights against carriers, bailees or other third parties are properly preserved and exercised and the Insurers will, in addition to any loss recoverable hereunder, reimburse the Assured for any charges properly and reasonably incurred in pursuance of these duties.
+
+**Waiver**
+17. Measures taken by the Assured or the Insurers with the object of saving, protecting or recovering the subject-matter insured shall not be considered as a waiver or acceptance of abandonment or otherwise prejudice the rights of either party.
+
+## AVOIDANCE OF DELAY
+18. It is a condition of this insurance that the Assured shall act with reasonable despatch in all circumstances within their control.
+
+## LAW AND PRACTICE
+19. This insurance is subject to English law and practice.
+
+NOTE:- Where a continuation of cover is requested under Clause 9, or a change of destination is notified under Clause 10, there is an obligation to give prompt notice to the Insurers and the right to such cover is dependent upon compliance with this obligation.
+Copyright: 11/08 - Lloyd's Market Association (LMA) and International Underwriting Association of London (IUA).
+01/01/2009
+CL384
