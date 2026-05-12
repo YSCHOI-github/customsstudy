@@ -80,13 +80,21 @@ def load_json_articles() -> dict[str, dict[str, str]]:
             continue
         lookup: dict[str, str] = {}
         for item in raw[json_key]["data"]:
-            content = item["내용"]
-            m = _ART_KEY_RE.match(content)
-            if m:
-                art_key = f"제{m.group(1)}조{m.group(2) or ''}"
+            raw_num = str(item["조번호"])
+            if re.match(r'^제\d+조', raw_num):
+                # 고시처럼 이미 '제N조(의M)?' 형식인 경우
+                m = re.match(r'^(제\d+조(?:의\d+)?)', raw_num)
+                art_key = m.group(1) if m else raw_num
             else:
-                art_key = item["조번호"]  # fallback
-            lookup[art_key] = content
+                # 관세법/시행령/시행규칙은 숫자 조번호 → 내용 첫 줄에서 추출
+                # (조의N은 같은 숫자를 공유하므로 조번호로는 구분 불가)
+                first_line = item["내용"].split('\n')[0].lstrip()
+                m_art = _ART_KEY_RE.match(first_line)
+                if m_art:
+                    art_key = f"제{m_art.group(1)}조{m_art.group(2) or ''}"
+                else:
+                    art_key = f"제{raw_num}조"
+            lookup[art_key] = item["내용"]
         result[md_key] = lookup
         print(f"         {md_key}: {len(lookup)}개 조문")
 
