@@ -1,6 +1,7 @@
 .obsidian/
 .tmp.driveupload/
 .venv/
-.claude/
+.claude/*
+!.claude/skills/
 dist/
 node_modules/
