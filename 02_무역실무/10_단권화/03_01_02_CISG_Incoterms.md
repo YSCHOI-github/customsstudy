@@ -287,7 +287,7 @@ Incoterms 2020은 11개 정형거래조건(EXW, FCA, CPT, CIP, DAP, DPU, DDP, FA
 | **B/L 특칙** | 규정 없음 | FCA A6/B6 신설 (2020) |
 | **물품 특정화** | 명문 요건 (제67조 제2항, 제69조 제3항) | B3에 조기 위험이전 요건으로 명시 (clearly identified) |
 | **인도 불이행 구제** | 상세 규정 (제45~52조, 제61~65조) | 규정 없음 (준거법에 위임) |
-| **적용 우선순위** | Incoterms 편입 시 CISG보다 우선 (제9조) | CISG 제9조에 의해 우선 적용 |
+| **적용 우선순위** | Incoterms 편입 시 CISG보다 우선 (제9조) | [[#CISG Article 9\|CISG 제9조]]에 의해 우선 적용 |
 
 ---
 
@@ -300,7 +300,7 @@ Incoterms 2020은 11개 정형거래조건(EXW, FCA, CPT, CIP, DAP, DPU, DDP, FA
 | 쟁점 | CISG | 근거 조문 | Incoterms 2020 | 근거 항목 |
 |---|---|---|---|---|
 | **법적 성격** | 국제조약 (체약국 간 자동 적용, 배제 가능) | 제1조, 제6조 | 계약 편입 시에만 적용되는 임의규칙 | 서문 |
-| **적용 우선순위** | Incoterms 편입 시 CISG보다 우선 적용됨 | 제9조 | CISG 제9조 관행·관례 조항에 의해 우선 적용 | 서문 |
+| **적용 우선순위** | Incoterms 편입 시 CISG보다 우선 적용됨 | 제9조 | [[#CISG Article 9\|CISG 제9조]] 관행·관례 조항에 의해 우선 적용 | 서문 |
 | **위험이전의 기본 원칙** | 물품의 인도(교부) 시점에 위험이전 | 제66조~제70조 | 정형거래조건별 지정 인도 지점에서 위험이전 | A3/B3 (조건별) |
 | **위험이전의 효과** | 이전 후 멸실·훼손 → 매수인 대금지급의무 소멸 안 됨. 단, 매도인 귀책은 예외 | 제66조 | — (위험이전 효과에 관한 별도 규정 없음; CISG 또는 준거법 적용) | — |
 | **운송 수반 계약 — 특정 장소 지정 없음** | 최초 운송인에게 교부한 시점에 이전 | 제67조 제1항 전단 | FCA: 지정 인도 장소에서 운송인 인도 시 / CPT·CIP: 최초 운송인 교부 시 | FCA A3, CPT A3, CIP A3 |
@@ -352,10 +352,10 @@ Incoterms 2020은 11개 정형거래조건(EXW, FCA, CPT, CIP, DAP, DPU, DDP, FA
 | 유사점 | 내용 |
 |---|---|
 | **공통 기준: 물품의 교부** | 양자 모두 물품의 실질적 교부(인도)를 위험이전의 기준으로 삼음 |
-| **인도 지점 = 위험이전 지점** | CISG 제67조(운송인 교부)와 Incoterms F·C-Terms 모두 인도 지점에서 위험이전 |
-| **당사자 자치 허용** | CISG 제6조 + Incoterms 서문: 모두 당사자 합의로 위험이전 시점 변경 가능 |
+| **인도 지점 = 위험이전 지점** | [[#CISG Article 67\|CISG 제67조]](운송인 교부)와 Incoterms F·C-Terms 모두 인도 지점에서 위험이전 |
+| **당사자 자치 허용** | [[#CISG Article 6\|CISG 제6조]] + Incoterms 서문: 모두 당사자 합의로 위험이전 시점 변경 가능 |
 | **Incoterms가 CISG보다 우선** | Incoterms 편입 시 제9조(관행·관례)에 의해 Incoterms 규정이 우선 적용됨 |
-| **매수인 귀책 시 조기 이전** | CISG 제69조 제1항 + Incoterms B3 모두 물품 특정화를 전제로 매수인 귀책 시 위험 조기 이전 인정 |
+| **매수인 귀책 시 조기 이전** | [[#CISG Article 69\|CISG 제69조]] 제1항 + Incoterms B3 모두 물품 특정화를 전제로 매수인 귀책 시 위험 조기 이전 인정 |
 
 ---
 
@@ -429,3 +429,95 @@ Incoterms 2020은 11개 정형거래조건(EXW, FCA, CPT, CIP, DAP, DPU, DDP, FA
 | **서류 협조 의무** | 규정 없음 | 명문 규정 (A6/B6) |
 | **서류 불인도 구제** | 상세 규정 (제45조, 제49조) | 규정 없음 (준거법 적용) |
 | **대금지급과 연동** | 제58조 제2항 — 서류·대금 동시 교환 원칙 | 별도 규정 없음 (신용장 등 별도 결제 계약에 위임) |
+
+
+---
+
+---
+
+---
+
+---
+
+---
+
+---
+
+---
+
+---
+
+---
+
+---
+
+---
+
+## [부록] 관련 협약 조문 원문
+
+> 이 섹션은 `insert_treaty_articles.py`에 의해 자동 생성되었습니다.
+
+---
+
+### CISG Article 6
+
+Article 6
+The parties may exclude the application of this Convention or, subject to
+article 12, derogate from or vary the effect of any of its provisions.
+CHAPTER II. GENERAL PROVISIONS
+
+> [[#CISG vs. Incoterms 2020 — 규율 쟁점 목록|↩ 본문으로 돌아가기]]
+
+---
+
+### CISG Article 9
+
+Article 9
+(1) The parties are bound by any usage to which they have agreed and
+by any practices which they have established between themselves.
+(2) The parties are considered, unless otherwise agreed, to have
+impliedly made applicable to their contract or its formation a usage of which
+the parties knew or ought to have known and which in international trade
+is widely known to, and regularly observed by, parties to contracts of the
+type involved in the particular trade concerned.
+
+> [[#CISG vs. Incoterms 2020 — 규율 쟁점 목록|↩ 본문으로 돌아가기]]
+
+---
+
+### CISG Article 67
+
+Article 67
+(1) If the contract of sale involves carriage of the goods and the seller
+is not bound to hand them over at a particular place, the risk passes to the
+buyer when the goods are handed over to the first carrier for transmission
+to the buyer in accordance with the contract of sale. If the seller is bound
+to hand the goods over to a carrier at a particular place, the risk does not
+pass to the buyer until the goods are handed over to the carrier at that place.
+The fact that the seller is authorized to retain documents controlling the
+disposition of the goods does not affect the passage of the risk.
+(2) Nevertheless, the risk does not pass to the buyer until the goods
+are clearly identified to the contract, whether by markings on the goods, by
+shipping documents, by notice given to the buyer or otherwise.
+I. United Nations Convention on Contracts for the International Sale of Goods 21
+
+> [[#CISG vs. Incoterms 2020 — 규율 쟁점 목록|↩ 본문으로 돌아가기]]
+
+---
+
+### CISG Article 69
+
+Article 69
+(1) In cases not within articles 67 and 68, the risk passes to the buyer
+when he takes over the goods or, if he does not do so in due time, from
+the time when the goods are placed at his disposal and he commits a breach
+of contract by failing to take delivery.
+(2) However, if the buyer is bound to take over the goods at a place
+other than a place of business of the seller, the risk passes when delivery is
+due and the buyer is aware of the fact that the goods are placed at his
+disposal at that place.
+(3) If the contract relates to goods not then identified, the goods are
+considered not to be placed at the disposal of the buyer until they are clearly
+identified to the contract.
+
+> [[#CISG vs. Incoterms 2020 — 규율 쟁점 목록|↩ 본문으로 돌아가기]]

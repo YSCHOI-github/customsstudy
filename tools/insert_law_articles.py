@@ -318,11 +318,11 @@ def process_file(md_path: Path) -> None:
     original = md_path.read_text(encoding='utf-8')
 
     # 기존 부록 제거
-    for marker in [f"\n{APPENDIX_HEADER}", APPENDIX_HEADER]:
-        idx = original.find(marker)
-        if idx != -1:
-            original = original[:idx].rstrip()
-            break
+    idx = original.find(APPENDIX_HEADER)
+    if idx != -1:
+        original = original[:idx].rstrip()
+        # 스크립트 반복 실행으로 인해 누적된 후행 구분선(---) 일괄 제거
+        original = re.sub(r'(?:\n*---)+\s*$', '', original).rstrip()
 
     # 기존 내부 링크 제거 (markdown 형식 + wikilink 형식 모두)
     original = re.sub(
