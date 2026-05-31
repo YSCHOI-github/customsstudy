@@ -1,5 +1,121 @@
 # CISG vs. Incoterms 2020 — 규율 쟁점 목록
 
+## 🎯 마스터 답안 — CISG vs. Incoterms® 2020 위험이전 비교 (논술형 50점 대비)
+
+> ★★★ 2015년(50점)·2017년(50점) 출제. 2026 재출제 최유력 — 반드시 암기
+
+---
+
+### Ⅰ. 서론 — 두 규범의 지위와 관계
+
+- CISG(국제물품매매계약에 관한 유엔협약)는 국제조약으로서 <u>체약국 간 물품 매매계약에 자동 적용되는 준거규범</u>이다([[#CISG Article 1|CISG 제1조]]). 
+- 반면 Incoterms® 2020은 ICC가 제정한 정형거래조건으로, <u>당사자가 계약에 편입(incorporate)할 때에만 적용되는 임의규범</u>이다.
+- 양 규범의 관계에 있어, [[#CISG Article 9|CISG 제9조]] 제1항은 당사자가 합의한 관행에 구속됨을 규정하므로 <u>당사자가 계약서에 Incoterms® 규칙을 명시적으로 원용한 경우 이는 합의된 관행으로서 CISG 조항에 **우선 적용**</u>된다. 
+- 따라서 양 규범이 충돌하는 경우 Incoterms®가 우선하되, <u>CISG의 강행규정은 배제할 수 없다.</u>
+
+---
+
+### Ⅱ. 위험이전 규정 개관
+
+- **CISG**는 제66조부터 제70조까지 5개 조문으로 위험이전을 체계적으로 규율한다. 제66조는 위험이전의 효과, 제67조는 운송 수반 계약, 제68조는 운송 중 매도, 제69조는 기타 경우, 제70조는 본질적 위반과의 관계를 각각 규정한다.
+
+- **Incoterms® 2020**은 11개 정형거래조건 각각의 A3/B3 조항에서 해당 조건별 위험이전 시점을 구체적으로 지정한다. 위험이전의 효과나 특수 상황(운송 중 매도 등)에 관한 별도 규정은 없으며, 이 경우 CISG 또는 준거법이 보충 적용된다.
+
+---
+
+### Ⅲ. 유사점
+
+**① <u>물품의 인도(Delivery)를 위험이전 기준으로 삼는다</u>**
+
+- 양 규범 모두 물품의 실질적 인도(교부) 시점을 위험이전의 기준으로 삼는다. 
+- CISG는 제66조~제69조에서 인도 유형별로 위험이전 시점을 규율하고, 
+- Incoterms®는 각 조건의 A3/B3에서 인도 지점을 구체적으로 지정함으로써 같은 원칙을 실현한다.
+
+**② <u>물품 특정(Identification)이 위험이전의 전제 조건이다**</u>
+
+- 물품이 해당 계약의 목적물로 특정되지 않으면 위험이 이전되지 않는다는 원칙은 양 규범에 공통된다. 
+- CISG는 제67조 제2항 및 제69조 제3항에서 이를 명문으로 규정한다. 
+- <u>Incoterms®는 B3에서 조기 위험이전의 요건으로 물품이 "해당 계약에 명확히 특정(clearly identified)되어야 함"을 명시한다. </u>
+- 다만 CISG는 명문 규정으로, Incoterms®는 조기이전 요건에 부수적으로 규율한다는 점에서 차이가 있다.
+
+**③ <u>당사자 합의로 위험이전 시점을 변경할 수 있다**</u>
+
+- CISG는 제6조에서 당사자가 협약을 배제하거나 변경할 수 있는 자치권을 인정한다. 
+- Incoterms® 서문도 당사자가 특약으로 특정 조항을 변경할 수 있음을 인정한다. 따라서 양 규범 모두 당사자 합의가 규범 내용에 우선한다.
+
+---
+
+### Ⅳ. 차이점
+
+#### [핵심 4가지]
+
+**① <u><font color="#ff0000">운송 중 매도(String Sales)</font> — [[#CISG Article 68|CISG 제68조]] 특별규정 존재, Incoterms 없음**
+</u>
+- CISG는 운송 중에 매도되는 물품에 관한 특별규정을 두고 있다(제68조). 
+	- 원칙적으로 계약 체결 시점에 위험이 이전되며, 
+	- 상황에 따라 운송인에게 교부한 시점으로 소급 이전할 수 있다. 
+	- 다만 매도인이 멸실·훼손 사실을 알면서 고지하지 않은 경우 위험은 매도인에게 귀속된다. 
+- 반면 Incoterms®에는 운송 중 매도에 관한 독립 조문이 없다. 
+
+**② <u><font color="#ff0000">본질적 위반 시 구제수단</font> — [[#CISG Article 70|CISG 제70조]] 명문, Incoterms 없음**</u>
+
+- <u>[[#CISG Article 70|CISG 제70조]]는 매도인의 본질적 위반이 있는 경우, 제67조~제69조의 위험이전 규정이 매수인의 구제수단(이행청구·계약해제·손해배상) 행사에 영향을 미치지 않음</u>을 명문으로 규정한다. 
+	- 즉 위험이 이미 매수인에게 이전된 후라도 매도인의 귀책이 있으면 매수인은 구제수단을 행사할 수 있다. 
+- Incoterms®에는 이에 대한 규정이 없어 CISG 또는 준거법에 따른다.
+
+**③ <u>인도지점의 명확성 — CISG 추상적 원칙, Incoterms 구체적 정형화**</u>
+
+- CISG는 제31조에서 ⒜운송 수반 계약(최초 운송인 교부), ⒝특정물 매매(물품 소재지), ⒞기타(매도인 영업소)의 3가지 원칙만을 추상적으로 규정한다. 
+- 이에 비해 Incoterms®는 11개 정형거래조건 각각에서 인도 지점과 방법을 구체적으로 지정한다(예: FOB — 지정 선적항 본선 위 적재 완료 시, DAP — 지정목적지 양하 준비 완료 시). 이로써 당사자는 Incoterms® 편입을 통해 위험이전 시점의 불확실성을 해소할 수 있다.
+
+**④ <u>법적 성격 — CISG 준거규범, Incoterms 임의 편입 규범**</u>
+
+- CISG는 체약국 당사자 간 물품 매매계약에 자동 적용되는 국제조약이다. 
+- 반면 Incoterms®는 <u>당사자가 계약에 명시적으로 편입할 때</u>에만 적용되는 임의 규범으로, 그 자체로 매매계약이 되거나 준거법을 제공하지 않는다. 
+	- 따라서 Incoterms®만으로는 운송 중 매도, 구제수단, 대금지급의무 등 위험이전의 법적 효과를 완결적으로 규율할 수 없다.
+
+**⑤ 위험이전의 효과 — [[#CISG Article 66|CISG 제66조]] 명문, Incoterms 없음**
+
+- <u>[[#CISG Article 66|CISG 제66조]]는 위험이전 후 물품의 멸실·훼손이 발생하더라도 매수인의 대금지급의무는 소멸하지 않음을 명문으로 규정한다</u>. 
+	- 다만 멸실·훼손이 매도인의 작위 또는 부작위에 기인하는 경우는 예외이다(제66조 단서). 
+- Incoterms®에는 위험이전의 효과에 관한 별도 규정이 없어 CISG 또는 준거법이 적용된다.
+
+**⑥ <u>C조건의 위험·비용 분리</u> — Incoterms® 고유 특징, CISG 없음**
+
+- Incoterms® C조건(CPT·CIP·CFR·CIF)에서는 위험이전 시점(출발지)과 비용부담 분기점(목적지)이 불일치한다. 
+	- 매도인이 목적지까지 운임을 부담하지만, 위험은 출발지에서 이미 매수인에게 이전된다. 
+- CISG에는 이에 대응하는 규정이 없다. 
+	- 이로 인해 운송 중 사고 시 손해를 입은 당사자(매수인)와 운임·보험료를 지불한 당사자(매도인)가 달라 보험처리·손해배상에서 분쟁이 발생할 수 있다.
+
+---
+
+### Ⅴ. 결론
+
+- Incoterms® 2020을 매매계약에 편입하면, CISG가 추상적 원칙으로만 규정하는 위험이전 시점이 11개 정형거래조건별로 명확히 확정되어 당사자 간 분쟁을 예방할 수 있다. 
+- 다만 Incoterms®가 규율하지 않는 운송 중 매도(제68조), 본질적 위반 시 구제수단(제70조), 위험이전의 효과(제66조) 등에 대해서는 CISG가 보충적으로 적용된다. 
+- 따라서 국제물품매매에서는 양 규범의 관계를 정확히 이해하고 계약서를 작성하는 것이 실무상 필수적이다.
+
+---
+
+### 📌 핵심 암기 프레임
+
+```
+[유사점 3]
+① 인도 기준 위험이전    — CISG 66~69조 / Incoterms A3·B3 (공통 원칙)
+② 물품 특정 요건       — CISG 67②·69③ 명문 / Incoterms B3 (규율 밀도 차이)
+③ 당사자 합의 우선     — CISG 6조 / Incoterms 서문
+
+[차이점 핵심 6]
+① 위험이전 효과        — CISG 66조 명문(대금지급불소멸·매도인귀책예외) / Incoterms 없음
+② 운송 중 매도         — CISG 68조 특별규정 有 / Incoterms 없음
+③ 본질적 위반·구제수단 — CISG 70조 명문 有 / Incoterms 없음
+④ 인도지점 명확성      — CISG 추상(31조 3원칙) / Incoterms 구체(11조건 A3)
+⑤ 법적 성격           — CISG 준거규범(자동적용) / Incoterms 임의 편입
+⑥ C조건 위험·비용 분리 — Incoterms 고유 특징 / CISG 없음
+```
+
+---
+
 > 포괄적 비교 분석을 위한 1단계 작업: 각 규범이 다루는 쟁점을 전수 나열
 
 ---
@@ -453,9 +569,81 @@ Incoterms 2020은 11개 정형거래조건(EXW, FCA, CPT, CIP, DAP, DPU, DDP, FA
 
 ---
 
+---
+
+---
+
+---
+
+---
+
+---
+
+---
+
+---
+
+---
+
+---
+
+---
+
+---
+
+---
+
+---
+
+---
+
+---
+
+---
+
+---
+
+---
+
+---
+
+---
+
+---
+
+---
+
+---
+
+---
+
+---
+
 ## [부록] 관련 협약 조문 원문
 
 > 이 섹션은 `insert_treaty_articles.py`에 의해 자동 생성되었습니다.
+
+---
+
+### CISG Article 1
+
+Article 1
+(1) This Convention applies to contracts of sale of goods between
+parties whose places of business are in different States:
+(a) when the States are Contracting States; or
+(b) when the rules of private international law lead to the application
+of the law of a Contracting State.
+1
+2 United Nations Convention on Contracts for the International Sale of Goods
+(2) The fact that the parties have their places of business in different
+States is to be disregarded whenever this fact does not appear either from
+the contract or from any dealings between, or from information disclosed
+by, the parties at any time before or at the conclusion of the contract.
+(3) Neither the nationality of the parties nor the civil or commercial
+character of the parties or of the contract is to be taken into consideration
+in determining the application of this Convention.
+
+> [[#CISG vs. Incoterms 2020 — 규율 쟁점 목록|↩ 본문으로 돌아가기]]
 
 ---
 
@@ -485,6 +673,17 @@ type involved in the particular trade concerned.
 
 ---
 
+### CISG Article 66
+
+Article 66
+Loss of or damage to the goods after the risk has passed to the buyer
+does not discharge him from his obligation to pay the price, unless the loss
+or damage is due to an act or omission of the seller.
+
+> [[#CISG vs. Incoterms 2020 — 규율 쟁점 목록|↩ 본문으로 돌아가기]]
+
+---
+
 ### CISG Article 67
 
 Article 67
@@ -505,6 +704,21 @@ I. United Nations Convention on Contracts for the International Sale of Goods 21
 
 ---
 
+### CISG Article 68
+
+Article 68
+The risk in respect of goods sold in transit passes to the buyer from the
+time of the conclusion of the contract. However, if the circumstances so indicate,
+the risk is assumed by the buyer from the time the goods were handed over to
+the carrier who issued the documents embodying the contract of carriage.
+Nevertheless, if at the time of the conclusion of the contract of sale the seller
+knew or ought to have known that the goods had been lost or damaged and did
+not disclose this to the buyer, the loss or damage is at the risk of the seller.
+
+> [[#CISG vs. Incoterms 2020 — 규율 쟁점 목록|↩ 본문으로 돌아가기]]
+
+---
+
 ### CISG Article 69
 
 Article 69
@@ -519,5 +733,19 @@ disposal at that place.
 (3) If the contract relates to goods not then identified, the goods are
 considered not to be placed at the disposal of the buyer until they are clearly
 identified to the contract.
+
+> [[#CISG vs. Incoterms 2020 — 규율 쟁점 목록|↩ 본문으로 돌아가기]]
+
+---
+
+### CISG Article 70
+
+Article 70
+If the seller has committed a fundamental breach of contract, articles 67,
+68 and 69 do not impair the remedies available to the buyer on account of
+the breach.
+CHAPTER V. PROVISIONS COMMON TO THE OBLIGATIONS
+OF THE SELLER AND OF THE BUYER
+Section I. Anticipatory breach and instalment contracts
 
 > [[#CISG vs. Incoterms 2020 — 규율 쟁점 목록|↩ 본문으로 돌아가기]]

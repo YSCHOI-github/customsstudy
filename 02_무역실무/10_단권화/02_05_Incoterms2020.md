@@ -27,10 +27,10 @@ Incoterms® 2020의 11가지 규칙을 운송 방식, 통관 의무, 위험 및 
 
 > [!IMPORTANT]
 > ==**1. 위험과 비용의 분기점이 일치하지 않는 C조건 (CPT, CIP, CFR, CIF)**==
-> 11가지 규칙 중 **오직 C조건 4가지만 물품의 멸실 또는 손상의 위험 이전 시점과 비용 부담의 이전 시점이 다릅니다**.
+> 11가지 규칙 중 **오직 C조건 4가지만 물품의 멸실 또는 손상의<font color="#ff0000"> 위험 이전 시점</font>과 <font color="#ff0000">비용 부담의 이전 시점</font>이 다릅니다**.
 > - **위험(Risk) 이전:** 선적항 본선 적재 시(CFR, CIF) 또는 출발지 운송인 교부 시(CPT, CIP) 매수인에게 이전됩니다.
 > - **비용(Cost) 부담:** 매도인이 목적항/목적지까지의 주운송비용(해상운임 또는 항공운임 등)을 부담합니다. 
-> *사고 발생 시 금전적 손실 부담자(매수인)와 운임 지불자(매도인)가 다르므로, 실무적으로 리스크 관리에 가장 주의해야 하는 조건입니다.*
+> - 사고 발생 시 <u>손해를 입은 당사자(매수인)</u>와 <u>보험청구권자(운임/보험료 지불자, 매도인)</u>가 다름 -> 보험처리, 손해배상 시 책임귀속이 복잡해짐. 예를 들어, 양자간 보험금 관련 협의가 이루어지지 않을 경우 등 실무적으로 리스크 관리에 가장 주의해야 하는 조건입니다.
 
 > [!TIP]
 > **2. 통관 의무의 극단적 예외 (EXW와 DDP)**
@@ -41,8 +41,8 @@ Incoterms® 2020의 11가지 규칙을 운송 방식, 통관 의무, 위험 및 
 > [!NOTE]
 > **3. 보험 가입 의무와 보장 수준의 차이 (CIP vs CIF)** <- **"I"**가 들어감
 > 오직 CIP와 CIF 규칙에서만 매도인(수출자)이 매수인(수입자)을 위해 의무적으로 보험을 체결해야 합니다.
-> - **==CIP - ICC A==:** **컨테이너**로 운송되는 완제품 위주이므로 매수인 보호를 강화하여 **모든 위험을 담보하는 최고 수준인 협회적하약관 ICC (A) 조건** 가입이 기본 의무입니다.
-> - **==CIF - ICC C==:** **벌크선**으로 운송되는 산적 화물 위주이므로 기존 2010 버전과 동일하게 **제한적 위험만을 보상하는 최소 보장 수준인 ICC (C) 조건** 가입이 기본 의무입니다.
+> - **==CIP - ICC A==:** **컨테이너**로 운송되는 완제품(전자제품, 기계류 등) 위주이므로 매수인 보호를 강화하여 **모든 위험을 담보하는 최고 수준인 협회적하약관 ICC (A) 조건** 가입이 기본 의무입니다.
+> - **==CIF - ICC C==:** **벌크선**으로 운송되는 산적 화물(곡물, 원자재 등) 위주이므로 기존 2010 버전과 동일하게 **제한적 위험만을 보상하는 최소 보장 수준인 ICC (C) 조건** 가입이 기본 의무입니다.
 
 > [!WARNING]
 > **4. 하차 여부에 따른 D조건의 구분 (DAP vs DPU)**
@@ -132,23 +132,25 @@ Incoterms® 2020의 11가지 규칙을 운송 방식, 통관 의무, 위험 및 
 ### 1-2. Incoterms® 규칙이 다루지 않는 사항 (Introduction 7) ★★★
 *(2024·41회, 2020·37회 직격 출제)*
 
-Incoterms® 규칙은 그 자체로 매매계약이 아니며 결코 매매계약을 대체할 수 없다(no substitute for a contract of sale). 특히 다음 11가지 구체적인 사항들을 다루지 않는다:
+Incoterms® 규칙은 그 자체로 매매계약이 아니며 결코 매매계약을 대체할 수 없다(no substitute for a contract of sale). 특히 다음 12가지 구체적인 사항들을 다루지 않는다:
 
-1. (**매매계약**) 매매계약이 존재하는지 여부 자체 (Whether there is a contract of sale at all)
-2. (**물품명세**) 판매된 물품의 명세(규격 및 사양) (The specifications of the goods sold)
-3. (**대금지급**) 물품 대금지급의 시기, 장소, 방법 또는 통화 (The time, place, method or currency of payment of the price)
-4. (**구제수단**) 매매계약 위반 시 추구할 수 있는 **구제수단** (The remedies which can be sought for breach of the contract of sale)
-5. (**계약위반**) 계약상 의무 이행의 지연 및 기타 위반에 따른 대부분의 결과 (Most consequences of delay and other breaches in the performance of contractual obligations)
-6. (국제제재) 국제적 제재(sanctions)가 미치는 영향 (The effect of sanctions)
-7. (관세) 관세(tariffs)의 부과 (The imposition of tariffs)
-8. (수출입금지) 수출 또는 수입의 금지 조치 (Export or import prohibitions)
-9. (불가항력) 불가항력(force majeure) 또는 하드십(hardship, 이행가혹) (Force majeure or hardship)
-10. (지재권) 지식재산권 (Intellectual property rights)
-11. 계약 위반 시 분쟁 해결을 위한 방법, 재판 관할지(venue) 또는 준거법 (The method, venue, or law of dispute resolution in case of such breach)
-
-> [!IMPORTANT]
-> **가장 중요한 예외: 소유권 이전**
-> 소개문에서 가장 중요하게 강조하고 있는 사항은, Incoterms® 규칙이 **'판매된 물품의 재산권/권리/소유권 이전(Transfer of property/title/ownership of the goods sold)' 문제를 다루지 않는다**는 점이다.
+- <font color="#e36c09">계약 존재 및 이행</font>
+	- (**매매계약**) 매매계약이 존재하는지 여부 자체 (Whether there is a contract of sale at all)
+	- (**대금지급**) 물품 대금지급의 시기, 장소, 방법 또는 통화 (The time, place, method or currency of payment of the price)
+	- (**불가항력**) 불가항력(force majeure) 또는 하드십(hardship, 이행가혹) (Force majeure or hardship)
+- <font color="#e36c09">물품 및 권리</font>
+	- (**물품명세**) 판매된 물품의 명세(규격 및 사양) (The specifications of the goods sold)
+	- (**지재권**) 지식재산권 (Intellectual property rights)
+	- <font color="#ff0000">**(소유권) 가장 중요한 예외: 소유권 이전**</font>
+		- 소개문에서 가장 중요하게 강조하고 있는 사항은, Incoterms® 규칙이 **'판매된 물품의 재산권/권리/소유권 이전(Transfer of property/title/ownership of the goods sold)' 문제를 다루지 않는다**는 점이다.
+- <font color="#e36c09">계약 위반</font>
+	- (**계약위반**) 계약상 의무 이행의 지연 및 기타 위반에 따른 대부분의 결과 (Most consequences of delay and other breaches in the performance of contractual obligations)
+	- (**구제수단**) 매매계약 위반 시 추구할 수 있는 **구제수단** (The remedies which can be sought for breach of the contract of sale)
+	- (**분쟁해결**) 계약 위반 시 분쟁 해결을 위한 방법, 재판 관할지(venue) 또는 준거법 (The method, venue, or law of dispute resolution in case of such breach)
+- <font color="#e36c09">국가 권력</font>
+	- (**국제제재**) 국제적 제재(sanctions)가 미치는 영향 (The effect of sanctions)
+	- (**관세**) 관세(tariffs)의 부과 (The imposition of tariffs)
+	- (**수출입금지**) 수출 또는 수입의 금지 조치 (Export or import prohibitions)
 
 > [!NOTE]
 > **실무적 유의점**
@@ -163,27 +165,33 @@ Incoterms® 규칙은 그 자체로 매매계약이 아니며 결코 매매계�
 
 ---
 
-### 1-3. Incoterms® 2020 주요 변경사항 5가지 (소개문 62) ★★★
+### 1-3. ==Incoterms® 2020== 주요 변경사항 5가지 (소개문 62) ★★★
 *(2023·40회 직격 출제)*
 
-1. **FCA에서 본선적재표시 선하증권(On-board B/L) 허용**
+1. **==FCA에서 본선적재표시 선하증권(On-board B/L) 허용==**
    - 구(2010): FCA 조건에서 본선적재 B/L 발급 불가
    - 신(2020): 매수인이 운송인에게 지시 → 매도인에게 본선적재 B/L 발급 가능 (FCA B6)
 
-2. **CIP와 CIF의 보험담보 수준 이원화**
+1. **==CIP와 CIF의 보험담보 수준 이원화==**
    - CIF: ICC(C) 이상 (종전과 동일)
-   - CIP: **ICC(A) 이상** (담보 수준 상향, 신규 변경)
+   - <u>CIP: **ICC(A) 이상** (담보 수준 상향, 신규 변경)</u>
 
-3. **DAT → DPU로 명칭 변경**
+1. **==DAT → DPU로 명칭 변경==**
    - Delivered at Terminal → **Delivered at Place Unloaded** (양하된 장소)
-   - 적용 범위 확대: 터미널 외 모든 양하 장소에서 인도 가능
+   - 적용 범위 확대: <u>터미널 외 모든 양하 장소에서 인도 가능</u>
 
-4. **FCA·DAP·DPU·DDP에서 자체 운송수단 사용 허용**
+1. ==**FCA·DAP·DPU·DDP에서 자체 운송수단 사용 허용**==
    - 구(2010): 제3자 운송인을 통한 인도만 규정
-   - 신(2020): 당사자 자신의 운송수단으로 인도 가능 명시
+   - 신(2020): <u>당사자 자신의 운송수단으로 인도 가능 명시</u>
 
-5. **보안관련 요건(Security requirements)을 A4·A7에 편입**
+1. ==**보안관련 요건(Security requirements)을 A4·A7에 편입**==
    - 운송 및 통관 의무 조항 내 보안요건 명시적 포함
+	   - **A4 (운송 조항)에 편입된 내용**
+		   - 매도인/매수인이 운송계약 체결 시, 운송인이 **보안 심사를 통과한 화물**만 선적하도록 하는 요건 준수
+		   - 예: 컨테이너 보안 스캔, 적하 사전 신고(Advance Cargo Declaration) 관련 협조 의무
+	   - **A7 (통관 조항)에 편입된 내용**
+		   - 수출·수입 통관 시 단순 관세 신고 외에, **보안 관련 정보·서류 제공** 의무 명시
+		   - 예: AEO(Authorized Economic Operator, 수출입 안전관리 우수업체) 인증 관련 정보 제공, C-TPAT(미국 세관-민간 반테러 협력 프로그램) 요건 충족
 *(근거: Incoterms® 2020 Introduction 62~73)*
 
 ---
@@ -258,8 +266,8 @@ Incoterms® 규칙은 그 자체로 매매계약이 아니며 결코 매매계�
 > **조항 내용**: 매수인은 합의된 경우, 운송인에게 본선적재표시(on-board notation)가 있는 운송서류(예: 유통 가능한 선하증권)를 매도인에게 발급하도록 지시할 것을 요구해야 함
 
 **배경**: 신용장(L/C) 조건 하 FCA 사용 시 발생하는 문제 해결
-- 신용장은 통상 **본선적재 선하증권(On-board B/L)** 요구
-- FCA에서는 매도인이 운송계약 체결 주체가 아니므로 B/L 취득 불가
+- 신용장은 통상 <font color="#ff0000">**본선적재 표시 선하증권(On-board B/L)**</font> 요구
+- <u>FCA에서는 매도인이 운송계약 체결 주체가 아니므로 B/L 취득 불가</u>
 - **해결책(Incoterms 2020 신설)**: 매수인이 운송인에게 지시 → 매도인에게 on-board B/L 발급
 
 **실무 흐름**:
@@ -535,13 +543,13 @@ Incoterms® 규칙은 그 자체로 매매계약이 아니며 결코 매매계�
 | **선적항** | 명시적 규정 없음 | 각 규칙별 명확히 지정 |
 
 **[유사점]**
-1. 물품의 인도(Delivery) 시점을 기준으로 위험이 이전됨
-2. 물품이 특정(Identification)되어야 위험이전이 가능함
-3. 당사자 합의에 의해 변경 가능
+1. <u>물품의 인도(Delivery) 시점을 기준으로 위험이 이전됨</u>
+2. <u>물품이 특정(Identification)되어야 위험이전이 가능함</u>
+3. <u>당사자 합의에 의해 변경 가능</u>
 
 **[차이점]**
-1. CISG는 운송 중 매매(제68조)에 관한 특별규정 존재 → Incoterms® 에는 없음
-2. CISG는 매도인이 본질적 위반을 하더라도 매수인의 구제수단 행사를 보장(제70조) → Incoterms® 에는 없음
+1. <u>CISG는 운송 중 매매(제68조)</u>에 관한 특별규정 존재 → Incoterms® 에는 없음
+2. CISG는 매도인이 본질적 위반을 하더라도<u> 매수인의 구제수단 행사</u>를 보장(제70조) → Incoterms® 에는 없음
 3. Incoterms® 는 구체적 인도 지점·방법을 규칙별로 명확히 지정 → CISG는 추상적 원칙만 규정
 4. CISG는 매매계약의 준거규범 → Incoterms® 는 당사자 합의로 편입되는 임의 규범
 *(근거: [[#CISG Article 66|CISG 제66조]]~제70조 및 Incoterms® 2020 각 규칙별 A3/B3)*
@@ -636,6 +644,56 @@ FCA B/L → CIP 보험UP → DPU 명칭 → 자체운송 → 보안편입
 *파일명: 무역실무_PART2_5_Incoterms2020.md*
 *집필일: 2026. 4. 5. (D-67)*
 *버전: v1.0 — 기출 2013~2025 (제30~42회) 전수 반영*
+
+---
+
+---
+
+---
+
+---
+
+---
+
+---
+
+---
+
+---
+
+---
+
+---
+
+---
+
+---
+
+---
+
+---
+
+---
+
+---
+
+---
+
+---
+
+---
+
+---
+
+---
+
+---
+
+---
+
+---
+
+---
 
 ---
 
