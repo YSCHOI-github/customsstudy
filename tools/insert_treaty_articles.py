@@ -638,6 +638,9 @@ def process_file(md_path: Path) -> None:
                 original = original[:idx].rstrip()
                 break
 
+    # 반복 실행으로 누적된 후행 구분선(---) 일괄 제거
+    original = re.sub(r'(?:\n*---)+\s*$', '', original).rstrip()
+
     # 기존 위키링크 제거 (재처리 지원)
     original = _LINK_CLEANUP_RE.sub(r'\1', original)
     original = _DOMESTIC_LINK_CLEANUP_RE.sub(r'\1', original)
