@@ -115,6 +115,14 @@ TREATY_CONFIGS: dict[str, dict] = {
         "multi_section":   True,
         "section_pattern": re.compile(r"^# Institute Cargo Clauses \(([ABC])\)"),
     },
+    "hague": {
+        "html":            "Hague Rules.html",
+        "json_key":        "헤이그규칙",
+        "article_pattern": re.compile(r"^Article\s+(\d+)\s*$"),
+        "stop_pattern":    re.compile(r"^PROTOCOL OF SIGNATURE", re.IGNORECASE),
+        "roman":           False,
+        "min_content_len": 50,
+    },
 }
 
 
@@ -192,6 +200,35 @@ def extract_bilingual_full_text(pdf_path: Path) -> str:
     full = re.sub(r'[ \t]{2,}', ' ', full)
     full = re.sub(r'\n{3,}', '\n\n', full)
     return full
+
+
+def extract_articles_from_html(html_path: Path, config: dict) -> list[dict]:
+    """HTML 파일에서 조문 추출 (헤이그규칙 등 HTML 소스용)."""
+    html = html_path.read_text(encoding='utf-8')
+
+    for ent, ch in [('&quot;', '"'), ('&amp;', '&'), ('&nbsp;', ' '),
+                    ('&gt;', '>'), ('&lt;', '<')]:
+        html = html.replace(ent, ch)
+
+    html = re.sub(r'</p>', '\n', html, flags=re.IGNORECASE)
+    html = re.sub(r'<br\s*/?>', '\n', html, flags=re.IGNORECASE)
+    html = re.sub(r'<[^>]+>', '', html)
+
+    lines = []
+    for raw_line in html.splitlines():
+        line = re.sub(r'[ \t]+', ' ', raw_line).strip()
+        if line:
+            lines.append(line)
+
+    stop_pat = config.get("stop_pattern")
+    if stop_pat:
+        try:
+            stop_idx = next(i for i, ln in enumerate(lines) if stop_pat.match(ln))
+            lines = lines[:stop_idx]
+        except StopIteration:
+            pass
+
+    return extract_articles(lines, config)
 
 
 def remove_repeated_lines(lines: list[str], threshold: int = 5) -> list[str]:
@@ -346,6 +383,53 @@ def parse_treaty(name: str, dump: bool = False) -> None:
         with open(out_path, 'w', encoding='utf-8') as f:
             json.dump(out_data, f, ensure_ascii=False, indent=2)
         print(f"  저장: {out_path.relative_to(BASE_DIR)}")
+        return
+
+    # ── HTML 소스 분기 ─────────────────────────────────────────────────────────
+    if cfg.get("html"):
+        html_path = PDF_DIR / cfg["html"]
+        if not html_path.exists():
+            print(f"\n[{name}] SKIP: HTML 없음 ({html_path.name})")
+            return
+
+        print(f"\n[{name}] {cfg['html']} (HTML 파일)")
+
+        if dump:
+            import html as _html_mod
+            tmp = html_path.read_text(encoding='utf-8')
+            for ent, ch in [('&quot;', '"'), ('&amp;', '&'), ('&nbsp;', ' '),
+                             ('&gt;', '>'), ('&lt;', '<')]:
+                tmp = tmp.replace(ent, ch)
+            tmp = re.sub(r'</p>', '\n', tmp, flags=re.IGNORECASE)
+            tmp = re.sub(r'<[^>]+>', '', tmp)
+            preview = [re.sub(r'[ \t]+', ' ', ln).strip()
+                       for ln in tmp.splitlines() if ln.strip()][:200]
+            print(f"\n--- 추출 텍스트 (처음 200줄) ---")
+            for i, ln in enumerate(preview, 1):
+                print(f"{i:4d}: {ln}")
+            return
+
+        articles = extract_articles_from_html(html_path, cfg)
+        print(f"  조문 수: {len(articles)}")
+
+        if not articles:
+            print("  [WARN] 조문을 찾지 못했습니다. --dump 로 원문 구조를 확인하세요.")
+            return
+
+        OUT_DIR.mkdir(parents=True, exist_ok=True)
+        out_path = OUT_DIR / f"{name}.json"
+        out_data = {
+            cfg["json_key"]: {
+                "type":        "treaty",
+                "source_html": cfg["html"],
+                "data":        articles,
+            }
+        }
+        with open(out_path, 'w', encoding='utf-8') as f:
+            json.dump(out_data, f, ensure_ascii=False, indent=2)
+        print(f"  저장: {out_path.relative_to(BASE_DIR)}")
+        s = articles[0]
+        print(f"  샘플: [{s['key']}] {s['content'][:70]}...")
         return
 
     # ── TXT 소스 분기 ──────────────────────────────────────────────────────────

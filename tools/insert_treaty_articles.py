@@ -58,6 +58,7 @@ TREATY_REF_PATTERNS: list[tuple[re.Pattern, str]] = [
     (re.compile(r'몬트리올\s*협약\s+제(\d+)조'),         "몬트리올협약"),
     (re.compile(r'MIA(?:\s*1906)?\s+제(\d+)조'),         "MIA 1906"),
     (re.compile(r'함부르크\s*규칙\s+제(\d+)조'),         "함부르크규칙"),
+    (re.compile(r'헤이그\s*규칙\s+제(\d+)조'),          "헤이그규칙"),
     (re.compile(r'URC\s*522\s+제(\d+)조'),              "URC 522"),
     (re.compile(r'ISBP\s*(?:745)?\s+([A-Z]\d+)'),       "ISBP 745"),
     (re.compile(r'ICC\s*A\s+제(\d+)조'),                "ICC A Clauses"),
@@ -76,6 +77,9 @@ MAPPING_HEADER_MAP = {
     "MIA1906":      "MIA 1906",
     "MIA":          "MIA 1906",
     "함부르크규칙": "함부르크규칙",
+    "헤이그규칙":   "헤이그규칙",
+    "헤이그 규칙":  "헤이그규칙",
+    "Hague Rules":  "헤이그규칙",
     "URC 522":      "URC 522",
     "URC522":       "URC 522",
     "ISBP 745":     "ISBP 745",
@@ -88,7 +92,7 @@ MAPPING_HEADER_MAP = {
 # 부록 출력 순서
 TREATY_ORDER = [
     "UCP 600", "CISG", "뉴욕협약", "몬트리올협약",
-    "MIA 1906", "ICC A Clauses", "함부르크규칙", "URC 522", "ISBP 745",
+    "MIA 1906", "ICC A Clauses", "함부르크규칙", "헤이그규칙", "URC 522", "ISBP 745",
 ]
 
 _treaty_articles: dict[str, dict[str, str]] | None = None
@@ -609,7 +613,7 @@ def insert_domestic_links(body: str, needed: dict[str, set[str]]) -> str:
 # ── 메인 처리 ────────────────────────────────────────────────────────────────
 
 _LINK_CLEANUP_RE = re.compile(
-    r'\[\[#[^\|\]]+\|((?:UCP|CISG|뉴욕|몬트리올|MIA|함부르크|URC|ISBP|ICC\s*A)[^\]]*)\]\]'
+    r'\[\[#[^\|\]]+\|((?:UCP|CISG|뉴욕|몬트리올|MIA|함부르크|헤이그|URC|ISBP|ICC\s*A)[^\]]*)\]\]'
 )
 _DOMESTIC_LINK_CLEANUP_RE = re.compile(
     r'\[\[#[^\|\]]+\|((?:관세법|대외무역법|대외무역관리규정|외국환거래법|외국환거래규정)[^\]]*)\]\]'
