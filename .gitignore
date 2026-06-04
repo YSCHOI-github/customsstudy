@@ -5,3 +5,7 @@
 !.claude/skills/
 dist/
 node_modules/
+*.msi
+*.txt
+preview/
+__pycache__/
