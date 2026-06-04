@@ -26,7 +26,18 @@ jobs:
             -o dist/관세평가/index.html
           npx markmap-cli "02_무역실무/50_핵심요약/00_무역실무마인드맵초안.md" \
             -o dist/무역실무/index.html
-          cp dist-static/index.html dist/index.html
+          cat > dist/index.html << 'EOF'
+<!DOCTYPE html>
+<html lang="ko">
+<head><meta charset="UTF-8"><title>관세사 2차 마인드맵</title>
+<style>body{font-family:sans-serif;text-align:center;padding:60px}a{display:inline-block;margin:16px;padding:12px 28px;background:#4a90d9;color:#fff;border-radius:6px;text-decoration:none;font-size:1.1em}a:hover{background:#2d6fba}</style>
+</head>
+<body>
+<h1>관세사 2차 마인드맵</h1>
+<a href="관세평가/">관세평가</a>
+<a href="무역실무/">무역실무</a>
+</body></html>
+EOF
       - name: Deploy to gh-pages
         uses: peaceiris/actions-gh-pages@v3
         with:
