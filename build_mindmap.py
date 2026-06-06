@@ -114,6 +114,10 @@ def convert(source: Path, title: str) -> str:
     normalized = raw.replace("\t", "  ")
     normalized = re.sub(r"^(\s*)\* ", r"\1- ", normalized, flags=re.MULTILINE)
 
+    # 위키링크 제거: [[#target|display]] → display, [[target]] → target
+    normalized = re.sub(r"\[\[[^\]|]*?\|([^\]]*?)\]\]", r"\1", normalized)
+    normalized = re.sub(r"\[\[([^\]]*?)\]\]", r"\1", normalized)
+
     lines = normalized.splitlines()
     units = split_into_units(lines)
 
