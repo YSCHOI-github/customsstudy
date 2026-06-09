@@ -1,4 +1,4 @@
-# CISG vs. Incoterms 2020 — 규율 쟁점 목록
+# 01_03_CISG_Incoterms_비교
 
 ## 🎯 마스터 답안 — CISG vs. Incoterms® 2020 위험이전 비교 (논술형 50점 대비)
 
